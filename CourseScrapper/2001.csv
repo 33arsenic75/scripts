@@ -1,0 +1,969 @@
+,,,,,,Indian Institute of Technology Delhi,,,,,,,,,,
+,,,,,,,,,,,,Date  :,,06/02/2024 6.25 PM,,
+,,,,Courses Offered,,,,,,,,,,,,
+Department    :,,Applied Mechanics,,,,,,,,,,,,,,
+S.No,Course Name,,Slot Name,,Units,,Type,Instructor,Instructor Email,Lecture Time,Tutorial Time,,Practical Time,,Vacancy,Current Strength
+1,MAJOR PROJECT PART-II-AMD812,,P,,0.0-0.0-24.0,,,ARGHYA SAMANTA ,arghya@am.iitd.ac.in,,,,,,1,0
+2,MAJOR PROJECT-AMD895,,P,,0.0-0.0-80.0,,,ARGHYA SAMANTA ,arghya@am.iitd.ac.in,,,,,,60,0
+3,DESIGN PROJECT-AMD899,,X,,0.0-0.0-20.0,,,SHASHANK SHANKAR   ,shashankrv@am.iitd.ac.in,,,,,,40,0
+4,ENGG. MATHEMATICS & MECHANICS-AML701,,F,,3.0-0.0-0.0,,,VAMSI KRISHNA CHALAMALLA ,vchalama@am.iitd.ac.in,TThF 11:00-12:00,,,,,90,0
+5,APPLIED FLUID DYNAMICS-AML713,,J,,3.0-1.0-0.0,,,ANUPAM DEWAN ,adewan@am.iitd.ac.in,MTF 12:00-13:00,,,,,90,0
+6,SOLID MECHANICS-AML732,,C,,3.0-0.0-0.0,,,SOUVIK CHAKRABORTY ,souvik@am.iitd.ac.in,TWF 08:00-09:00,,,,,60,0
+7,DYNAMICS-AML733,,E,,3.0-0.0-0.0,,,SUHAIL  AHMAD ,suhail@am.iitd.ac.in,TWF 10:00-11:00,,,,,60,0
+8,ADVANCED DYNAMICS-AML734,,E,,3.0-1.0-0.0,,,SUHAIL  AHMAD ,suhail@am.iitd.ac.in,TWF 10:00-11:00,MTThF 13:00-14:00,,,,150,0
+9,MATERIALS FOR MARINE VEHICLES-AML751,,X,,3.0-0.0-0.0,,,NITYA NAND GOSVAMI   ,ngosvami@mse.iitd.ac.in,,,,,,60,0
+10,DECISION THEORY & DESIGN OPTIMIZATION-AML771,,H,,3.0-0.0-0.0,,,MALOY KUMAR SINGHA ,maloy@am.iitd.ernet.in,M 11:00-12:00,,,,,50,0
+11,DESIGN METHODS-AML775,,D,,3.0-0.0-0.0,,,YUNUS PATEL ,ypatel@am.iitd.ac.in,TWF 09:00-10:00,,,,,100,0
+Department    :,,Applied Mechanics,,,,,,,,,,
+S.No,Course Name,,Slot Name,Units,Type,Instructor,Instructor Email,Lecture Time,Tutorial Time,Practical Time,Vacancy,Current Strength
+12,SHIP RESISTANCE & PROPULSION-AML791,,X,3.0-0.0-0.0,,SHASHANK SHANKAR   ,shashankrv@am.iitd.ac.in,,,,60,0
+13,WARSHIP DESIGN-AML794,,X,3.0-0.0-0.0,,VENKATA ADITYA ,dvenkat@am.iitd.ac.in,,,,60,0
+14,ADVANCED FINITE ELEMENT METHODS-AML805,,F,3.0-0.0-0.0,,BADRI PRASAD PATEL ,bppatel@am.iitd.ernet.in,TThF 11:00-12:00,,,50,0
+15,APPLICATIONS OF THEORY OF PLATES AND SHELLS-AML832,,D,2.0-0.0-0.0,,PUNEET MAHAJAN   ,mahajan@am.iitd.ac.in,TWF 09:00-10:00,,,40,0
+16,ADVANCES THEORY OF ELASTICITY-AML841,,X,3.0-0.0-0.0,,AJEET KUMAR ,ajeetk@am.iitd.ac.in,,,,40,0
+17,MINI PROJECT-APD310,,X,0.0-0.0-6.0,,SAWAN SUMAN SINHA ,sawan@am.iitd.ac.in,,,,40,0
+18,MAJOR PROJECT PART-I-APD811,,P,0.0-0.0-12.0,,ARGHYA SAMANTA ,arghya@am.iitd.ac.in,,,,600,0
+19,MS RESEARCH PROJECT-APD895,,P,0.0-0.0-72.0,,AMITABH BHATTACHARYA ,bhattach@am.iitd.ac.in,,,,50,0
+20,INTR.TO MATERIAL SC. & ENGG.-APL102,,E,3.0-0.0-2.0,,"NIRAT  RAY , ANKUR GOSWAMI ",nirat@mse.iitd.ac.in,TWF 10:00-11:00,,,400,0
+21,EXPERIMENTAL METHODS-APL103L,,F,3.0-0.0-0.0,,MURALI RAMAN CHOLEMARI ,murali@am.iitd.ac.in,TThF 11:00-12:00,,,150,0
+22,SOLID MECHANICS-APL104,,D,3.0-1.0-0.0,,GAURAV SINGH   ,gsingh@am.iitd.ac.in,TWF 09:00-10:00,MTThF 14:00-15:00,,200,0
+23,SOLID MECHANICS-APL104,,X,3.0-1.0-0.0,,GAURAV SINGH   ,gsingh@am.iitd.ac.in,,,,0,0
+24,FLUID MECHANICS-APL106,,F,3.0-1.0-0.0,,SANJEEV SANGHI   ,sanghi@am.iitd.ac.in,TThF 11:00-12:00,MTThF 13:00-14:00,,150,0
+25,MECHANICS OF FLUIDS-APL107L,,D,3.0-1.0-0.0,,SAWAN SUMAN SINHA ,sawan@am.iitd.ac.in,TWF 09:00-10:00,MTThF 14:00-15:00,,150,0
+Department    :,,Applied Mechanics,,,,,,,,,,
+S.No,Course Name,,Slot Name,Units,Type,Instructor,Instructor Email,Lecture Time,Tutorial Time,Practical Time,Vacancy,Current Strength
+26,MECHANICS OF FLUIDS-APL107L,,X,3.0-1.0-0.0,,SAWAN SUMAN SINHA ,sawan@am.iitd.ac.in,,,,0,0
+27,MECHANICS OF SOLIDS-APL108,,X,3.0-1.0-2.0,,S. PRADYUMNA ,pradyum@am.iitd.ac.in,,,,0,0
+28,MECHANICS OF SOLIDS-APL108L,,F,3.0-1.0-0.0,,S. PRADYUMNA ,pradyum@am.iitd.ac.in,TThF 11:00-12:00,MTThF 13:00-14:00,,150,0
+29,CONTINUUM MECHANICS-APL701,,C,3.0-0.0-0.0,,ARJUN SHARMA ,arjunsharma@am.iitd.ac.in,TWF 08:00-09:00,,,125,0
+30,EXPERIMENTAL METHODS FOR SOLIDS AND FLUIDS-APL702L,,B,2.0-0.0-0.0,,S.V. VEERAVALLI ,svrvalli@am.iitd.ac.in,MTh 09:30-11:00,,,80,0
+31,ENGINEERING MATHEMATIC & COMP.-APL703L,,A,3.0-0.0-0.0,,ARGHYA SAMANTA ,arghya@am.iitd.ac.in,MTh 08:00-09:30,,,100,0
+32,COMPUTER AIDED DESIGN-APL710,,B,3.0-0.0-2.0,,SRIRAM HEGDE ,hegde@cc.iitd.ernet.in,MTh 09:30-11:00,,,40,0
+33,TURBULENCE AND ITS MODELING-APL713,,M,3.0-0.0-0.0,,AMITABH BHATTACHARYA ,bhattach@am.iitd.ac.in,MTh 17:00-18:30,,,40,0
+34,FRACTURE MECHANICS-APL765,,AA,3.0-0.0-0.0,,VIKRANT TIWARI ,tiwariv@am.iitd.ac.in,MTh 14:00-15:30,,,30,0
+35,MAJOR PROJECT (MSR)-BSD895,,P,0.0-0.0-72.0,,SESHAN SRIRANGARAJAN ,seshan@ee.iitd.ac.in,,,,40,0
+36,MAJOR PROJECT PART-I-JTD801,,P,0.0-0.0-12.0,,SESHAN SRIRANGARAJAN ,seshan@ee.iitd.ac.in,,,,30,0
+37,MAJOR PROJECT PART-II-JTD802,,P,0.0-0.0-24.0,,SESHAN SRIRANGARAJAN ,seshan@ee.iitd.ac.in,,,,30,0
+38,MINOR DESIGN PROJECT - I-BBD351,,P,0.0-0.0-2.0,,ASHISH MISRA ,ashishmisra@dbeb.iitd.ac.in,,,,60,0
+39,MAJOR PROJECT PART 1 (BB1)-BBD451,,P,0.0-0.0-6.0,,ISHAAN GUPTA ,ishaan@dbeb.iitd.ac.in,,,,80,0
+40,MAJOR PROJECT PART 1 (BB5)-BBD851,,P,0.0-0.0-12.0,,RITU KULSHRESHTHA   ,ritu@dbeb.iitd.ac.in,,,,60,0
+Department    :,,Biochemical Engineering & Biotechnology,,,,,,,,,,
+S.No,Course Name,,Slot Name,Units,Type,Instructor,Instructor Email,Lecture Time,Tutorial Time,Practical Time,Vacancy,Current Strength
+41,MAJOR PROJECT PART 2 (BB5)-BBD852,,P,0.0-0.0-28.0,,RITU KULSHRESHTHA   ,ritu@dbeb.iitd.ac.in,,,,60,0
+42,MAJOR PROJECT (MSR)-BBD895,,P,0.0-0.0-72.0,,ROHAN JAIN ,rjain@dbeb.iitd.ac.in,,,,50,0
+43,PRINCIPLES OF BIOCHEMISTRY-BBL131L,,D,3.0-0.0-0.0,,PRASHANT MISHRA ,pmishra@dbeb.iitd.ac.in,TWF 09:00-10:00,,,80,0
+44,GENERAL MICROBIOLOGY-BBL132L,,F,3.0-0.0-0.0,,SHILPI SHARMA   ,shilpi@dbeb.iitd.ac.in,TThF 11:00-12:00,,,80,0
+45,MASS & ENERGY BALANCES IN BIO.-BBL133,,H,3.0-0.0-0.0,,SUNIL NATH ,sunath@dbeb.iitd.ac.in,M 11:00-12:00,,,80,0
+46,MOLECULAR BIOLOGY & GENETICS-BBL231,,X,3.0-0.0-3.0,,PREETI SRIVASTAVA ,preeti@dbeb.iitd.ac.in,,,,0,0
+47,MOLECULAR BIOLOGY & GENETICS-BBL231L,,D,3.0-0.0-0.0,,PREETI SRIVASTAVA ,preeti@dbeb.iitd.ac.in,TWF 09:00-10:00,,,80,0
+48,BIOPROCESS ENGINEERING-BBL331,,B,3.0-0.0-0.0,,SHAIKH ZIAUDDIN AHAMMAD   ,zia@dbeb.iitd.ac.in,MTh 09:30-11:00,,,90,0
+49,BIOSEPARATION ENGINEERING-BBL731L,,C,3.0-0.0-0.0,,ROHAN JAIN ,rjain@dbeb.iitd.ac.in,TWF 08:00-09:00,,,100,0
+50,BIOPROCESS PLANT DESIGN-BBL732,,B,3.0-0.0-2.0,,T.R.SREEKRISHNAN   ,sree@dbeb.iitd.ac.in,MTh 09:30-11:00,,,80,0
+51,RECOMBINANT DNA TECHNOLOGY-BBL733,,X,2.0-0.0-3.0,,RITU KULSHRESHTHA   ,ritu@dbeb.iitd.ac.in,,,,0,0
+52,RECOMBINANT DNA TECHNOLOGY-BBL733L,,D,2.0-0.0-0.0,,RITU KULSHRESHTHA   ,ritu@dbeb.iitd.ac.in,TWF 09:00-10:00,,,100,0
+53,METABOLIC REGULATION AND ENGG.-BBL734,,H,3.0-0.0-0.0,,ASHISH MISRA ,ashishmisra@dbeb.iitd.ac.in,M 11:00-12:00,,,80,0
+54,GENOMICS AND PROTEOMICS-BBL735L,,D,2.0-0.0-0.0,,ISHAAN GUPTA ,ishaan@dbeb.iitd.ac.in,TWF 09:00-10:00,,,60,0
+55,INST. & ANA. METH. IN BIOENGG.-BBL737L,,E,2.0-0.0-0.0,,D.SUNDAR   ,sundar@dbeb.iitd.ac.in,TWF 10:00-11:00,,,80,0
+Department    :,,Biochemical Engineering & Biotechnology,,,,,,,,,,
+S.No,Course Name,,Slot Name,Units,Type,Instructor,Instructor Email,Lecture Time,Tutorial Time,Practical Time,Vacancy,Current Strength
+56,PROTEIN SCIENCE & ENGINEERING-BBL741,,H,3.0-0.0-0.0,,SAROJ MISHRA   ,sarojm@dbeb.iitd.ac.in,M 11:00-12:00,,,70,0
+57,PROTEIN SCIENCE & ENGINEERING-BBL741,,X,3.0-0.0-0.0,,SAROJ MISHRA   ,sarojm@dbeb.iitd.ac.in,,,,0,0
+58,OPTICS WITHIN LIFE SICENCES-BBL754,,F,3.0-0.0-0.0,,RAVI KRISHNAN ELANGOVAN   ,elangovan@dbeb.iitd.ac.in,TThF 11:00-12:00,,,60,0
+59,MICROBIAL BIOCHEMISRY-BBL830,,J,3.0-0.0-0.0,,LUCINDA ELIZABETH DOYLE ,lucinda@dbeb.iitd.ac.in,MTF 12:00-13:00,,,40,0
+60,ADVANCED BIOCHEMICALENGINEERING-BBL850L,,B,3.0-0.0-0.0,,KRISHNA MUKHERJEE ,kjmukherjee@dbeb.iitd.ac.in,MTh 09:30-11:00,,,60,0
+61,INTRODUCTION TO BIOCHEM. ENGG.-BBN101,,M,0.0-0.0-2.0,,D.SUNDAR   ,sundar@dbeb.iitd.ac.in,,,,80,0
+62,SEMINAR COURSE - I-BBQ301,,P,0.0-0.0-2.0,,D.SUNDAR   ,sundar@dbeb.iitd.ac.in,,,,30,0
+63,SEMINAR COURSE - II-BBQ302,,P,0.0-0.0-2.0,,LUCINDA ELIZABETH DOYLE ,lucinda@dbeb.iitd.ac.in,,,,30,0
+64,MAJOR PROJECT PART-I-CRD811,,P,0.0-0.0-12.0,,ANKUR GUPTA ,ankurgupta@care.iitd.ac.in,,,,30,0
+65,MAJOR PROJECT PART 2-CRD812,,P,0.0-0.0-24.0,,ANKUR GUPTA ,ankurgupta@care.iitd.ac.in,,,,20,0
+66,BASICS OF STATISTICAL SIGNAL A-CRL601,,E,2.0-0.0-2.0,,PRABHU BABU ,prabhubabu@care.iitd.ac.in,TWF 10:00-11:00,,,60,0
+67,BASICS OF RF AND MICROWAVES-CRL611,,H,2.0-1.0-0.0,,ANANJAN BASU   ,ananjan@care.iitd.ac.in,M 11:00-12:00,W 11:00-12:00,,60,0
+68,FUNDAMENTALS OF SEMICONDUCTOR-CRL621,,B,3.0-0.0-0.0,,PUSHPAPRAJ SINGH ,prsingh@care.iitd.ac.in,MTh 09:30-11:00,,,60,0
+69,HUMAN & MACHINE SPEECH COMMUNICATION-CRL707,,X,3.0-0.0-0.0,,ARUN KUMAR   ,arunkm@care.iitd.ac.in,TWF 10:00-11:00,,,60,0
+70,UNDERWATER ELECTRONIC SYSTEMS-CRL709,,J,3.0-0.0-0.0,,RAJENDAR BAHL ,rbahl@care.iitd.ac.in,MTF 12:00-13:00,,,60,0
+Department    :,,Centre for Applied Research in Electronics,,,,,,,,,,
+S.No,Course Name,,Slot Name,Units,Type,Instructor,Instructor Email,Lecture Time,Tutorial Time,Practical Time,Vacancy,Current Strength
+71,CAD OF RF AND MICROWAVE DEVICES-CRL711,,A,3.0-0.0-2.0,,SHIBAN KISHEN KOUL ,skkoul@care.iitd.ac.in,MTh 08:00-09:30,,,60,0
+72,RADIATING SYSTEM FOR RF COMMUNICATION-CRL715,,H,3.0-0.0-0.0,,MAHESH PANDURANG ABEGAONKAR ,mpjosh@care.iitd.ac.in,M 11:00-12:00,,,60,0
+73,INTRODUCTION TO QUANTUM ELECTRON DEVICES-CRL727,,B,3.0-0.0-0.0,,SAMARESH DAS ,samareshdas@care.iitd.ac.in,MTh 09:30-11:00,,,40,0
+74,SENSORS AND TRANSDUCERS-CRL729,,F,3.0-0.0-0.0,,ANKUR GUPTA ,ankurgupta@care.iitd.ac.in,TThF 11:00-12:00,,,60,0
+75,SELECTED TOPICS IN RFDT-III-CRL733,,X,3.0-0.0-0.0,,MONIKA AGGARWAL ,maggarwal@care.iitd.ernet.in,MTF 12:00-13:00,,,60,0
+76,RF AND MICROWAVE MEASUREMENT LAB.-CRP718,,P,1.0-0.0-6.0,,"PUSHPAPRAJ SINGH , KIRTI DHWAJ , PRABHU BABU ",prsingh@care.iitd.ac.in,,,,40,0
+77,FABRICATION TECHNIQUES FOR RF & MICROWAVE DEVICES-CRP723,,P,1.0-0.0-4.0,,SAMARESH DAS ,samareshdas@care.iitd.ac.in,,,,60,0
+78,PROJECT-I-ASD881,,AC,0.0-0.0-12.0,,RAVI KUMAR KUNCHALA   ,rkkunchala@cas.iitd.ac.in,,,,12,0
+79,"CLIMATE CHANGE: IMPACTS, ADAPTATION & MITIGATION-ASL320",,J,3.0-0.0-2.0,,KRISHNA MIRLE ACHUTARAO   ,akrishna@cas.iitd.ac.in,MTF 12:00-13:00,,,50,0
+80,INTRODUCTION TOOCEANOGRAPHY-ASL350,,F,3.0-0.0-0.0,,VIMLESH PANT ,vimlesh@cas.iitd.ac.in,TThF 11:00-12:00,,,50,0
+81,CLIMATE MODELING-ASL380,,M,3.0-0.0-0.0,,SAROJ KANTA MISHRA ,skm@cas.iitd.ac.in,MTh 17:00-18:30,,,50,0
+82,"INTRODUCTION TO WEATHER, CLIMA-ASL730",,AB,1.0-0.0-0.0,,SOMNATH BAIDYA ROY   ,drsbr@cas.iitd.ac.in,MTh 15:30-17:00,,,20,0
+83,MATHEMATICAL AND COMPUTATIONAL-ASL732,,H,2.0-0.0-2.0,,MAITHILI SHARAN   ,mathilis@cas.iitd.ac.in,M 11:00-12:00,,,20,0
+84,PHYSICS OF THE ATMOSPHERE-ASL733,,E,3.0-0.0-0.0,,MANJU MOHAN   ,mmanju@cas.iitd.ac.in,TWF 10:00-11:00,,,40,0
+Department    :,,Centre for Atmospheric Sci.,,,,,,,,,,
+S.No,Course Name,,Slot Name,Units,Type,Instructor,Instructor Email,Lecture Time,Tutorial Time,Practical Time,Vacancy,Current Strength
+85,DYNAMICS OF THE ATMOSPHERE-ASL734,,A,3.0-0.0-0.0,,SANDEEP  SUKUMARAN ,san81@cas.iitd.ac.in,MTh 08:00-09:30,,,50,0
+86,ATMOSPHERIC CHEMISTRY AND AIR-ASL735,,D,3.0-0.0-0.0,,RAVI KUMAR KUNCHALA   ,rkkunchala@cas.iitd.ac.in,TWF 09:00-10:00,,,40,0
+87,CLOUD PHYSICS-ASL754,,B,3.0-0.0-0.0,,DILIP GANGULY ,dilipganguly@cas.iitd.ac.in,MTh 09:30-11:00,,,50,0
+88,REMOTE SENSING OF THE ATMOSPHERE AND OCEAN-ASL755,,F,3.0-0.0-0.0,,SAGNIK DEY ,sagnik@cas.iitd.ac.in,TThF 11:00-12:00,,,50,0
+89,EARTH SYSTEM MODELING-ASL761,,K,3.0-0.0-0.0,,SARVESH KUMAR DUBEY ,skdubey@cas.iitd.ac.in,"W 12:00-13:00 ,TF 17:00-18:00",,,20,0
+90,AIR-SEA INTERACTION-ASL762,,J,3.0-0.0-0.0,,AMBARUKHANA DEVENDRA RAO ,adrao@cas.iitd.ac.in,MTF 12:00-13:00,,,30,0
+91,DATA ANALYSIS METHODS FOR ATMO-ASP731,,AD,0.0-0.0-4.0,,SOMNATH BAIDYA ROY   ,drsbr@cas.iitd.ac.in,,,,20,0
+92,MAJOR PROJECT-I-BMD801,,P,0.0-0.0-18.0,,JAYANTA BHATTACHARYYA ,jayanta@cbme.iitd.ac.in,,,,8,0
+93,INDUSTRIAL BIOMATERIAL TECHNOLOGY-BML710,,AC,3.0-0.0-0.0,,NEETU SINGH   ,sneetu@cbme.iitd.ac.in,TF 14:00-15:30,,,50,0
+94,MEDICAL IMAGING-BML720,,AD,3.0-0.0-0.0,,AMIT MEHNDIRATTA   ,amehndiratta@cbme.iitd.ac.in,TF 15:30-17:00,,,50,0
+95,FUNDAMENTALS OF BIOMECHANICS-BML770,,J,3.0-0.0-0.0,,DINESH KALYANASUNDARAM ,dineshk@cbme.iitd.ac.in,MTF 12:00-13:00,,,50,0
+96,RESEARCH TECHNIQUES IN BIOMEDICAL ENGINEERING-BML800,,E,3.0-0.0-0.0,,"DEEPAK JOSHI , BISWARUP MUKHERJEE ",joshid@cbme.iitd.ac.in,TWF 10:00-11:00,,,50,0
+97,TISSUE ENGINEERING-BML810,,H,3.0-0.0-0.0,,NEETU SINGH   ,sneetu@cbme.iitd.ac.in,M 11:00-12:00,,,50,0
+98,SELECTED TOPICS IN BIOMEDICAL ENGINEERING-BML815,,X,2.0-0.0-0.0,,ARNAB CHANDA ,arnabchanda@cbme.iitd.ac.in,,,,30,0
+Department    :,,Centre for Bio-Med. Engg.,,,,,,,,,,
+S.No,Course Name,,Slot Name,Units,Type,Instructor,Instructor Email,Lecture Time,Tutorial Time,Practical Time,Vacancy,Current Strength
+99,BIOSENSOR TECHNOLOGY-BML830,,F,3.0-0.0-2.0,,SANDEEP KUMAR JHA ,sandeepjha@cbme.iitd.ac.in,TThF 11:00-12:00,,,20,0
+100,CANCER : DIAGNOSIS AND THERAPY-BML850,,B,3.0-0.0-0.0,,JAYANTA BHATTACHARYYA ,jayanta@cbme.iitd.ac.in,MTh 09:30-11:00,,,30,0
+101,BASIC ELECTRONICS-BMV701,,A,1.0-0.0-0.0,,DEEPAK JOSHI ,joshid@cbme.iitd.ac.in,MTh 08:00-09:30,,,15,0
+102,BASIC BIOLOGY & PHYSIOLOGY-BMV703,,C,1.0-0.0-0.0,,JAYANTA BHATTACHARYYA ,jayanta@cbme.iitd.ac.in,TWF 08:00-09:00,,,15,0
+103,FUNDAMENTALS OF NEUROMECHANICS-BMV704,,X,1.0-0.0-0.0,,BISWARUP MUKHERJEE ,bmukherjee@cbme.iitd.ac.in,,,,50,0
+104,MECHANICS OF BIOMATERIALS-BMV705,,D,1.0-0.0-0.0,,DINESH KALYANASUNDARAM ,dineshk@cbme.iitd.ac.in,TWF 09:00-10:00,,,15,0
+105,MINOR PROJECT-RDD750,,X,0.0-0.0-6.0,,JATINDRA KUMAR SAHU ,jksahu@rdat.iitd.ac.in,,,,10,0
+106,BIOMAS PRODUCTION-RDL700,,J,3.0-0.0-0.0,,"SATYAWATI SHARMA   , HARIPRASAD P. ",ssharma@rdat.iitd.ac.in,MTF 12:00-13:00,,,60,0
+107,RURAL INDUSTRIALISATION POLICES PROGRAMMES & CASE-RDL701,,E,3.0-0.0-0.0,,PRIYANKA  KAUSHAL ,priyankak@rdat.iitd.ac.in,TWF 10:00-11:00,,,50,0
+108,RURAL RESOURCES AND LIVEIHODS-RDL705,,M,3.0-0.0-0.0,,"S.N.NAIK   , HARIPRASAD P. ",snn@rdat.iitd.ac.in,MTh 17:00-18:30,,,50,0
+109,RURAL INDIA AND PLANNING FOR DEVELOPMENT-RDL710,,AA,3.0-0.0-0.0,,AJAY SAINI ,ajaysaini@rdat.iitd.ac.in,MTh 14:00-15:30,,,40,0
+110,RURAL ENERGY SYSTEMS-RDL722,,F,3.0-0.0-0.0,,"VIRENDRA KUMAR VIJAY   , RAM CHANDRA ",vkvijay@rdat.iitd.ac.in,TThF 11:00-12:00,,,100,0
+111,ECOLOGICAL PERSPECTIVE OF GROWTH AND DEVLOPMENT-RDL725,,J,3.0-0.0-0.0,,VIVEK   KUMAR ,vivekk@rdat.iitd.ac.in,MTF 12:00-13:00,,,50,0
+112,CONSERVATION AND RECYCLING PRACTICES IN RURAL AREAS-RDL727L,,J,3.0-0.0-0.0,,RAM CHANDRA ,rchandra@rdat.iitd.ac.in,MTF 12:00-13:00,,,50,0
+Department    :,,Centre for Rural Dev. & Tech.,,,,,,,,,,
+S.No,Course Name,,Slot Name,Units,Type,Instructor,Instructor Email,Lecture Time,Tutorial Time,Practical Time,Vacancy,Current Strength
+113,TECHNOLOGY ALTERNATIVES  FOR RURAL DEVELOPMENT-RDL730,,AA,3.0-0.0-0.0,,VIJAYARAGHAVAN M. CHARIAR ,chariarv@rdat.iitd.ac.in,MTh 14:00-15:30,,,25,0
+114,TECHNOLOGY OF UTILIZATION OF WASTELANDS & WEEDS-RDL740,,B,3.0-0.0-0.0,,ANUSHREE MALIK   ,anushree@rdat.iitd.ac.in,MTh 09:30-11:00,,,60,0
+115,VALUE CHAIN IN AGRO-FOOD PROCESSING-RDL761L,,K,2.0-0.0-0.0,,JATINDRA KUMAR SAHU ,jksahu@rdat.iitd.ac.in,"W 12:00-13:00 ,TF 17:00-18:00",,,40,0
+116,RURAL VALUE CHAIN FOR HOLISTIC DEVELOPMENT-RDL770L,,E,2.0-0.0-0.0,,KAVYA DASHORA ,kdashora@rdat.iitd.ac.in,TWF 10:00-11:00,,,50,0
+117,SEMINAR COURSE - II-RDQ302,,X,0.0-0.0-2.0,,"VIVEK   KUMAR , POOJA GHOSH ",vivekk@rdat.iitd.ac.in,,,,30,0
+118,SEMINAR COURSE - III-RDQ303,,X,0.0-0.0-2.0,,S.N.NAIK   ,snn@rdat.iitd.ac.in,,,,30,0
+119,SEMINAR COURSE-IV-RDQ304,,X,0.0-0.0-2.0,,RAM CHANDRA ,rchandra@rdat.iitd.ac.in,,,,30,0
+120,SEMINAR COURSE-V-RDQ305,,X,0.0-0.0-2.0,,KAVYA DASHORA ,kdashora@rdat.iitd.ac.in,,,,30,0
+121,COLLOQUIUM (CH)-CHC410,,P,0.0-3.0-0.0,,MOHAMMAD ALI HAIDER ,haider@chemical.iitd.ac.in,,,,20,0
+122,MINOR PROJECT-CHD771,,P,0.0-0.0-8.0,,JAYATI SARKAR ,jayati@chemical.iitd.ac.in,,,,60,0
+123,MAJOR PROJECT PART 1 (CM)-CHD871,,P,0.0-0.0-12.0,,JAYATI SARKAR ,jayati@chemical.iitd.ac.in,,,,60,0
+124,MAJOR PROJECT PART II (CM)-CHD872,,P,0.0-0.0-28.0,,JAYATI SARKAR ,jayati@chemical.iitd.ac.in,,,,60,0
+125,MAJOR PROJECT PART 1 (CM)-CHD873,,P,0.0-0.0-8.0,,JAYATI SARKAR ,jayati@chemical.iitd.ac.in,,,,60,0
+126,MAJOR PROJECT PART 2 (CM)-CHD874,,P,0.0-0.0-32.0,,JAYATI SARKAR ,jayati@chemical.iitd.ac.in,,,,60,0
+Department    :,,Chemical Engineering,,,,,,,,,,
+S.No,Course Name,,Slot Name,Units,Type,Instructor,Instructor Email,Lecture Time,Tutorial Time,Practical Time,Vacancy,Current Strength
+127,B. TECH. PROJECT-CLD411,,P,0.0-0.0-8.0,,JYOTI PHIRANI ,jphirani@chemical.iitd.ac.in,,,,120,0
+128,MAJOR PROJECT IN ENERGY & ENV.-CLD412,,P,0.0-0.0-10.0,,JYOTI PHIRANI ,jphirani@chemical.iitd.ac.in,,,,120,0
+129,MAJOR PROJECT IN COMPLEX FLUID-CLD413,,P,0.0-0.0-10.0,,JYOTI PHIRANI ,jphirani@chemical.iitd.ac.in,,,,120,0
+130,"MAJOR PROJ. IN P.E, MOD. & OP.-CLD414",,P,0.0-0.0-10.0,,JYOTI PHIRANI ,jphirani@chemical.iitd.ac.in,,,,120,0
+131,MAJOR PROJ IN BIOP. & FINE CH.-CLD415,,P,0.0-0.0-10.0,,JYOTI PHIRANI ,jphirani@chemical.iitd.ac.in,,,,120,0
+132,MINOR PROJECT-CLD771,,P,0.0-0.0-6.0,,JAYATI SARKAR ,jayati@chemical.iitd.ac.in,,,,60,0
+133,MAJOR PROJECT - I-CLD781,,P,0.0-0.0-16.0,,JAYATI SARKAR ,jayati@chemical.iitd.ac.in,,,,60,0
+134,MAJOR PROJECT - II-CLD782,,P,0.0-0.0-24.0,,JAYATI SARKAR ,jayati@chemical.iitd.ac.in,,,,60,0
+135,MINOR PROJECT-CLD880,,P,0.0-0.0-8.0,,JAYATI SARKAR ,jayati@chemical.iitd.ac.in,,,,60,0
+136,MAJOR PROJECT PARTI-CLD881,,P,0.0-0.0-16.0,,JAYATI SARKAR ,jayati@chemical.iitd.ac.in,,,,60,0
+137,MAJOR PROJECT PARTII-CLD882,,P,0.0-0.0-24.0,,JAYATI SARKAR ,jayati@chemical.iitd.ac.in,,,,60,0
+138,M.S.R. MAJOR PROJECT-CLD895,,P,0.0-0.0-72.0,,JAYATI SARKAR ,jayati@chemical.iitd.ac.in,,,,60,0
+139,TRANSPORT PHENOMENA-CLL110,,B,3.0-1.0-0.0,,S.K. GUPTA   ,sgupta@chemical.iitd.ac.in,MTh 09:30-11:00,,,210,0
+140,MATERIAL AND ENERGY BALANCE-CLL111,,F,2.0-2.0-0.0,,ANIL KUMAR SAROHA   ,aksaroha@chemical.iitd.ac.in,TThF 11:00-12:00,MTThF 13:00-14:00,,133,0
+141,NUMERICAL METHODS IN CHEMICAL-CLL113,,E,3.0-0.0-2.0,,JAYATI SARKAR ,jayati@chemical.iitd.ac.in,TWF 10:00-11:00,,,210,0
+Department    :,,Chemical Engineering,,,,,,,,,,
+S.No,Course Name,,Slot Name,Units,Type,Instructor,Instructor Email,Lecture Time,Tutorial Time,Practical Time,Vacancy,Current Strength
+142,INTRODUCTION TO MATERIALS-CLL141,,A,3.0-0.0-0.0,,ANUPAM SHUKLA ,anupam@chemical.iitd.ernet.in,MTh 08:00-09:30,,,130,0
+143,CHEMICAL REACTION ENGG - II-CLL222,,B,3.0-0.0-0.0,,SHANTANU ROY ,roys@chemical.iitd.ac.in,MTh 09:30-11:00,,,150,0
+144,MASS TRANSFER I-CLL252,,F,3.0-0.0-0.0,,A.N. BHASKARWAR ,ashoknb@chemical.iitd.ac.in,TThF 11:00-12:00,,,155,0
+145,PROCESS DYNAMICS AND CONTROL-CLL261,,E,3.0-1.0-0.0,,HARIPRASAD  KODAMANA ,kodamana@chemical.iitd.ac.in,TWF 10:00-11:00,MTThF 13:00-14:00,,175,0
+146,FLUID PARTICLE MECHANICS-CLL331,,D,3.0-1.0-0.0,,VIKRAM SINGH ,vs225@chemical.iitd.ac.in,TWF 09:00-10:00,MTThF 14:00-15:00,,150,0
+147,MODELLING OF TRANSPORT PROCESS-CLL701,,C,2.0-0.0-0.0,,PARESH PRAVINCHANDRA CHOKSHI ,paresh@chemical.iitd.ac.in,TWF 08:00-09:00,,,100,0
+148,"PRINCIPLES OF THERMODYNAMICS,-CLL702",,A,2.0-0.0-0.0,,"VIVEK VITTHAL BUWA   , SUDIP KUMAR PATTANAYEK ",vvbuwa@chemical.iitd.ac.in,MTh 08:00-09:30,,,100,0
+149,PROCESS ENGINEERING-CLL703,,H,3.0-0.0-0.0,,RATAN MOHAN ,ratan@chemical.iitd.ac.in,M 11:00-12:00,,,100,0
+150,PETROLEUM RESERVOIR ENGG.-CLL705,,D,3.0-0.0-0.0,,JYOTI PHIRANI ,jphirani@chemical.iitd.ac.in,TWF 09:00-10:00,,,50,0
+151,HYDROGEN EN. & FUEL CELL TECH.-CLL723,,B,3.0-0.0-0.0,,ANIL VERMA   ,anilverma@chemical.iitd.ac.in,MTh 09:30-11:00,,,48,0
+152,AIR POLLUTION CONTROL ENGG.-CLL725,,D,3.0-0.0-0.0,,DIVESH BHATIA ,dbhatia@chemical.iitd.ac.in,TWF 09:00-10:00,,,48,0
+153,MOLECULAR MODELING OF CAT. RE.-CLL726,,AA,3.0-0.0-0.0,,MOHAMMAD ALI HAIDER ,haider@chemical.iitd.ac.in,MTh 14:00-15:30,,,50,0
+154,BIOMASS CONVERSION AND UTILIZA-CLL728,,E,3.0-0.0-0.0,,KAMAL KISHORE PANT   ,kkpant@chemical.iitd.ac.in,TWF 10:00-11:00,,,50,0
+155,EXP. CHA.OF BIOMACROMOLECULES-CLL742,,B,3.0-0.0-0.0,,"SUDIP KUMAR PATTANAYEK , GAURAV GOEL ",sudip@chemical.iitd.ac.in,MTh 09:30-11:00,,,50,0
+Department    :,,Chemical Engineering,,,,,,,,,,
+S.No,Course Name,,Slot Name,Units,Type,Instructor,Instructor Email,Lecture Time,Tutorial Time,Practical Time,Vacancy,Current Strength
+156,CRYSTAL GROWTH AND ENGINEERING-CLL760,,J,3.0-0.0-0.0,,MANJESH KUMAR ,manjeshkumar@chemical.iitd.ac.in,MTF 12:00-13:00,,,48,0
+157,APP. OF COMP. FLUID DYNAMICS-CLL769,,D,2.0-0.0-2.0,,VIVEK VITTHAL BUWA   ,vvbuwa@chemical.iitd.ac.in,TWF 09:00-10:00,,,50,0
+158,INTRODUCTION TO COMPLEX FLUIDS-CLL771,,J,3.0-0.0-0.0,,SHALINI GUPTA ,shalinig@chemical.iitd.ac.in,MTF 12:00-13:00,,,50,0
+159,COMPLEX FLUIDS TECHNOLOGY-CLL777,,F,3.0-0.0-0.0,,RAJESH KHANNA   ,rajkh@chemical.iitd.ac.in,TThF 11:00-12:00,,,48,0
+160,BIOPROCESSING & BIOSEPARATIONS-CLL780,,B,3.0-0.0-0.0,,ANURAG SINGH RATHORE ,arathore@chemical.iitd.ac.in,MTh 09:30-11:00,,,50,0
+161,ADVANCED PROCESS CONTROL-CLL783,,E,3.0-0.0-0.0,,MANOJKUMAR CHARANDAS RAMTEKE   ,mcramteke@chemical.iitd.ac.in,TWF 10:00-11:00,,,48,0
+162,PETROLEUM REFINERY ENGINEERING-CLL794,,F,3.0-0.0-0.0,,SREEDEVI UPADHYAYULA   ,sreedevi@chemical.iitd.ac.in,TThF 11:00-12:00,,,48,0
+163,SEL. TOPICS IN CHEM. ENGG.- II-CLL799,,F,3.0-0.0-0.0,,MOHAN KUMAR SINGH VERMA ,mksverma@chemical.iitd.ac.in,TThF 11:00-12:00,,,50,0
+164,INTRODUCTION TO CHEMICAL ENGG.-CLN101,,P,0.0-0.0-2.0,,"MANOJKUMAR CHARANDAS RAMTEKE   , SOMNATH GHOSH , MOHAN KUMAR SINGH VERMA ",mcramteke@chemical.iitd.ac.in,,,,150,0
+165,SEMINAR COURSE - I-CLQ301,,P,0.0-0.0-2.0,,MOHAMMAD ALI HAIDER ,haider@chemical.iitd.ac.in,,,,35,0
+166,SEMINAR COURSE - II-CLQ302,,P,0.0-0.0-2.0,,SHALINI GUPTA ,shalinig@chemical.iitd.ac.in,,,,35,0
+167,CURRENT TOPICS IN CHEMICAL EN.-CLV796,,K,1.0-0.0-0.0,,KAMAL KISHORE PANT   ,kkpant@chemical.iitd.ac.in,"W 12:00-13:00 ,TF 17:00-18:00",,,50,0
+168,PROJECT PART I-CMD631,,X,0.0-0.0-12.0,,SAYANTAN  PARIA ,sparia@chemistry.iitd.ac.in,,,,100,0
+Department    :,,Chemistry,,,,,,,,,,
+S.No,Course Name,,Slot Name,Units,Type,Instructor,Instructor Email,Lecture Time,Tutorial Time,Practical Time,Vacancy,Current Strength
+169,MINOR PROJECT-CMD799,,P,0.0-0.0-6.0,,GHOLAP SHIVAJIRAO LAHU ,slgholap@chemistry.iitd.ac.in,,,,100,0
+170,MAJOR  PROJECT PART - I-CMD806,,P,0.0-0.0-18.0,,GHOLAP SHIVAJIRAO LAHU ,slgholap@chemistry.iitd.ac.in,,,,100,0
+171,CHEMICAL SYNT. OF FUNC. METER.-CML102,,H,3.0-0.0-0.0,,ARUNACHALAM RAMANAN   ,aramanan@chemistry.iitd.ac.in,M 11:00-12:00,,,60,0
+172,CHEMISTRY OF INTERFACES-CML103,,H,3.0-0.0-0.0,,"KUNTAL MANNA , SHASHANK DEEP ",kmanna@chemistry.iitd.ac.in,M 11:00-12:00,,,150,0
+173,QUANTUM CHEMISTRY-CML511,,D,3.0-0.0-0.0,,PRAMIT KUMAR CHOWDHURY ,pramitc@chemistry.iitd.ac.in,TWF 09:00-10:00,,,100,0
+174,STEREOCHEM. & ORG. REAC. MECH.-CML512,,F,3.0-0.0-0.0,,JANAKIRAM VAITLA ,vaitla@chemistry.iitd.ac.in,TThF 11:00-12:00,,,100,0
+175,PHOTOCHEM. & PERICYCLIC REACT.-CML513,,C,3.0-0.0-0.0,,V.HARIDAS ,haridasv@chemistry.iitd.ernet.in,TWF 08:00-09:00,,,100,0
+176,MAIN GROUP CHEMISTRY-CML514,,A,3.0-0.0-0.0,,SUBRATA KUNDU ,subrata@chemistry.iitd.ac.in,MTh 08:00-09:30,,,100,0
+177,INSTRUMENTAL METHODS OF ANALYS-CML515,,E,3.0-0.0-0.0,,SOUMIK SIDDHANTA ,soumik@chemistry.iitd.ac.in,TWF 10:00-11:00,,,100,0
+178,MOLECULAR BIOCHEMISTRY-CML631,,F,3.0-0.0-0.0,,TANMAY DUTTA ,dtanmay@chemistry.iitd.ac.in,TThF 11:00-12:00,,,100,0
+179,STA. MECH. & MOL. SIM. METHODS-CML662,,D,3.0-0.0-0.0,,RAMAKRISHNA  RAMASWAMY ,ramaswamy@chemistry.iitd.ac.in,TWF 09:00-10:00,,,100,0
+180,SELECTED TOPICS IN SPECTROSCOPY-CML663,,C,3.0-0.0-0.0,,NARAYANAN D.KURUR   ,nkurur@chemistry.iitd.ac.in,TWF 08:00-09:00,,,100,0
+181,GROUP THEORY & SPECTROSCOPY-CML664,,J,3.0-0.0-0.0,,SAMEER SAPRA ,sapra@chemistry.iitd.ac.in,MTF 12:00-13:00,,,100,0
+182,PH. METHODS OF STRUCTURALDET. OF ORGANIC COMPOUNDS-CML674,,E,3.0-0.0-0.0,,SUDIPTA  RAHA ROY ,srr@chemistry.iitd.ac.in,TWF 10:00-11:00,,,100,0
+Department    :,,Chemistry,,,,,,,,,,
+S.No,Course Name,,Slot Name,Units,Type,Instructor,Instructor Email,Lecture Time,Tutorial Time,Practical Time,Vacancy,Current Strength
+183,PHYSICAL METHODS IN INORGANIC CHEMISTRY-CML681,,B,3.0-0.0-0.0,,RAVI SHANKAR   ,shankar@chemistry.iitd.ac.in,MTh 09:30-11:00,,,100,0
+184,BIO-INORGANIC CHEMISTRY-CML684,,A,3.0-0.0-0.0,,BISWARUP CHAKRABORTY ,cbiswarup@chemistry.iitd.ac.in,MTh 08:00-09:30,,,100,0
+185,DESIGN AND SYNTHESIS-CML721,,E,3.0-0.0-0.0,,"GHOLAP SHIVAJIRAO LAHU , NIDHI JAIN   ",slgholap@chemistry.iitd.ac.in,TWF 10:00-11:00,,,100,0
+186,CHEMINFORMATICS-CML726,,F,3.0-0.0-0.0,,HEMANT KUMAR KASHYAP   ,hkashyap@chemistry.iitd.ac.in,TThF 11:00-12:00,,,100,0
+187,SEPARATION AND ELECTROANALYTIC-CML731,,D,3.0-0.0-0.0,,JAI DEO SINGH ,jaideo@chemistry.iitd.ac.in,TWF 09:00-10:00,,,100,0
+188,CHEMISTRY OF INDUSTRIAL CATALY-CML733,,K,3.0-0.0-0.0,,RAVI P. SINGH   ,ravips@chemistry.iitd.ac.in,"W 12:00-13:00 ,TF 17:00-18:00",,,100,0
+189,CHEMISTRY OF NANOSTRUCTURED  M-CML734,,B,3.0-0.0-0.0,,PRAVIN POPINAND INGOLE ,ppingole@chemistry.iitd.ac.in,MTh 09:30-11:00,,,100,0
+190,ORGANO AND ORGANOMETALLIC CATA-CML741,,A,3.0-0.0-0.0,,MUNTHA RAMU YADAV ,ramuyadav@chemistry.iitd.ac.in,MTh 08:00-09:30,,,100,0
+191,REAGENTS IN SYNTHETIC TRANSFOR-CML742,,H,3.0-0.0-0.0,,N.G.RAMESH ,ramesh@chemistry.iitd.ac.in,M 11:00-12:00,,,100,0
+192,INTRODUCTION TO CHEMISTRY-CYL100,,C,3.0-0.0-0.0,,"SAYANTAN  PARIA , CHINMOY KUMAR HAZRA , NARAYANAN D.KURUR   ",sparia@chemistry.iitd.ac.in,TWF 08:00-09:00,,,600,0
+193,SEMINAR IN CONSTRUCTION TECH-CVC771,,R,0.0-0.0-2.0,,KUMAR NEERAJ JHA ,knjha@civil.iitd.ac.in,,,,30,0
+194,BTECH PROJECT PART 1-CVD411,,R,0.0-0.0-8.0,,ARUN KUMAR ,arunku@civil.iitd.ac.in,,,,120,0
+195,BTECH PROJECT PART 2-CVD412,,R,0.0-0.0-12.0,,ARUN KUMAR ,arunku@civil.iitd.ac.in,,,,30,0
+196,MINOR PROJECT-CVD700,,P,0.0-0.0-6.0,,PRASHANTH VANGLA ,pvangla05@civil.iitd.ac.in,,,,30,0
+Department    :,,Civil Engineering,,,,,,,,,,
+S.No,Course Name,,Slot Name,Units,Type,Instructor,Instructor Email,Lecture Time,Tutorial Time,Practical Time,Vacancy,Current Strength
+197,MINOR PROJECT-CVD710,,P,0.0-0.0-6.0,,R. AYOTHIRAMAN   ,araman@civil.iitd.ac.in,,,,5,0
+198,MAJOR THESIS PART-I-CVD720,,M,0.0-0.0-12.0,,GAZALA HABIB ,gazala@civil.iitd.ac.in,,,,24,0
+199,MAJOR THESIS PART-II-CVD721,,M,0.0-0.0-24.0,,GAZALA HABIB ,gazala@civil.iitd.ac.in,,,,25,0
+200,MINOR PROJECT-CVD726,,P,0.0-0.0-6.0,,ARUN KUMAR ,arunku@civil.iitd.ac.in,,,,0,0
+201,MAJOR PROJECT PART-I (CES)-CVD757,,P,0.0-0.0-18.0,,ARNAB BANERJEE ,abanerjee@civil.iitd.ac.in,,,,40,0
+202,MAJOR PROJECT PART-I (CEC)-CVD772,,P,0.0-0.0-18.0,,KUMAR NEERAJ JHA ,knjha@civil.iitd.ac.in,,,,30,0
+203,MAJOR PROJECT PART-I (CET)-CVD777,,P,0.0-0.0-18.0,,J. UMA MAHESWARI ,umapaul@civil.iitd.ac.in,,,,30,0
+204,MAJOR PROJECT PART-I-CVD800,,P,0.0-0.0-12.0,,PRASHANTH VANGLA ,pvangla05@civil.iitd.ac.in,,,,25,0
+205,MAJOR PROJECT PART-I-CVD810,,P,0.0-0.0-12.0,,R. AYOTHIRAMAN   ,araman@civil.iitd.ac.in,,,,25,0
+206,MAJOR PROJECT PART-I-CVD831,,P,0.0-0.0-12.0,,BHAGU RAM CHAHAR ,chahar@civil.iitd.ac.in,,,,25,0
+207,MAJOR PROJECT PART-I-CVD853,,P,0.0-0.0-18.0,,NEZAMUDDIN ,nezam@civil.iitd.ac.in,,,,25,0
+208,MAJOR PROJECT PART-II-CVD854,,P,0.0-0.0-24.0,,NEZAMUDDIN ,nezam@civil.iitd.ac.in,,,,10,0
+209,ENVIRONMENTAL SCIENCE-CVL100,,C,2.0-0.0-0.0,,GAZALA HABIB ,gazala@civil.iitd.ac.in,TWF 08:00-09:00,,,0,0
+210,ELEMENTS OF SURVEYING-CVL111L,,C,3.0-0.0-0.0,,SRI HARSHA KOTA   ,harshakota@civil.iitd.ac.in,TWF 08:00-09:00,,,120,0
+211,ENGINEERING GEOLOGY-CVL121,,B,3.0-0.0-0.0,,K.S. RAO   ,raoks@civil.iitd.ac.in,MTh 09:30-11:00,,,120,0
+Department    :,,Civil Engineering,,,,,,,,,,
+S.No,Course Name,,Slot Name,Units,Type,Instructor,Instructor Email,Lecture Time,Tutorial Time,Practical Time,Vacancy,Current Strength
+212,CIVIL ENGINEERING MATERIALS-CVL141,,H,3.0-0.0-0.0,,SHASHANK BISHNOI   ,bishnoi@civil.iitd.ac.in,M 11:00-12:00,,,120,0
+213,RC DESIGN-CVL243,,D,3.0-0.0-0.0,,SAHIL BANSAL ,sahil@civil.iitd.ac.in,TWF 09:00-10:00,,,120,0
+214,CONSTRUCTION MANAGEMENT-CVL245,,H,2.0-0.0-0.0,,B.BHATTACHARJEE  ,bishwa@civil.iitd.ac.in,M 11:00-12:00,,,120,0
+215,ENGINEERING HYDROLOGY-CVL282,,E,3.0-0.0-2.0,,MANABENDRA SAHARIA ,msaharia@civil.iitd.ac.in,TWF 10:00-11:00,,,120,0
+216,FUNDA. OF GEO. INFO. SYSTEMS-CVL284,,D,2.0-0.0-2.0,,A.K. GOSAIN ,gosain@civil.iitd.ac.in,TWF 09:00-10:00,,,30,0
+217,GEOTECHNICAL ENGINEERING-CVL321,,F,3.0-1.0-0.0,,"JAGDISH TELANGRAO SHAHU , BAPPADITYA MANNA   ",shahu@civil.iitd.ernet.in,TThF 11:00-12:00,MTThF 13:00-14:00,,120,0
+218,STRUCTURAL ANALYSIS II-CVL341,,B,3.0-0.0-0.0,,DIPTI RANJAN SAHOO   ,drsahoo@civil.iitd.ac.in,MTh 09:30-11:00,,,120,0
+219,CONSTRUCTION PROJECT  MGMT.-CVL344,,C,3.0-0.0-0.0,,ARNAB BANERJEE ,abanerjee@civil.iitd.ac.in,TWF 08:00-09:00,,,30,0
+220,GROUND ENGINEERING-CVL421,,E,3.0-0.0-0.0,,PRASHANTH VANGLA ,pvangla05@civil.iitd.ac.in,TWF 10:00-11:00,,,50,0
+221,SOIL DYNAMICS-CVL423,,J,3.0-0.0-0.0,,"BAPPADITYA MANNA   , R. AYOTHIRAMAN   ",bmanna@civil.iitd.ac.in,MTF 12:00-13:00,,,50,0
+222,STRUCTURAL DESIGN-CVL441,,H,3.0-0.0-0.0,,ALOK MADAN ,madan@civil.iitd.ac.in,M 11:00-12:00,,,50,0
+223,RIVER MECHANICS-CVL485,,F,2.0-0.0-2.0,,DEO RAJ KAUSHAL ,kaushal@civil.iitd.ac.in,TThF 11:00-12:00,,,25,0
+224,ENGINEERING BEHAVIOUR OF SOILS-CVL700,,B,3.0-0.0-0.0,,VENKATA RAMANA GUNTURI   ,ramana@civil.iitd.ac.in,MTh 09:30-11:00,,,30,0
+225,SITE INVESTIGATION AND FOUNDAT-CVL701,,H,3.0-0.0-0.0,,MANOJ DATTA   ,mdatta@civil.iitd.ac.in,M 11:00-12:00,,,30,0
+226,FINITE ELEMENT METHOD IN GEOTE-CVL704,,E,3.0-0.0-0.0,,TANUSREE CHAKRABORTY   ,tanusree@civil.iitd.ac.in,TWF 10:00-11:00,,,60,0
+Department    :,,Civil Engineering,,,,,,,,,,
+S.No,Course Name,,Slot Name,Units,Type,Instructor,Instructor Email,Lecture Time,Tutorial Time,Practical Time,Vacancy,Current Strength
+227,ENGINEERING PROPERTIES OF ROCK-CVL710,,A,3.0-0.0-0.0,,K.S. RAO   ,raoks@civil.iitd.ac.in,MTh 08:00-09:30,,,30,0
+228,STRUCTURAL GEOLOGY-CVL711,,D,3.0-0.0-0.0,,TANUSREE CHAKRABORTY   ,tanusree@civil.iitd.ac.in,TWF 09:00-10:00,,,30,0
+229,ENVIRONMENTAL ROCK ENGINEERING-CVL716,,B,3.0-0.0-0.0,,R. AYOTHIRAMAN   ,araman@civil.iitd.ac.in,MTh 09:30-11:00,,,30,0
+230,AIR POLLUTION AND CONTROL-CVL720,,A,3.0-0.0-0.0,,MUKESH KHARE   ,mukeshk@civil.iitd.ac.in,MTh 08:00-09:30,,,30,0
+231,WATER ENGINEERING-CVL722,,D,3.0-0.0-0.0,,ARUN KUMAR ,arunku@civil.iitd.ac.in,TWF 09:00-10:00,,,30,0
+232,ENVIRONMENTAL CHEMISTRY AND MI-CVL725L,,AC,1.0-0.0-0.0,,ARYA V ,aryav@civil.iitd.ac.in,TF 14:00-15:30,,,25,0
+233,ENVIROMENTAL RISK ASSESMENT-CVL727,,E,2.0-1.0-0.0,,ARUN KUMAR ,arunku@civil.iitd.ac.in,TWF 10:00-11:00,MTThF 13:00-14:00,,40,0
+234,HYDROLOGIC PROCESSES AND MODEL-CVL730,,A,3.0-0.0-0.0,,RAKESH KHOSA   ,rkhosa@civil.iitd.ac.in,MTh 08:00-09:30,,,30,0
+235,OPTIMIZATION TECH. IN WATER RE-CVL731,,B,3.0-0.0-0.0,,A.K.KESHARI ,akeshari@civil.iitd.ac.in,MTh 09:30-11:00,,,30,0
+236,GROUNDWATER HYDROLOGY-CVL732,,E,3.0-0.0-0.0,,BHAGU RAM CHAHAR ,chahar@civil.iitd.ac.in,TWF 10:00-11:00,,,30,0
+237,FINITE ELEMENT IN WATER RESOU.-CVL735,,J,3.0-0.0-0.0,,N.K. GARG   ,nkgarg@civil.iitd.ac.in,MTF 12:00-13:00,,,60,0
+238,ECONOMIC ASPECTS OF WA. RE. DE-CVL738,,AB,3.0-0.0-0.0,,SUMEDHA CHAKMA   ,chakma@civil.iitd.ac.in,MTF 12:00-13:00,,,30,0
+239,PAVEMENT MATERIALS AND DESIGN-CVL740L,,M,3.0-0.0-0.0,,ARAVIND KRISHNA SWAMY ,akswamy@civil.iitd.ac.in,MTh 17:00-18:30,,,40,0
+240,URBAN AND REGIONAL TRANSPORTAT-CVL741L,,A,3.0-0.0-0.0,,GEETAM TIWARI   ,geetamt@tripp.iitd.ac.in,MTh 08:00-09:30,,,40,0
+241,TRAFFIC ENGINEERING-CVL742L,,B,3.0-0.0-0.0,,RAMACHANDRA RAO KALAGA   ,rrkalaga@civil.iitd.ac.in,MTh 09:30-11:00,,,40,0
+Department    :,,Civil Engineering,,,,,,,,,,
+S.No,Course Name,,Slot Name,Units,Type,Instructor,Instructor Email,Lecture Time,Tutorial Time,Practical Time,Vacancy,Current Strength
+242,TRANSPORTATION SAFETY AND ENVIRONMENT-CVL747,,K,3.0-0.0-0.0,,NEZAMUDDIN ,nezam@civil.iitd.ac.in,"W 12:00-13:00 ,TF 17:00-18:00",,,30,0
+243,DATA ANALYSIS FOR TRANSPORTATION ENGINEERING-CVL748,,AA,3.0-0.0-0.0,,MANOJ M   ,manojm@civil.iitd.ac.in,MTh 14:00-15:30,,,40,0
+244,INTELLIGENT TRANSPORTATION SYSTEMS-CVL750,,AB,3.0-0.0-0.0,,NEZAMUDDIN ,nezam@civil.iitd.ac.in,MTh 15:30-17:00,,,40,0
+245,ADVANCED STRUCTURAL ANALYSIS-CVL756,,H,3.0-0.0-0.0,,SURESH BHALLA ,sbhalla@civil.iitd.ac.in,M 11:00-12:00,,,30,0
+246,FINITE ELEMENT METHODS IN STR-CVL757,,A,2.0-0.0-2.0,,ANOOP KRISHNAN NADUVATH  MANA ,krishnan@civil.iitd.ac.in,MTh 08:00-09:30,,,50,0
+247,SOLID MECHANICS IN STRUCTURAL-CVL758,,J,3.0-0.0-0.0,,GURMAIL S. BENIPAL ,gurmail@civil.iitd.ac.in,MTF 12:00-13:00,,,30,0
+248,STRUCTURAL DYNAMICS-CVL759,,D,3.0-0.0-0.0,,ARNAB BANERJEE ,abanerjee@civil.iitd.ac.in,TWF 09:00-10:00,,,50,0
+249,BLAST RESISTANT DESIGN OF ST.-CVL764,,C,2.0-0.0-2.0,,VASANT A. MATSAGAR   ,matsagar@civil.iitd.ac.in,TWF 08:00-09:00,,,30,0
+250,CONCRETE MECHANICS-CVL765,,F,3.0-0.0-0.0,,SHASHANK BISHNOI   ,bishnoi@civil.iitd.ac.in,TThF 11:00-12:00,,,30,0
+251,DESIGN OF BRIDGE STRUCTURES-CVL766,,B,3.0-0.0-0.0,,SUPRATIC GUPTA ,supratic@civil.iitd.ernet.in,MTh 09:30-11:00,,,30,0
+252,ADVANCED CONCRETE TECHNOLOGY-CVL771,,C,3.0-0.0-0.0,,SUPRATIC GUPTA ,supratic@civil.iitd.ernet.in,TWF 08:00-09:00,,,60,0
+253,CONSTRUCTION PROJECT MANAGEMEN-CVL772,,E,3.0-0.0-0.0,,J. UMA MAHESWARI ,umapaul@civil.iitd.ac.in,TWF 10:00-11:00,,,70,0
+254,QUANTITATIVE METHODS IN CONSTR-CVL773,,B,3.0-0.0-0.0,,K. CHANDRASHEKHAR IYER ,kciyer@civil.iitd.ac.in,MTh 09:30-11:00,,,70,0
+255,BUILDING SCIENCE-CVL777,,D,3.0-0.0-0.0,,B.BHATTACHARJEE  ,bishwa@civil.iitd.ac.in,TWF 09:00-10:00,,,40,0
+Department    :,,Civil Engineering,,,,,,,,,,
+S.No,Course Name,,Slot Name,Units,Type,Instructor,Instructor Email,Lecture Time,Tutorial Time,Practical Time,Vacancy,Current Strength
+256,FORMWORK FOR CONCRETE STRUCTU-CVL779,,A,3.0-0.0-0.0,,KUMAR NEERAJ JHA ,knjha@civil.iitd.ac.in,MTh 08:00-09:30,,,40,0
+257,CONSTITUTIVE MODELLING INGEOTECHNICS-CVL801,,D,3.0-0.0-0.0,,JAGDISH TELANGRAO SHAHU ,shahu@civil.iitd.ernet.in,TWF 09:00-10:00,,,30,0
+258,ENVIRONMENTAL IMPACT ASSESSMENT-CVL820,,B,3.0-0.0-0.0,,ARVIND KUMAR NEMA   ,aknema@civil.iitd.ac.in,MTh 09:30-11:00,,,55,0
+259,SURFACE WATER QUALITY MODELING-CVL831,,F,3.0-0.0-0.0,,SHASHI MATHUR ,smathur@civil.iitd.ac.in,TThF 11:00-12:00,,,30,0
+260,HYDROELECTRIC ENGINEERING-CVL832,,D,3.0-0.0-0.0,,RAKESH KHOSA   ,rkhosa@civil.iitd.ac.in,TWF 09:00-10:00,,,30,0
+261,STRUCTURAL SAFETY AND RELIABILITY-CVL857,,F,3.0-0.0-0.0,,SAHIL BANSAL ,sahil@civil.iitd.ac.in,TThF 11:00-12:00,,,30,0
+262,INFRASTRUCTURE DEVELOPMENT AND-CVL872,,M,3.0-0.0-0.0,,K. CHANDRASHEKHAR IYER ,kciyer@civil.iitd.ac.in,MTh 17:00-18:30,,,60,0
+263,QUALITY AND SAFETY IN CONSTRUC-CVL874,,F,3.0-0.0-0.0,,J. UMA MAHESWARI ,umapaul@civil.iitd.ac.in,TThF 11:00-12:00,,,30,0
+264,INTRODUCTION TO CIVIL ENGG.-CVN101,,P,0.0-0.0-2.0,,A.K.KESHARI ,akeshari@civil.iitd.ac.in,,,,120,0
+265,ENGINEERING GEOLOGY LABORATORY-CVP121,,S1,0.0-0.0-2.0,,BAPPADITYA MANNA   ,bmanna@civil.iitd.ac.in,,,,0,0
+266,STRUCT. & MAT. (CONCRETE) LAB-CVP243,,S2,0.0-0.0-3.0,,SAHIL BANSAL ,sahil@civil.iitd.ac.in,,,,0,0
+267,STRUCTURES & MATERIAL LAB-CVP342,,S1,0.0-0.0-2.0,,SAHIL BANSAL ,sahil@civil.iitd.ac.in,,,,0,0
+268,ADVANCED TOPICS IN TRANSPORTATION ENGINEERING-CVS852,,P,0.0-0.0-6.0,,NEZAMUDDIN ,nezam@civil.iitd.ac.in,,,,1,0
+269,MINI PROJECT-COD310,,P,0.0-0.0-6.0,,SRIKANTA  BEDATHUR  JAGANNATH  ,srikanta@cse.iitd.ac.in,,,,120,0
+270,B.TECH PROJECT PART 1-COD492,,P,0.0-0.0-12.0,,CHETAN ARORA   ,chetan@cse.iitd.ac.in,,,,120,0
+Department    :,,Computer Science & Engineering,,,,,,,,,,
+S.No,Course Name,,Slot Name,Units,Type,Instructor,Instructor Email,Lecture Time,Tutorial Time,Practical Time,Vacancy,Current Strength
+271,B.TECH PROJECT PART 1-COD492,,X,0.0-0.0-12.0,,SUBODH KUMAR ,subodh@cse.iitd.ac.in,,,,0,0
+272,B.TECH PROJECT PART 2-COD494,,P,0.0-0.0-16.0,,CHETAN ARORA   ,chetan@cse.iitd.ac.in,,,,120,0
+273,MINOR PROJECT-COD891,,P,0.0-0.0-6.0,,SMRUTI RANJAN SARANGI   ,srsarangi@cse.iitd.ac.in,,,,120,0
+274,M.TECH PROJECT PARTI-COD892,,P,0.0-0.0-14.0,,SMRUTI RANJAN SARANGI   ,srsarangi@cse.iitd.ac.in,,,,120,0
+275,M.TECH PROJECT PARTII-COD893,,P,0.0-0.0-28.0,,SMRUTI RANJAN SARANGI   ,srsarangi@cse.iitd.ac.in,,,,120,0
+276,MSR PROJECT-COD895,,P,0.0-0.0-72.0,,SRIKANTA  BEDATHUR  JAGANNATH  ,srikanta@cse.iitd.ac.in,,,,60,0
+277,INTRO. TO COMPUTER SCIENCE-COL100,,B,3.0-0.0-2.0,,"HUZUR SARAN   , RAHUL NARAIN ",saran@cse.iitd.ac.in,MTh 09:30-11:00,,,600,0
+278,DATA STRUCTURES AND ALGORITHMS-COL106,,F,3.0-0.0-4.0,,"RAHUL GARG   , RIJUREKHA SEN ",rahulgarg@cse.iitd.ac.in,TThF 11:00-12:00,,,405,0
+279,DISCRETE MATHEMATICAL STRUCTUR-COL202,,B,3.0-1.0-0.0,,AMITABHA BAGCHI ,bagchi@cse.iitd.ac.in,MTh 09:30-11:00,,,137,0
+280,DIGITAL LOGIC & SYSTEM DESIGN-COL215L,,E,3.0-0.0-0.0,,ANSHUL KUMAR  ,anshul@cse.iitd.ac.in,TWF 10:00-11:00,,,150,0
+281,DIGITAL LOGIC & SYSTEM DESIGN-COL215L,,X,3.0-0.0-0.0,,ANSHUL KUMAR  ,anshul@cse.iitd.ac.in,,,,0,0
+282,PRINCIPLES OF ARTIFICIAL INT.-COL333,,F,3.0-0.0-2.0,,ROHAN PAUL ,rohan@cse.iitd.ac.in,TThF 11:00-12:00,,,120,0
+283,COMPUTER NETWORKS-COL334,,D,3.0-0.0-2.0,,AADITESHWAR SETH ,aseth@cse.iitd.ac.in,TWF 09:00-10:00,,,130,0
+284,ANALYSIS & DESIGN OF ALGORITHMS-COL351,,E,3.0-1.0-0.0,,RAGESH JAISWAL ,ragesh@cse.iitd.ac.in,TWF 10:00-11:00,MTThF 13:00-14:00,,140,0
+285,ARTIFICIAL INTELLIGENCE-COL671,,F,3.0-0.0-2.0,,ROHAN PAUL ,rohan@cse.iitd.ac.in,TThF 11:00-12:00,,,5,0
+Department    :,,Computer Science & Engineering,,,,,,,,,,
+S.No,Course Name,,Slot Name,Units,Type,Instructor,Instructor Email,Lecture Time,Tutorial Time,Practical Time,Vacancy,Current Strength
+286,COMPUTER NETWORKS-COL672,,D,3.0-0.0-2.0,,AADITESHWAR SETH ,aseth@cse.iitd.ac.in,TWF 09:00-10:00,,,120,0
+287,ADVANCED DATA STRUCTURES-COL702,,A,3.0-0.0-2.0,,ASHISH CHIPLUNKAR ,ashishc@cse.iitd.ac.in,MTh 08:00-09:30,,,120,0
+288,LOGIC FOR COMPUTER SCIENCE-COL703,,B,3.0-0.0-2.0,,S.ARUN-KUMAR ,sak@cse.iitd.ac.in,MTh 09:30-11:00,,,120,0
+289,ARCH. OF HIGH PERF. COMPUTERS-COL718,,D,3.0-0.0-2.0,,SMRUTI RANJAN SARANGI   ,srsarangi@cse.iitd.ac.in,TWF 09:00-10:00,,,120,0
+290,COMPILER DESIGN-COL728,,C,3.0-0.0-3.0,,SORAV BANSAL ,sbansal@cse.iitd.ac.in,TWF 08:00-09:00,,,75,0
+291,PARALLEL PROGRAMMING-COL730,,AB,3.0-0.0-2.0,,SUBODH KUMAR ,subodh@cse.iitd.ac.in,MTh 15:30-17:00,,,75,0
+292,ALGORITHMIC GRAPH THEORY-COL751,,A,3.0-0.0-0.0,,NAVEEN GARG   ,naveen@cse.iitd.ac.in,MTh 08:00-09:30,,,75,0
+293,CRYPTOGRAPHY & COMPUTER SEC.-COL759,,D,3.0-0.0-0.0,,ASHOK KUMAR BHATEJA ,akbhateja@cse.iitd.ac.in,TWF 09:00-10:00,,,50,0
+294,DATA MINING-COL761,,AD,3.0-0.0-2.0,,SAYAN RANU ,sayanranu@cse.iitd.ac.in,TF 15:30-17:00,,,80,0
+295,INFORMATION RETRIEVAL AND WEB SEARCH-COL764,,AA,3.0-0.0-2.0,,SRIKANTA  BEDATHUR  JAGANNATH  ,srikanta@cse.iitd.ac.in,MTh 14:00-15:30,,,100,0
+296,INTRO. TO LOGIC & FUNCT. PROG.-COL765,,B,3.0-0.0-2.0,,SANJIVA PRASAD   ,sanjiva@cse.iitd.ac.in,MTh 09:30-11:00,,,75,0
+297,NATURAL LANGUAGE PROCESSING-COL772,,AC,3.0-0.0-2.0,,MAUSAM   ,mausam@cse.iitd.ac.in,TF 14:00-15:30,,,6,0
+298,MACHINE LEARNING-COL774,,C,3.0-0.0-2.0,,PARAG SINGLA   ,parags@cse.iitd.ac.in,TWF 08:00-09:00,,,90,0
+299,COMPUTER VISION-COL780,,J,3.0-0.0-2.0,,CHETAN ARORA   ,chetan@cse.iitd.ac.in,MTF 12:00-13:00,,,75,0
+300,ADV. TOPICS IN EMBEDDED COMP.-COL788,,H,3.0-0.0-0.0,,KOLIN PAUL   ,kolin@cse.iitd.ac.in,M 11:00-12:00,,,75,0
+Department    :,,Computer Science & Engineering,,,,,,,,,,
+S.No,Course Name,,Slot Name,Units,Type,Instructor,Instructor Email,Lecture Time,Tutorial Time,Practical Time,Vacancy,Current Strength
+301,SPL TOPICS IN HARDWARE SYSTEMS-COL861,,B,3.0-0.0-0.0,,PREETI RANJAN PANDA   ,panda@cse.iitd.ac.in,MTh 09:30-11:00,,,75,0
+302,SPL TOPICS IN SOFTWARE SYSTEMS-COL862,,AB,3.0-0.0-0.0,,SOHAM SUNDAR CHAKRABORTY ,soham@cse.iitd.ac.in,MTh 15:30-17:00,,,75,0
+303,SPL. TOPICS IN THEO. COMP. SC.-COL863,,AA,3.0-0.0-0.0,,AMIT KUMAR ,amitk@cse.iitd.ernet.in,MTh 14:00-15:30,,,75,0
+304,SPECIAL TOPICS IN COMPUTER AP.-COL865,,AD,3.0-0.0-0.0,,"SUBHASHIS BANERJEE , SUBODH VISHNU SHARMA   ",suban@cse.iitd.ac.in,TF 15:30-17:00,,,75,0
+305,SPL. TOPICS IN HIGH SPEED NET.-COL867,,M,3.0-0.0-0.0,,SANJIVA PRASAD   ,sanjiva@cse.iitd.ac.in,MTh 17:00-18:30,,,50,0
+306,SPL. TOPICS IN DATABASE SYST.-COL868,,H,3.0-0.0-0.0,,MAYA RAMANATH ,ramanath@cse.iitd.ac.in,M 11:00-12:00,,,100,0
+307,INTRODUCTION TO COMP.SC. & ENG-CON101,,X,0.0-0.0-2.0,,AADITESHWAR SETH ,aseth@cse.iitd.ac.in,,,,120,0
+308,TEACHING PRACTICUM IN COMPUTER SCIENCE AND ENGINEERING-CON800,,X,0.0-0.0-8.0,,CHETAN ARORA   ,chetan@cse.iitd.ac.in,,,,200,0
+309,RESEARCH PRACTICUM IN COMPUTER SCIENCE AND ENGINEERING-CON801,,X,1.0-0.0-8.0,,SANJIVA PRASAD   ,sanjiva@cse.iitd.ac.in,,,,100,0
+310,SOFTWARE SYSTEMS LABORATORY-COP701,,P,0.0-0.0-6.0,,KOLIN PAUL   ,kolin@cse.iitd.ac.in,,,,120,0
+311,INDEPENDENT STUDY (CS)-COS310,,P,0.0-3.0-0.0,,SRIKANTA  BEDATHUR  JAGANNATH  ,srikanta@cse.iitd.ac.in,,,,30,0
+312,INDEPENDENT STUDY-COS799,,P,0.0-3.0-0.0,,SMRUTI RANJAN SARANGI   ,srsarangi@cse.iitd.ac.in,,,,30,0
+313,SPECIAL MODULE IN SOFTWARE SY.-COV882,,H,1.0-0.0-0.0,,SUBODH VISHNU SHARMA   ,svs@cse.iitd.ac.in,M 11:00-12:00,,,50,0
+314,DESIGN PROJECT -2-DDD891,,P,0.0-0.0-12.0,,SUBIR DEY ,subir@design.iitd.ac.in,,,,25,0
+Department    :,,Design,,,,,,,,,,
+S.No,Course Name,,Slot Name,Units,Type,Instructor,Instructor Email,Lecture Time,Tutorial Time,Practical Time,Vacancy,Current Strength
+315,INDUSTRY/ RESEARCH DESIGN PRO.-DDD892,,P,0.0-0.0-18.0,,JAY DHARIWAL ,jay@design.iitd.ac.in,,,,5,0
+316,FRAMEWORK OF DESIGN-DDL710,,A,2.0-0.0-0.0,,SUMER SINGH   ,sumer@design.iitd.ac.in,MTh 08:00-09:30,,,25,0
+317,FORM AND AESTHETICS-DDL751L,,AC,1.0-0.0-1.0,,SABYASACHI PALDAS ,spaldas@design.iitd.ac.in,TF 14:00-15:30,,,40,0
+318,SPECIAL TOPICS IN DESIGN 1-DDL810,,P,3.0-0.0-0.0,,JAY DHARIWAL ,jay@design.iitd.ac.in,,,,20,0
+319,DESIGN AND INNOVATION METHODS-DDP721,,AA,1.0-0.0-4.0,,SRINIVASAN  VENKATARAMAN ,srinivasanv@design.iitd.ac.in,MTh 14:00-15:30,,,40,0
+320,APPLIED ERGONOMICS-DDP722,,AB,1.0-0.0-2.0,,"SRINIVASAN  VENKATARAMAN , GOURAB KAR ",srinivasanv@design.iitd.ac.in,MTh 15:30-17:00,,,30,0
+321,COMMUNI. & PRESENTATION SKILLS-DDP731,,B,1.0-0.0-4.0,,SUBIR DEY ,subir@design.iitd.ac.in,MTh 09:30-11:00,,,40,0
+322,SOCIAL IMMERSION-DDR761,,P,0.0-0.0-2.0,,P.V.MADHUSUDHAN RAO   ,pvmrao@design.iitd.ac.in,,,,25,0
+323,MEDIA STUDIES-DDR812,,J,2.0-0.0-2.0,,CHARU MONGA ,charum@design.iitd.ac.in,MTF 12:00-13:00,,,40,0
+324,DESIGN FOR USER EXPERIENCE-DDR832,,E,3.0-0.0-0.0,,JYOTI KUMAR   ,jyoti@design.iitd.ac.in,TWF 10:00-11:00,,,40,0
+325,STRATEGIC DESIGN MANAGEMENT-DDR852,,M,2.0-0.0-2.0,,SUMER SINGH   ,sumer@design.iitd.ac.in,MTh 17:00-18:30,,,25,0
+326,DESIGN IN INDIAN CONTEXT-DDR862,,F,3.0-0.0-0.0,,JYOTI KUMAR   ,jyoti@design.iitd.ac.in,TThF 11:00-12:00,,,40,0
+327,SPECIAL MODULES IN DESIGN-DDV820,,P,1.0-0.0-0.0,,P.V.MADHUSUDHAN RAO   ,pvmrao@design.iitd.ac.in,,,,40,0
+328,DOCTORAL THESIS-DTD899,,P,0.0-0.0-0.0,,PARDEEP KUMAR GUPTA   ,pardeep@cc.iitd.ac.in,,,,5000,0
+329,B.TECH. PROJECT - I-ELD411,,P,0.0-0.0-6.0,,BHASKAR MITRA ,bmitra@ee.iitd.ac.in,,,,140,0
+Department    :,,Electrical Engineering,,,,,,,,,,
+S.No,Course Name,,Slot Name,Units,Type,Instructor,Instructor Email,Lecture Time,Tutorial Time,Practical Time,Vacancy,Current Strength
+330,B.TECH. PROJECT - I-ELD431,,P,0.0-0.0-6.0,,BHASKAR MITRA ,bmitra@ee.iitd.ac.in,,,,50,0
+331,MAJOR PROJECT PART I-ELD801,,P,0.0-0.0-12.0,,SUBASHISH DATTA    ,subashish@ee.iitd.ac.in,,,,50,0
+332,MAJOR PROJECT PART II-ELD802,,P,0.0-0.0-24.0,,SUBASHISH DATTA    ,subashish@ee.iitd.ac.in,,,,50,0
+333,MAJOR PROJECT PART-I (COMMUNIC-ELD811,,P,0.0-0.0-12.0,,LALAN KUMAR   ,lalank@ee.iitd.ac.in,,,,50,0
+334,MAJOR PROJECT PART-II-ELD812,,P,0.0-0.0-24.0,,LALAN KUMAR   ,lalank@ee.iitd.ac.in,,,,50,0
+335,MAJOR PROJECT PART-I (INTEGRAT-ELD831,,P,0.0-0.0-12.0,,MADHUSUDAN SINGH ,msingh@ee.iitd.ac.in,,,,50,0
+336,MAJOR PROJECT PART-II-ELD832,,P,0.0-0.0-24.0,,MADHUSUDAN SINGH ,msingh@ee.iitd.ac.in,,,,50,0
+337,MAJOR PROJECT PART-I-ELD851,,P,0.0-0.0-12.0,,AMIT KUMAR JAIN ,amitjain@ee.iitd.ac.in,,,,50,0
+338,MAJOR PROJECT PART-II-ELD852,,P,0.0-0.0-24.0,,AMIT KUMAR JAIN ,amitjain@ee.iitd.ac.in,,,,50,0
+339,MAJOR PROJECT PART-I-ELD871,,P,0.0-0.0-12.0,,NILANJAN SENROY ,nsenroy@ee.iitd.ac.in,,,,50,0
+340,MAJOR PROJECT PART-II-ELD872,,P,0.0-0.0-24.0,,NILANJAN SENROY ,nsenroy@ee.iitd.ac.in,,,,50,0
+341,MAJOR PROJECT PART-I-ELD880,,P,0.0-0.0-12.0,,SUMANTRA DUTTA ROY ,sumantra@ee.iitd.ac.in,,,,50,0
+342,MAJOR PROJECT PART II-ELD881,,P,0.0-0.0-24.0,,SUMANTRA DUTTA ROY ,sumantra@ee.iitd.ac.in,,,,50,0
+343,MS RESEARCH PROJECT-ELD895,,P,0.0-0.0-72.0,,ABHISEK DIXIT ,adixit@ee.iitd.ac.in,,,,50,0
+344,INTRO. TO ELECTRICAL ENGG.-ELL100L,,E,3.0-0.0-0.0,,"MANAV BHATNAGAR , DEBANJAN BHOWMIK , ",manav@ee.iitd.ac.in,TWF 10:00-11:00,,,500,0
+Department    :,,Electrical Engineering,,,,,,,,,,
+S.No,Course Name,,Slot Name,Units,Type,Instructor,Instructor Email,Lecture Time,Tutorial Time,Practical Time,Vacancy,Current Strength
+,,,,,,"SUBASHISH DATTA    , HARSHAN JAGADEESH ",,,,,,
+345,DIGITAL ELECTRONICS-ELL201L,,A,3.0-0.0-0.0,,MANAN SURI   ,manansuri@ee.iitd.ac.in,MTh 08:00-09:30,,,100,0
+346,CIRCUIT THEORY-ELL202,,B,3.0-1.0-0.0,,SHOURIBRATA CHATTERJEE   ,shouri@ee.iitd.ac.in,MTh 09:30-11:00,,,165,0
+347,ELECTROMECHANICS-ELL203,,E,3.0-1.0-0.0,,SUMIT KUMAR PRAMANICK ,spramanick@ee.iitd.ac.in,TWF 10:00-11:00,MTThF 13:00-14:00,,170,0
+348,ELECTROMECHANICS-ELL203,,X,3.0-1.0-0.0,,SUMIT KUMAR PRAMANICK ,spramanick@ee.iitd.ac.in,,,,0,0
+349,SIGNALS AND SYSTEMS-ELL205,,D,3.0-1.0-0.0,,"SAIF KHAN MOHAMMED , SESHAN SRIRANGARAJAN ",saifkm@ee.iitd.ac.in,TWF 09:00-10:00,MTThF 14:00-15:00,,250,0
+350,SIGNALS AND SYSTEMS-ELL205,,D1,3.0-1.0-0.0,,SAIF KHAN MOHAMMED ,saifkm@ee.iitd.ac.in,TWF 09:00-10:00,MTThF 14:00-15:00,,125,0
+351,SIGNALS AND SYSTEMS-ELL205,,D2,3.0-1.0-0.0,,SESHAN SRIRANGARAJAN ,seshan@ee.iitd.ac.in,TWF 09:00-10:00,MTThF 14:00-15:00,,125,0
+352,PHYSICAL ELECTRONICS-ELL211,,A,3.0-0.0-0.0,,BHASKAR MITRA ,bmitra@ee.iitd.ac.in,MTh 08:00-09:30,,,100,0
+353,POWER ELECTRONICS-ELL302,,B,3.0-0.0-0.0,,SOUMYA  SHUBHRA NAG ,ssnag@ee.iitd.ac.in,MTh 09:30-11:00,,,160,0
+354,ANALOG ELECTRONIC CIRCUITS-ELL304,,F,3.0-1.0-3.0,,RAKESH KUMAR PALANI ,rakesh@ee.iitd.ac.in,TThF 11:00-12:00,MTThF 13:00-14:00,,160,0
+355,COMPUTER ARCHITECTURE-ELL305,,E,3.0-0.0-0.0,,"TAPAN KUMAR GANDHI , SUMANTRA DUTTA ROY , SUBRAT KAR   ",tgandhi@ee.iitd.ac.in,TWF 10:00-11:00,,,300,0
+356,COMMUNICATION ENGINEERING-ELL311,,D,3.0-1.0-0.0,,S.D. JOSHI   ,sdjoshi@ee.iitd.ac.in,TWF 09:00-10:00,MTThF 14:00-15:00,,160,0
+357,INTRO. TO ANALOG INT. CIRCUITS-ELL315,,D,3.0-0.0-0.0,,MUKUL SARKAR ,msarkar@ee.iitd.ac.in,TWF 09:00-10:00,,,100,0
+Department    :,,Electrical Engineering,,,,,,,,,,
+S.No,Course Name,,Slot Name,Units,Type,Instructor,Instructor Email,Lecture Time,Tutorial Time,Practical Time,Vacancy,Current Strength
+358,DIGITAL HARDWARE DESIGN-ELL318,,H,3.0-0.0-0.0,,DEBANJAN BHOWMIK ,debanjan@ee.iitd.ac.in,M 11:00-12:00,,,70,0
+359,MULTIVARIABLE CONTROL-ELL333,,H,3.0-0.0-0.0,,SHAUNAK SEN ,shaunak@ee.iitd.ac.in,M 11:00-12:00,,,80,0
+360,POWER ENGINEERING-II-ELL363,,AD,3.0-0.0-0.0,,NILANJAN SENROY ,nsenroy@ee.iitd.ac.in,TF 15:30-17:00,,,90,0
+361,MACHINE INTELLIGENCE & LEARNING-ELL409,,J,3.0-0.0-2.0,,"PRATHOSH A.P. , JAYADEVA   ",prathoshap@ee.iitd.ac.in,MTF 12:00-13:00,,,75,0
+362,LINEAR SYSTEMS THEORY-ELL700,,A,3.0-0.0-0.0,,S. JANARDHANAN   ,janas@ee.iitd.ac.in,MTh 08:00-09:30,,,50,0
+363,MATHEMATICAL METHODS IN CONTRO-ELL701,,M,3.0-0.0-0.0,,MASHUQ-UN-NABI ,mnabi@ee.iitd.ernet.in,MTh 17:00-18:30,,,60,0
+364,NONLINEAR SYSTEMS-ELL702,,B,3.0-0.0-0.0,,INDRA NARAYAN KAR   ,ink@ee.iitd.ac.in,MTh 09:30-11:00,,,50,0
+365,OPTIMIZATION FOR ELECTRICAL ENGINEERS-ELL706,,C,3.0-0.0-0.0,,DEEPAK UMAKANT PATIL ,deepakpatil@ee.iitd.ac.in,TWF 08:00-09:00,,,120,0
+366,CODING THEORY-ELL710,,X,3.0-0.0-0.0,,ABHISHEK DIXIT   ,abhishek.dixit@ee.iitd.ac.in,TWF 10:00-11:00,,,100,0
+367,SIGNAL THEORY-ELL711,,A,3.0-0.0-0.0,,RANJAN KUMAR MALLIK ,rkmallik@ee.iitd.ac.in,MTh 08:00-09:30,,,100,0
+368,DIGITAL COMMUNICATIONS-ELL712,,AB,3.0-0.0-0.0,,SHANKAR PRAKRIYA ,shankar.prakriya@ee.iitd.ac.in,MTh 15:30-17:00,,,100,0
+369,MICROWAVE THEORY AND TECHNIQUE-ELL713,,B,3.0-0.0-0.0,,AMOL CHOUDHARY ,achoudhary@ee.iitd.ac.in,MTh 09:30-11:00,,,60,0
+370,BASIC INFORMATION THEORY-ELL714,,J,3.0-0.0-0.0,,MONIKA AGGARWAL ,maggarwal@care.iitd.ernet.in,MTF 12:00-13:00,,,50,0
+371,TELECOMMUNICATION SWITCHING AN-ELL716,,X,3.0-0.0-0.0,,SWADES KUMAR DE   ,swadesd@ee.iitd.ac.in,,,,50,0
+372,DIGITAL COMMUNICATION & INFORM-ELL727,,F,3.0-0.0-0.0,,ABHISHEK DIXIT   ,abhishek.dixit@ee.iitd.ac.in,TThF 11:00-12:00,,,50,0
+Department    :,,Electrical Engineering,,,,,,,,,,
+S.No,Course Name,,Slot Name,Units,Type,Instructor,Instructor Email,Lecture Time,Tutorial Time,Practical Time,Vacancy,Current Strength
+373,OPTOELECTRONIC INSTRUMENTATION-ELL728,,H,3.0-0.0-0.0,,V.K. JAIN ,vkjain@ee.iitd.ac.in,M 11:00-12:00,,,50,0
+374,STOCHASTIC CONTROL AND REINFORCEMENT LEARNING-ELL729,,X,3.0-0.0-0.0,,ARPAN  CHATTOPADHYAY ,arpanc@ee.iitd.ac.in,,,,150,0
+375,MICRO AND NANOELECTRONICS-ELL732,,C,3.0-0.0-0.0,,M.JAGADESH KUMAR ,mamidala@ee.iitd.ac.in,TWF 08:00-09:00,,,75,0
+376,MOS VLSI DESIGN-ELL734,,E,3.0-0.0-0.0,,BASABI  BHAUMIK ,bhaumik@ee.iitd.ac.in,TWF 10:00-11:00,,,1,0
+377,ANALOG INTEGRATED CIRCUITS-ELL735,,D,3.0-0.0-0.0,,ANKESH JAIN ,ankesh@ee.iitd.ac.in,TWF 09:00-10:00,,,70,0
+378,MICRO AND NANO PHOTONICS-ELL738,,M,3.0-0.0-0.0,,ANUJ DHAWAN   ,adhawan@ee.iitd.ac.in,MTh 17:00-18:30,,,60,0
+379,COMPACT MODELING OF SEMICONDUC-ELL740,,AC,3.0-0.0-0.0,,ABHISEK DIXIT ,adixit@ee.iitd.ac.in,TF 14:00-15:30,,,50,0
+380,SEMICONDUCTOR MEMORY DESIGN-ELL749,,X,3.0-0.0-0.0,,JAYADEVA   ,jayadeva@ee.iitd.ac.in,,,,50,0
+381,MODELLING OF ELECTRICAL MACHIN-ELL750,,D,3.0-0.0-0.0,,BHIM SINGH   ,bsingh@ee.iitd.ac.in,TWF 09:00-10:00,,,50,0
+382,POWER ELECTRONIC CONVERTERS-ELL751,,M,3.0-0.0-0.0,,ANANDARUP DAS ,anandarup@ee.iitd.ac.in,MTh 17:00-18:30,,,75,0
+383,ELECTRIC VEHICLES-ELL764,,AD,3.0-0.0-0.0,,AMIT KUMAR JAIN ,amitjain@ee.iitd.ac.in,TF 15:30-17:00,,,50,0
+384,POWER SYSTEM ANALYSIS-ELL770,,A,3.0-0.0-0.0,,ABHIJIT RAMCHANDRA  ABHYANKAR ,abhyankar@ee.iitd.ac.in,MTh 08:00-09:30,,,50,0
+385,ADVANCED POWER SYSTEM PROTECTI-ELL771,,E,3.0-0.0-0.0,,BIJAYA KETAN PANIGRAHI   ,bkpanigrahi@ee.iitd.ac.in,TWF 10:00-11:00,,,50,0
+386,POWER SYSTEM DYNAMICS-ELL775,,F,3.0-0.0-0.0,,SUKUMAR MISHRA   ,sukumar@ee.iitd.ac.in,TThF 11:00-12:00,,,50,0
+387,SOFTWARE FUNDAMENTALS FOR COMP-ELL781,,C,3.0-0.0-0.0,,"SUMANTRA DUTTA ROY , SANDEEP ",sumantra@ee.iitd.ac.in,TWF 08:00-09:00,,,50,0
+Department    :,,Electrical Engineering,,,,,,,,,,
+S.No,Course Name,,Slot Name,Units,Type,Instructor,Instructor Email,Lecture Time,Tutorial Time,Practical Time,Vacancy,Current Strength
+,,,,,,KUMAR ,,,,,,
+388,COMPUTER ARCHITECTURE-ELL782,,M,3.0-0.0-0.0,,SMRUTI RANJAN SARANGI   ,srsarangi@cse.iitd.ac.in,MTh 17:00-18:30,,,70,0
+389,INTRODUCTION TO MACHINE LEARNI-ELL784,,J,3.0-0.0-0.0,,"JAYADEVA   , PRATHOSH A.P. ",jayadeva@ee.iitd.ac.in,MTF 12:00-13:00,,,40,0
+390,COMPUTER COMMUNICATION NETWORK-ELL785,,K,3.0-0.0-0.0,,SWADES KUMAR DE   ,swadesd@ee.iitd.ac.in,"W 12:00-13:00 ,TF 17:00-18:00",,,50,0
+391,EMBEDDED SYSTEMS AND APPLICATI-ELL787,,AB,3.0-0.0-0.0,,"SUBRAT KAR   , TAPAN KUMAR GANDHI ",subrat@ee.iitd.ac.in,MTh 15:30-17:00,,,100,0
+392,COMPUTER VISION-ELL793,,X,3.0-0.0-0.0,,BREJESH LALL ,brejesh@ee.iitd.ernet.in,,,,50,0
+393,ADAPTIVE AND LEARNING CONTROL-ELL802,,D,3.0-0.0-0.0,,SHUBHENDU BHASIN ,sbhasin@ee.iitd.ac.in,TWF 09:00-10:00,,,60,0
+394,TELECOMMUNICATION TECHNOLOGIES-ELL818,,M,3.0-0.0-0.0,,SUBRAT KAR   ,subrat@ee.iitd.ac.in,MTh 17:00-18:30,,,50,0
+395,SELECTED TOPICS IN INFORMATION PROCESSING-I-ELL823,,B,3.0-0.0-0.0,,BREJESH LALL ,brejesh@ee.iitd.ernet.in,MTh 09:30-11:00,,,50,0
+396,SELECTED TOPICS ININFORMATION PROCESSING - II-ELL824,,M,3.0-0.0-0.0,,LALAN KUMAR   ,lalank@ee.iitd.ac.in,MTh 17:00-18:30,,,60,0
+397,SELECTED TOPICS IN IEC-I-ELL832,,X,3.0-0.0-0.0,,DHIMAN  MALLICK ,dhiman@ee.iitd.ac.in,,,,50,0
+398,SELECTED TOPICS IN IEC-II-ELL834,,X,3.0-0.0-0.0,,BHASKAR MITRA ,bmitra@ee.iitd.ac.in,,,,50,0
+399,SELECTED TOPICS IN POWER ELECT-ELL857,,AA,3.0-0.0-0.0,,MUMMADI VEERACHARY ,mvchary@ee.iitd.ac.in,MTh 14:00-15:30,,,50,0
+400,SPECIAL TOPICS IN COMPUTERS 1-ELL880,,X,3.0-0.0-0.0,,SUMANTRA DUTTA ROY ,sumantra@ee.iitd.ac.in,,,,60,0
+Department    :,,Electrical Engineering,,,,,,,,,,
+S.No,Course Name,,Slot Name,Units,Type,Instructor,Instructor Email,Lecture Time,Tutorial Time,Practical Time,Vacancy,Current Strength
+401,COMPUTATIONAL NEUROSCIENCE-ELL890,,X,3.0-0.0-0.0,,TAPAN KUMAR GANDHI ,tgandhi@ee.iitd.ac.in,,,,30,0
+402,INTRO. TO ELECTRICAL ENGG.-ELN101,,P,0.0-0.0-2.0,,"SHAUNAK SEN , MADHUSUDAN SINGH , SAIF KHAN MOHAMMED , SUBRAT KAR   ",shaunak@ee.iitd.ac.in,,,,115,0
+403,INTRO. ELEC.ENGG. POWER & AUTO.-ELN111,,P,0.0-0.0-2.0,,SOUMYA  SHUBHRA NAG ,ssnag@ee.iitd.ac.in,,,,80,0
+404,TELECOMMUNICATION SOFTWARE LAB-ELP718,,P,0.0-1.0-4.0,,SUBRAT KAR   ,subrat@ee.iitd.ac.in,,,,50,0
+405,MICROWAVE LABORATORY-ELP719,,P,0.0-1.0-4.0,,SHIBAN KISHEN KOUL ,skkoul@care.iitd.ac.in,,,,70,0
+406,SOFTWARE LAB-ELP780,,P,0.0-1.0-4.0,,SUBRAT KAR   ,subrat@ee.iitd.ac.in,,,,50,0
+407,DIGITAL SYSTEMS LAB-ELP781,,P,0.0-1.0-4.0,,SUBRAT KAR   ,subrat@ee.iitd.ac.in,,,,50,0
+408,NETWORKS LABORATORY-ELP782,,P,0.0-1.0-4.0,,SUBRAT KAR   ,subrat@ee.iitd.ac.in,,,,50,0
+409,IEC LABORATORY-I-ELP831,,P,0.0-0.0-6.0,,JAYADEVA   ,jayadeva@ee.iitd.ac.in,,,,50,0
+410,POWER SYSTEM LAB 1-ELP870,,P,0.0-1.0-4.0,,ABHIJIT RAMCHANDRA  ABHYANKAR ,abhyankar@ee.iitd.ac.in,,,,50,0
+411,SEMINAR COURSE - I-ELQ301,,P,0.0-0.0-2.0,,DHIMAN  MALLICK ,dhiman@ee.iitd.ac.in,,,,0,0
+412,INDEPENDENT STUDY (EE1)-ELS310,,P,0.0-3.0-0.0,,SHOURIBRATA CHATTERJEE   ,shouri@ee.iitd.ac.in,,,,30,0
+413,INDEPENDENT STUDY (EE3)-ELS330,,P,0.0-3.0-0.0,,SHOURIBRATA CHATTERJEE   ,shouri@ee.iitd.ac.in,,,,30,0
+414,SPECIAL MODULE IN SCIENTIFIC W-ELV734,,X,1.0-0.0-0.0,,MADHUSUDAN SINGH ,msingh@ee.iitd.ac.in,,,,20,0
+Department    :,,Electrical Engineering,,,,,,,,,,
+S.No,Course Name,,Slot Name,Units,Type,Instructor,Instructor Email,Lecture Time,Tutorial Time,Practical Time,Vacancy,Current Strength
+415,SPECIAL MODULE IN COMPUTERS-ELV780,,X,1.0-0.0-0.0,,BREJESH LALL ,brejesh@ee.iitd.ernet.in,,,,30,0
+416,MAJOR PROJECT PART-I-JVD811,,P,0.0-0.0-24.0,,SHOURIBRATA CHATTERJEE   ,shouri@ee.iitd.ac.in,,,,60,0
+417,MAJOR PROJECT PART-II-JVD812,,P,0.0-0.0-24.0,,SHOURIBRATA CHATTERJEE   ,shouri@ee.iitd.ac.in,,,,30,0
+418,MINOR PROJECT [ESR]-ESD798,,X,0.0-0.0-6.0,,SUMIT KUMAR CHATTOPADHYAY ,sumit@dese.iitd.ac.in,,,,0,0
+419,MAJOR PROJECT PART I [ESN]-ESD801,,X,0.0-0.0-12.0,,SATYANANDA KAR ,satyananda@ces.iitd.ac.in,,,,0,0
+420,MAJOR PROJECT PART I [ESR]-ESD851,,X,0.0-0.0-12.0,,SUMIT KUMAR CHATTOPADHYAY ,sumit@dese.iitd.ac.in,,,,0,0
+421,SELF-ORGANIZING DYNAMICAL SYSTEMS-ESL300,,J,3.0-0.0-0.0,,MRS. R. UMA ,ruma@ces.iitd.ac.in,MTF 12:00-13:00,,,60,0
+422,"ENERGY, ECOLOGY AND ENVIRONMENT-ESL330",,B,3.0-1.0-0.0,,"SATYANANDA KAR , SUPRAVAT KARAK ",satyananda@ces.iitd.ac.in,MTh 09:30-11:00,,,60,0
+423,DIRECT ENERGY CONVERSION-ESL360,,E,3.0-1.0-0.0,,"DEBAPRASAD SAHU , VIRESH DUTTA ",dpsahu@ces.iitd.ac.in,TWF 10:00-11:00,MTThF 13:00-14:00,,60,0
+424,FUEL TECHNOLOGY-ESL711,,B,3.0-0.0-0.0,,S K TYAGI ,tyagisk@ces.iitd.ac.in,MTh 09:30-11:00,,,60,0
+425,POWER PLANT ENGG.-ESL714,,AA,3.0-0.0-0.0,,RAHUL GOYAL ,rahulgoyal@ces.iitd.ac.in,MTh 14:00-15:30,,,60,0
+426,ELECTRICAL ENERGY MANAGEMENT-ESL715,,D,3.0-0.0-0.0,,"SUMIT KUMAR CHATTOPADHYAY , ASHU VERMA ",sumit@dese.iitd.ac.in,TWF 09:00-10:00,,,60,0
+427,ENERGY CONSERVATION-ESL720,,C,3.0-0.0-0.0,,"DIBAKAR RAKSHIT , SUMIT KUMAR CHATTOPADHYAY ",dibakar@ces.iitd.ac.in,TWF 08:00-09:00,,,60,0
+428,ENERGY AUDIT-ESL724,,F,3.0-0.0-0.0,,DIBAKAR RAKSHIT ,dibakar@ces.iitd.ac.in,TThF 11:00-12:00,,,60,0
+Department    :,,Energy Science and Engineering,,,,,,,,,,
+S.No,Course Name,,Slot Name,Units,Type,Instructor,Instructor Email,Lecture Time,Tutorial Time,Practical Time,Vacancy,Current Strength
+429,ENERGY AND ENVIRONMENT-ESL727,,C,3.0-0.0-0.0,,SATYANANDA KAR ,satyananda@ces.iitd.ac.in,TWF 08:00-09:00,,,60,0
+430,PLASMA BASED MATERIALS PROCESSING-ESL737,,J,3.0-0.0-0.0,,"A. GANGULI , RAMESH NARAYANAN   ",aganguli@ces.iitd.ac.in,MTF 12:00-13:00,,,60,0
+431,"BIOENERGY: RESOURCES, TECHNOLOGIES AND APPLICATIONS-ESL739",,J,3.0-0.0-0.0,,K.A. SUBRAMANIAN   ,subra@dese.iitd.ac.in,MTF 12:00-13:00,,,60,0
+432,NON-CONVENTIONAL SOURCES OF ENERGY-ESL740,,A,3.0-0.0-0.0,,"RAMESH NARAYANAN   , VAMSI KRISHNA KOMARALA   ",rams@dese.iitd.ac.in,MTh 08:00-09:30,,,60,0
+433,ECO.& FIN.OF RENEWABLE ENERGY SYSTEMS-ESL742,,X,3.0-0.0-0.0,,"T.C. KANDPAL   , ASHU VERMA ",tarak@ces.iitd.ac.in,MTh 08:00-09:30,,,60,0
+434,HYDROGEN ENERGY-ESL746,,M,3.0-0.0-0.0,,K.A. SUBRAMANIAN   ,subra@dese.iitd.ac.in,MTh 17:00-18:30,,,60,0
+435,RENEWABLE ENERGY RESOURCE ASSESSMENT AND FORECASTING-ESL751,,AD,3.0-0.0-0.0,,K RAVI KUMAR ,krk@ces.iitd.ac.in,TF 15:30-17:00,,,60,0
+436,SOLAR THERMAL TECHNOLOGIES AND APPLICATIONS-ESL753,,X,3.0-0.0-0.0,,K RAVI KUMAR ,krk@ces.iitd.ac.in,TWF 09:00-10:00,,,60,0
+437,SOLAR PHOTOVOLTAIC DEVICES AND SYSTEMS-ESL755,,X,3.0-0.0-0.0,,SANDEEP KUMAR PATHAK ,spathak@ces.iitd.ac.in,TWF 10:00-11:00,,,60,0
+438,HEAT TRANSFER-ESL760,,D,3.0-0.0-0.0,,KAUSHIK  SAHA ,kaushiksaha@ces.iitd.ac.in,TWF 09:00-10:00,,,60,0
+439,WIND & SMALL HYDRO ENERGY SYSTEMS-ESL768,,H,3.0-0.0-0.0,,T.S.BHATTI   ,tsb@ces.iitd.ac.in,M 11:00-12:00,,,60,0
+440,INSTRUMENTATION & CONTROL IN ENERGY SYSTEMS-ESL771,,AB,3.0-0.0-0.0,,RAMESH NARAYANAN   ,rams@dese.iitd.ac.in,MTh 15:30-17:00,,,60,0
+441,ENERGY STORAGE-ESL772,,AA,3.0-0.0-0.0,,"DIBAKAR RAKSHIT , VIRESH DUTTA ",dibakar@ces.iitd.ac.in,MTh 14:00-15:30,,,60,0
+442,OPERATION AND CONTROL OF ELECTRICAL ENERGY SYSTEMS-ESL796,,M,3.0-0.0-0.0,,ASHU VERMA ,averma@ces.iitd.ac.in,MTh 17:00-18:30,,,60,0
+Department    :,,Energy Science and Engineering,,,,,,,,,,
+S.No,Course Name,,Slot Name,Units,Type,Instructor,Instructor Email,Lecture Time,Tutorial Time,Practical Time,Vacancy,Current Strength
+443,SOLAR REFRIGERATION AND AIR CONDITIONING-ESL850,,AC,3.0-0.0-0.0,,"S K TYAGI , S.C. KAUSHIK ",tyagisk@ces.iitd.ac.in,TF 14:00-15:30,,,60,0
+444,EMERGING MATERIALS FOR NEXT GENERATION PHOTOVALTAIC APPLICATIONS-ESL852,,J,3.0-0.0-0.0,,SUPRAVAT KARAK ,supravat@ces.iitd.ac.in,MTF 12:00-13:00,,,60,0
+445,FUSION ENERGY-ESL870,,F,3.0-0.0-0.0,,DEBAPRASAD SAHU ,dpsahu@ces.iitd.ac.in,TThF 11:00-12:00,,,60,0
+446,BASIC THERMAL ENGG.-ESN704,,L,1.0-0.0-0.0,,RAHUL GOYAL ,rahulgoyal@ces.iitd.ac.in,"W 13:00-15:00 ,TF 18:00-19:00",,,60,0
+447,BASIC ELECTRICAL ENGG.-ESN712,,L,1.0-0.0-0.0,,SUMIT KUMAR CHATTOPADHYAY ,sumit@dese.iitd.ac.in,"W 13:00-15:00 ,TF 18:00-19:00",,,60,0
+448,APPLIED MATHEMATICS AND COMPUTATIONAL METHODS-ESN791,,K,1.0-0.0-0.0,,RAMESH NARAYANAN   ,rams@dese.iitd.ac.in,"W 12:00-13:00 ,TF 17:00-18:00",,,60,0
+449,SEMINAR COURSE ON RENEWABLE ENERGY-ESQ301,,X,0.0-0.0-2.0,,RAHUL GOYAL ,rahulgoyal@ces.iitd.ac.in,,,,25,0
+450,SEMINAR COURSE ON ENERGY EFFICIENCY-ESQ302,,X,0.0-0.0-2.0,,S.C. KAUSHIK ,kaushik@ces.iitd.ac.in,,,,25,0
+451,SEMINAR COURSE ON PLASMA SCIENCE AND TECHNOLOGY-ESQ304,,X,0.0-0.0-2.0,,SATYANANDA KAR ,satyananda@ces.iitd.ac.in,,,,25,0
+452,SEMINAR COURSE ON BIOENERGY-ESQ306,,X,0.0-0.0-2.0,,S K TYAGI ,tyagisk@ces.iitd.ac.in,,,,25,0
+453,SEMINAR COURSE ON NUCLEARENERGY AND FUTURISTIC USE-ESQ307,,X,0.0-0.0-2.0,,MRS. R. UMA ,ruma@ces.iitd.ac.in,,,,25,0
+454,SEMINAR COURSE ON ALTERNATIVEFUELS FOR TRANSPORTAT-ESQ309,,X,0.0-0.0-2.0,,KAUSHIK  SAHA ,kaushiksaha@ces.iitd.ac.in,,,,25,0
+455,MINOR PROJECT (ESR)-JRD799,,P,0.0-0.0-6.0,,RAMESH NARAYANAN   ,rams@dese.iitd.ac.in,,,,30,0
+Department    :,,Energy Science and Engineering,,,,,,,,,,
+S.No,Course Name,,Slot Name,Units,Type,Instructor,Instructor Email,Lecture Time,Tutorial Time,Practical Time,Vacancy,Current Strength
+456,MAJOR PROJECT-I (ESR)-JRD801,,P,0.0-0.0-12.0,,RAMESH NARAYANAN   ,rams@dese.iitd.ac.in,,,,30,0
+457,INDEPENDENT STUDY (ESR)-JRS801,,P,0.0-3.0-0.0,,RAMESH NARAYANAN   ,rams@dese.iitd.ac.in,,,,30,0
+458,MINOR PROJECT(JES)-JSD799,,P,0.0-0.0-6.0,,RAMESH NARAYANAN   ,rams@dese.iitd.ac.in,,,,25,0
+459,MAJOR PROJECT PART-I-JSD801,,P,0.0-0.0-12.0,,RAMESH NARAYANAN   ,rams@dese.iitd.ac.in,,,,30,0
+460,MAJOR PROJECT PART-II-JSD802,,P,0.0-0.0-24.0,,RAMESH NARAYANAN   ,rams@dese.iitd.ac.in,,,,15,0
+461,INDEPENDENT STUDY(JES)-JSS801,,P,3.0-0.0-0.0,,RAMESH NARAYANAN   ,rams@dese.iitd.ac.in,,,,25,0
+462,MINOR PROJECT (ESN)-JTD799,,P,0.0-0.0-6.0,,RAMESH NARAYANAN   ,rams@dese.iitd.ac.in,,,,20,0
+463,INDEPENDENT STUDY-JTS801,,P,0.0-3.0-0.0,,RAMESH NARAYANAN   ,rams@dese.iitd.ac.in,,,,30,0
+464,MICROECONOMICS I-HSL511,,AC,3.0-1.0-0.0,,SAPTARSHI MUKHERJEE ,saptarshi@hss.iitd.ac.in,TF 14:00-15:30,,,25,0
+465,MACROECONOMICS I-HSL512,,A,3.0-1.0-0.0,,JAYAN JOSE THOMAS ,jayan@hss.iitd.ac.in,MTh 08:00-09:30,MTThF 13:00-14:00,,25,0
+466,PROBABILITY AND STATISTICS FOR ECONOMICS-HSL513,,AA,3.0-0.0-2.0,,SISIR DEBNATH ,sisirdebnath@hss.iitd.ac.in,MTh 14:00-15:30,,,25,0
+467,ISSUES IN DEVELOPMENT-HSL514,,AB,3.0-0.0-0.0,,JAYAN JOSE THOMAS ,jayan@hss.iitd.ac.in,MTh 15:30-17:00,,,25,0
+468,MATHEMATICAL ECONOMICS-HSL516,,B,3.0-1.0-0.0,,SOURABH BIKAS PAUL ,sbpaul@hss.iitd.ac.in,MTh 09:30-11:00,,,25,0
+469,INTRODUCTION TO COGNITIVE SCIENCE-HSL521,,A,3.0-0.0-2.0,,PRITHA CHANDRA ,pritha@hss.iitd.ac.in,MTh 08:00-09:30,,,25,0
+470,BASICS OF PROGRAMMING FOR COGNITIVE SCIENCE-,,J,1.0-0.0-0.0,,ASHWINI J VAIDYA   ,avaidya@hss.iitd.ac.in,MTF 12:00-13:00,,,25,0
+Department    :,,Humanities & Social Sciences,,,,,,,,,,
+S.No,Course Name,,Slot Name,Units,Type,Instructor,Instructor Email,Lecture Time,Tutorial Time,Practical Time,Vacancy,Current Strength
+,HSL522L,,,,,,,,,,,
+471,LANGUAGE IN THE MIND-HSL541,,AA,3.0-1.0-0.0,,"PAROMA SANYAL , ASHWINI J VAIDYA   ",psanyal@hss.iitd.ac.in,MTh 14:00-15:30,,,25,0
+472,COGNITIVE NEUROSCIENCE-HSL561L,,AD,3.0-0.0-0.0,,SUMITAVA MUKHERJEE   ,sm1@hss.iitd.ac.in,TF 15:30-17:00,,,25,0
+473,INTRODUCTION TO SCIENCE ANDTECHNOLOGY POLICY STUDI-HSL701,,M,1.0-0.0-1.0,,SOUTRIK BASU  ,soutrikb@sopp.iitd.ac.in,MTh 17:00-18:30,,,30,0
+474,APPROACHES TO SCIENCE AND TECHNOLOGY POLICY STUDIES-HSL702,,X,1.5-0.0-0.0,,SOUTRIK BASU  ,soutrikb@sopp.iitd.ac.in,,,,30,0
+475,INTERNATIONAL ECONOMICS-HSL714,,B,3.0-0.0-0.0,,DEBASIS MONDAL ,debasis@hss.iitd.ac.in,MTh 09:30-11:00,,,30,0
+476,ADVANCED ECONOMETRICS-HSL719,,AC,3.0-0.0-0.0,,SISIR DEBNATH ,sisirdebnath@hss.iitd.ac.in,TF 14:00-15:30,,,30,0
+477,RESEARCH METHODS IN COGNITIVE SCIENCE-HSL721L,,H,1.0-0.0-0.0,,"PURNIMA SINGH   , SAMAR HUSAIN   , VARSHA SINGH ",psingh@hss.iitd.ac.in,M 11:00-12:00,,,35,0
+478,WHAT IS A TEXT-HSL731,,X,3.0-0.0-0.0,,STUTI KHANNA ,skhanna@hss.iitd.ac.in,,,,30,0
+479,TRANSFORMATIONAL THEORIES OF LANGUAGE-HSL742,,X,3.0-0.0-0.0,,PRITHA CHANDRA ,pritha@hss.iitd.ac.in,,,,35,0
+480,PSYCHOLINGUISTICS-HSL745,,B,3.0-0.0-0.0,,SAMAR HUSAIN   ,samar@hss.iitd.ac.in,MTh 09:30-11:00,,,35,0
+481,NATURAL LANGUAGE UNDERSTANDING-HSL748,,X,3.0-0.0-0.0,,ASHWINI J VAIDYA   ,avaidya@hss.iitd.ac.in,,,,35,0
+482,CRITICAL READING IN PHILOSOPHICAL-HSL751,,AB,3.0-0.0-0.0,,ARUDRA VENKATA BURRA ,burra@hss.iitd.ac.in,MTh 15:30-17:00,,,30,0
+483,JUDGMENT AND DECISION MAKING-HSL768,,AB,3.0-0.0-0.0,,SUMITAVA MUKHERJEE   ,sm1@hss.iitd.ac.in,MTh 15:30-17:00,,,35,0
+Department    :,,Humanities & Social Sciences,,,,,,,,,,
+S.No,Course Name,,Slot Name,Units,Type,Instructor,Instructor Email,Lecture Time,Tutorial Time,Practical Time,Vacancy,Current Strength
+484,SOCIOLOGICAL THEORY-HSL771,,X,3.0-0.0-0.0,,FARHANA IBRAHIM   ,fibrahim@hss.iitd.ac.in,,,,30,0
+485,SOCIAL AND CULTURAL CONSTRUCTION OF EMOTIONS-HSL780,,AC,3.0-0.0-0.0,,YASHPAL ASHOKRAO JOGDAND   ,yaj@hss.iitd.ac.in,TF 14:00-15:30,,,35,0
+486,RESEARCH WRITING-HSL800,,A,3.0-0.0-0.0,,RICHA KUMAR ,richa@hss.iitd.ac.in,MTh 08:00-09:30,,,50,0
+487,RESEARCH WRITING-HSL800,,M,3.0-0.0-0.0,,RICHA KUMAR ,richa@hss.iitd.ac.in,MTh 17:00-18:30,,,50,0
+488,RESEARCH WRITING-HSL800,,A1,3.0-0.0-0.0,,RICHA KUMAR ,richa@hss.iitd.ac.in,,,,0,0
+489,RESEARCH WRITING-HSL800,,X,3.0-0.0-0.0,,RICHA KUMAR ,richa@hss.iitd.ac.in,,,,0,0
+490,LITERATURE AND THE CITY-HSL834,,X,3.0-0.0-0.0,,"MILIND WAKANKAR , STUTI KHANNA ",milindw@hss.iitd.ac.in,,,,30,0
+491,MODERN INDIAN THEATRE-HSL835,,X,3.0-0.0-0.0,,ARJUN GHOSH ,arjunghosh@hss.iitd.ac.in,,,,60,0
+492,INDEPENDENT STUDY IN COGNITIVE SCIENCE-HSS521,,AC,0.0-2.0-0.0,,YASHPAL ASHOKRAO JOGDAND   ,yaj@hss.iitd.ac.in,,,,25,0
+493,ETHNOGRAPHIC RESEARCH METHODS-HSV771,,X,1.5-0.0-0.0,,MAHUYA BANDYOPADHYAY ,mahuya@hss.iitd.ac.in,,,,30,0
+494,INTRODUCTION TO ECONOMICS-HUL211,,A,3.0-1.0-0.0,HU,REETIKA  SUBHASH KHERA  ,reetika@hss.iitd.ac.in,MTh 08:00-09:30,MTThF 13:00-14:00,,160,0
+495,MICROECONOMICS-HUL212,,M,3.0-1.0-0.0,HU,SAPTARSHI MUKHERJEE ,saptarshi@hss.iitd.ac.in,MTh 17:00-18:30,,,160,0
+496,MICROECONOMICS-HUL212,,A,3.0-1.0-0.0,HU,SISIR DEBNATH ,sisirdebnath@hss.iitd.ac.in,MTh 08:00-09:30,MTThF 13:00-14:00,,160,0
+497,MACRO ECONOMICS-HUL213,,M,3.0-1.0-0.0,HU,SOURABH BIKAS PAUL ,sbpaul@hss.iitd.ac.in,MTh 17:00-18:30,,,160,0
+Department    :,,Humanities & Social Sciences,,,,,,,,,,
+S.No,Course Name,,Slot Name,Units,Type,Instructor,Instructor Email,Lecture Time,Tutorial Time,Practical Time,Vacancy,Current Strength
+498,AN INTRODUCTION TO LITERATURE-HUL231,,M,3.0-1.0-0.0,HU,"DIVYA DWIVEDI , ANGELIE MULTANI   ",divyadwi@hss.iitd.ac.in,MTh 17:00-18:30,,,160,0
+499,INDIAN ENGLISH POETRY-HUL240,,M,3.0-1.0-0.0,HU,RUKMINI BHAYA NAIR ,rbnair@hss.iitd.ac.in,MTh 17:00-18:30,,,80,0
+500,FUNDAMENTALS OF LANGUAGE SCIENCES-HUL242,,A,3.0-1.0-0.0,HU,PAROMA SANYAL ,psanyal@hss.iitd.ac.in,MTh 08:00-09:30,MTThF 13:00-14:00,,160,0
+501,MORAL LITERACY AND MORAL CHOICES-HUL253,,A,3.0-1.0-0.0,HU,SANIL V. ,sanil@hss.iitd.ac.in,MTh 08:00-09:30,MTThF 13:00-14:00,,80,0
+502,INTRODUCTION TO PSYCHOLOGY-HUL261,,M,3.0-1.0-0.0,HU,"YASHPAL ASHOKRAO JOGDAND   , SUMITAVA MUKHERJEE   ",yaj@hss.iitd.ac.in,MTh 17:00-18:30,,,160,0
+503,INTRODUCTION TO THE SOCIOLOGY OF INDIA-HUL272,,A,3.0-1.0-0.0,HU,VIBHA ARORA   ,aurora@hss.iitd.ac.in,MTh 08:00-09:30,MTThF 13:00-14:00,,80,0
+504,INTRODUCTION TO THE SOCIOLOGY OF INDIA-HUL272,,F,3.0-1.0-0.0,HU,FARHANA IBRAHIM   ,fibrahim@hss.iitd.ac.in,TThF 11:00-12:00,MTThF 13:00-14:00,,80,0
+505,TECHNOLOGY AND GOVERNANCE-HUL281,,A,3.0-1.0-0.0,HU,"RICHA KUMAR , NAVEEN THAYYIL KAMALUDDIN ",richa@hss.iitd.ac.in,MTh 08:00-09:30,MTThF 13:00-14:00,,160,0
+506,PERSPECTIVE ON SCIENCE TECHNOLOGY & HUMAN DEVPT-HUL289,,A,3.0-1.0-0.0,HU,AMBUJ D. SAGAR   ,asagar@sopp.iitd.ac.in,MTh 08:00-09:30,MTThF 13:00-14:00,,80,0
+507,APPLIED GAME THEORY-HUL311,,A,3.0-0.0-0.0,HU,DEBASIS MONDAL ,debasis@hss.iitd.ac.in,MTh 08:00-09:30,,,66,0
+508,ECONOMETRIC METHODS-HUL315,,M,3.0-0.0-0.0,HU,ANKUSH AGRAWAL ,ankush@hss.iitd.ac.in,MTh 17:00-18:30,,,66,0
+509,SELECTED TOPICS IN LITERATURE-HUL340,,J,3.0-0.0-0.0,HU,"MILIND WAKANKAR , ARJUN GHOSH , STUTI KHANNA ",milindw@hss.iitd.ac.in,MTF 12:00-13:00,,,99,0
+510,SELECTED TOPICS IN PHILOSOPHY-HUL360,,H,3.0-0.0-0.0,HU,ARUDRA VENKATA BURRA ,burra@hss.iitd.ac.in,M 11:00-12:00,,,33,0
+511,ORGANIZATIONAL BEHAVIOUR-HUL362,,A,3.0-0.0-0.0,HU,VARSHA SINGH ,vsingh@hss.iitd.ac.in,MTh 08:00-09:30,,,33,0
+Department    :,,Humanities & Social Sciences,,,,,,,,,,
+S.No,Course Name,,Slot Name,Units,Type,Instructor,Instructor Email,Lecture Time,Tutorial Time,Practical Time,Vacancy,Current Strength
+512,SELECTED TOPICS IN PSYCHOLOGY-HUL370,,A,3.0-0.0-0.0,HU,KAMLESH SINGH ,singhk@hss.iitd.ac.in,MTh 08:00-09:30,,,100,0
+513,POLITICAL ECOLOGY OF WATER-HUL376,,J,3.0-0.0-0.0,HU,VIBHA ARORA   ,aurora@hss.iitd.ac.in,MTF 12:00-13:00,,,33,0
+514,SOCIAL RESEARCH METHODS-HUL709,,X,2.0-1.0-0.0,,UPASNA SHARMA ,upasna@sopp.iitd.ac.in,,,,30,0
+515,TIME SERIES ECONOMETRICS AND FORECASTING-HUL715,,AD,3.0-0.0-0.0,,SOURABH BIKAS PAUL ,sbpaul@hss.iitd.ac.in,TF 15:30-17:00,,,30,0
+516,SEMINAR(CASE MATERIAL) MINOR PROJECT-HUL722,,X,3.0-0.0-0.0,,ARJUN GHOSH ,arjunghosh@hss.iitd.ac.in,,,,100,0
+517,ADVANCED TOPICS IN ECONOMICS-HUL820,,AA,3.0-0.0-0.0,,ANKUSH AGRAWAL ,ankush@hss.iitd.ac.in,MTh 14:00-15:30,,,30,0
+518,METHODS IN HISTORIAL SOCIOLOGY-HUV774,,X,1.5-0.0-0.0,,MAHUYA BANDYOPADHYAY ,mahuya@hss.iitd.ac.in,,,,30,0
+519,SEMINAR-MSC894,,P,0.0-0.0-6.0,,HARISH CHAUDHRY ,harishc@dms.iitd.ac.in,,,,60,0
+520,PRODUCT VIABILITY & MARKET TRACTION-MSD308,,P,0.0-0.0-3.0,,HARSH VARDHAN MISHRA ,hmishra@dms.iitd.ac.in,,,,80,0
+521,MINOR PROJECT-MSD792,,P,0.0-0.0-6.0,,PRASANNA R ,prasannar@dms.iitd.ac.in,,,,60,0
+522,MANAGERIAL ACC. & FINAC. MGMT.-MSL302,,A,3.0-0.0-0.0,,SMITA KASHIRAMKA ,smitak@dms.iitd.ac.in,MTh 08:00-09:30,,,80,0
+523,OPERATIONS MANAGEMENT-MSL304,,M,3.0-0.0-0.0,,GOURAV DWIVEDI ,gourav@dms.iitd.ac.in,MTh 17:00-18:30,,,80,0
+524,NEW VENTURE CREATION-MSL305,,X,2.0-0.0-2.0,,HARSH VARDHAN MISHRA ,hmishra@dms.iitd.ac.in,,,,0,0
+525,IDEATION AND PROTOYPING-MSL306,,X,2.0-0.0-2.0,,HARSH VARDHAN MISHRA ,hmishra@dms.iitd.ac.in,,,,0,0
+526,ENTREPRENEURIAL DESIGN THINKING-MSL401,,L,3.0-0.0-0.0,,JITENDER MADAAN   ,jmadaan@dms.iitd.ac.in,"W 13:00-14:00 ,TF ",,,80,0
+Department    :,,Management Studies,,,,,,,,,,
+S.No,Course Name,,Slot Name,Units,Type,Instructor,Instructor Email,Lecture Time,Tutorial Time,Practical Time,Vacancy,Current Strength
+,,,,,,,,18:00-19:00,,,,
+527,FINANCIAL ACCOUNTING & COMPLIANCE FOR STARTUPS-MSL405,,J,3.0-0.0-0.0,,SHVETA SINGH ,shvetasingh@dms.iitd.ac.in,MTF 12:00-13:00,,,100,0
+528,MANAGEMENT OF TECHNOLOGY TRANSFER ANDABSORPTION-MSL703,,Q,3.0-0.0-0.0,,SANJAY DHIR ,sanjaydhir@dms.iitd.ac.in,,,,60,0
+529,BUSINESS LAWS-MSL706,,S,3.0-0.0-0.0,,SANJAY DHIR ,sanjaydhir@dms.iitd.ac.in,,,,70,0
+530,MANAGEMENT ACCOUNTING-MSL707,,F,3.0-0.0-0.0,,PRAMODKUMAR  JAIN  ,pkjain@dms.iitd.ac.in,TThF 11:00-12:00,,,70,0
+531,MANAGEMENT ACCOUNTING-MSL707,,H,3.0-0.0-0.0,,SONALI JAIN ,sonalijain@dms.iitd.ac.in,W 11:00-12:00,,,70,0
+532,MANAGEMENT ACCOUNTING-MSL707,,T,3.0-0.0-0.0,,SMITA KASHIRAMKA ,smitak@dms.iitd.ac.in,,,,70,0
+533,BUSINESS RESEARCH METHODS-MSL709,,AB2,1.5-0.0-0.0,,P. VIGNESWARA ILAVARASAN ,vignes@dms.iitd.ac.in,MTh 15:30-17:00,,,70,0
+534,BUSINESS RESEARCH METHODS-MSL709,,AA2,1.5-0.0-0.0,,P. VIGNESWARA ILAVARASAN ,vignes@dms.iitd.ac.in,MTh 14:00-15:30,,,70,0
+535,BUSINESS RESEARCH METHODS-MSL709,,R2,1.5-0.0-0.0,,P. VIGNESWARA ILAVARASAN ,vignes@dms.iitd.ac.in,,,,70,0
+536,STRATEGIC MANAGEMENT-MSL711,,T,3.0-0.0-0.0,,SUSHIL   ,sushil@dms.iitd.ac.in,,,,70,0
+537,ETHICS & VALUE BASED LEADERSH.-MSL712,,AA1,1.5-0.0-0.0,,KANIKA TANDON BHAL   ,kanika@dms.iitd.ac.in,MTh 14:00-15:30,,,70,0
+538,ETHICS & VALUE BASED LEADERSH.-MSL712,,AB1,1.5-0.0-0.0,,KANIKA TANDON BHAL   ,kanika@dms.iitd.ac.in,MTh 15:30-17:00,,,70,0
+539,ETHICS & VALUE BASED LEADERSH.-MSL712,,R1,1.5-0.0-0.0,,KANIKA TANDON BHAL   ,kanika@dms.iitd.ac.in,,,,70,0
+Department    :,,Management Studies,,,,,,,,,,
+S.No,Course Name,,Slot Name,Units,Type,Instructor,Instructor Email,Lecture Time,Tutorial Time,Practical Time,Vacancy,Current Strength
+540,STATISTICS FOR MANAGEMENT-MSL719,,B,3.0-0.0-0.0,,SEEMA SHARMA   ,seemash@dms.iitd.ac.in,MTh 09:30-11:00,,,70,0
+541,STATISTICS FOR MANAGEMENT-MSL719,,E,3.0-0.0-0.0,,SEEMA SHARMA   ,seemash@dms.iitd.ac.in,TWF 10:00-11:00,,,70,0
+542,STATISTICS FOR MANAGEMENT-MSL719,,S,3.0-0.0-0.0,,AMLENDU KUMAR DUBEY ,amlendu@dms.iitd.ac.in,,,,70,0
+543,MACROECONOMIC ENV. OF BUSINESS-MSL720,,Q,3.0-0.0-0.0,,AMLENDU KUMAR DUBEY ,amlendu@dms.iitd.ac.in,,,,70,0
+544,BUSINESS COMMUNICATION-MSL724,,X,1.5-0.0-0.0,,SHUCHI SINHA ,shuchi@dms.iitd.ac.in,TF 14:00-15:30,,,70,0
+545,BUSINESS COMMUNICATION-MSL724,,P,1.5-0.0-0.0,,SHUCHI SINHA ,shuchi@dms.iitd.ac.in,TF 15:30-17:00,,,70,0
+546,BUSINESS COMMUNICATION-MSL724,,R1,1.5-0.0-0.0,,SHUCHI SINHA ,shuchi@dms.iitd.ac.in,,,,70,0
+547,INDIVIDUAL BEHAVIOR IN ORGANIZATION-MSL729,,AD2,1.5-0.0-0.0,,SHUCHI SINHA ,shuchi@dms.iitd.ac.in,TF 15:30-17:00,,,70,0
+548,INDIVIDUAL BEHAVIOR IN ORGANIZATION-MSL729,,AC2,1.5-0.0-0.0,,SHUCHI SINHA ,shuchi@dms.iitd.ac.in,TF 14:00-15:30,,,70,0
+549,INDIVIDUAL BEHAVIOR IN ORGANIZATION-MSL729,,R2,1.5-0.0-0.0,,SHUCHI SINHA ,shuchi@dms.iitd.ac.in,,,,70,0
+550,QUANTITATIVE METHODS IN MGMT.-MSL740,,E,3.0-0.0-0.0,,PRASANNA R ,prasannar@dms.iitd.ac.in,TWF 10:00-11:00,,,70,0
+551,QUANTITATIVE METHODS IN MGMT.-MSL740,,D,3.0-0.0-0.0,,SURYA PRAKASH SINGH ,sprsingh@dms.iitd.ac.in,TWF 09:00-10:00,,,70,0
+552,OPERATIONS MANAGEMENT-MSL745,,S,3.0-0.0-0.0,,GOURAV DWIVEDI ,gourav@dms.iitd.ac.in,,,,70,0
+553,MARKETING MANAGEMENT-MSL760,,A,3.0-0.0-0.0,,MAHIM SAGAR   ,mahim@dms.iitd.ac.in,MTh 08:00-09:30,,,70,0
+554,MARKETING MANAGEMENT-MSL760,,Q,3.0-0.0-0.0,,HARISH CHAUDHRY ,harishc@dms.iitd.ac.in,,,,70,0
+Department    :,,Management Studies,,,,,,,,,,
+S.No,Course Name,,Slot Name,Units,Type,Instructor,Instructor Email,Lecture Time,Tutorial Time,Practical Time,Vacancy,Current Strength
+555,MARKETING MANAGEMENT-MSL760,,B,3.0-0.0-0.0,,BISWAJITA PARIDA ,biswajitap@dms.iitd.ac.in,MTh 09:30-11:00,,,70,0
+556,MANAGERIAL ECONOMICS-MSL780,,J1,1.5-0.0-0.0,,ERI IKEDA ,ikedaeri@dms.iitd.ac.in,MTF 12:00-13:00,,,70,0
+557,MANAGERIAL ECONOMICS-MSL780,,A1,1.5-0.0-0.0,,MANISH KUMAR SINGH ,mks@dms.iitd.ac.in,MTh 08:00-09:30,,,70,0
+558,MGMT. OF INTELLECTUAL PR. RIG.-MSL802,,X,3.0-0.0-0.0,,AMLENDU KUMAR DUBEY ,amlendu@dms.iitd.ac.in,MTh 17:00-18:30,,,80,0
+559,DATA VISUALIZATION-MSL814,,Q2,1.5-0.0-0.0,,AGAM GUPTA ,agam@dms.iitd.ac.in,,,,60,0
+560,GLOBAL BUSINESS ENVIRONMENT-MSL820,,A,3.0-0.0-0.0,,ERI IKEDA ,ikedaeri@dms.iitd.ac.in,MTh 08:00-09:30,,,60,0
+561,INTERNATIONAL BUSINESS-MSL822,,R,3.0-0.0-0.0,,SURENDRA SINGH YADAV   ,ssyadav@dms.iitd.ac.in,,,,20,0
+562,SUPPLY CHAIN LOGISTICS MGMT.-MSL843,,AC,3.0-0.0-0.0,,RAVI SHANKAR ,ravi1@dms.iitd.ac.in,TF 14:00-15:30,,,60,0
+563,TOTAL PROJECT SYSTEMS MGMT.-MSL845,,Q,3.0-0.0-0.0,,JITENDER MADAAN   ,jmadaan@dms.iitd.ac.in,,,,60,0
+564,APPLIED OPERATIONS RESEARCH-MSL848,,U,3.0-0.0-0.0,,PRASANNA R ,prasannar@dms.iitd.ac.in,,,,60,0
+565,STRATEGIC ALLIANCE-MSL851,,R2,1.5-0.0-0.0,,SANJAY DHIR ,sanjaydhir@dms.iitd.ac.in,,,,80,0
+566,ELECTRONIC COMMERCE-MSL855,,F,3.0-0.0-0.0,,MANMOHAN PRASAD GUPTA ,mpgupta@dms.iitd.ac.in,TThF 11:00-12:00,,,0,0
+567,PRODUCT MANAGEMENT-MSL862,,U,3.0-0.0-0.0,,HARISH CHAUDHRY ,harishc@dms.iitd.ac.in,,,,90,0
+568,PRODUCT MANAGEMENT-MSL862,,J,3.0-0.0-0.0,,BISWAJITA PARIDA ,biswajitap@dms.iitd.ac.in,MTF 12:00-13:00,,,90,0
+569,SECURITY ANALYSIS & PORTFOLIOMANAGEMENT-,,T,3.0-0.0-0.0,,SONALI JAIN ,sonalijain@dms.iitd.ac.in,,,,20,0
+Department    :,,Management Studies,,,,,,,,,,
+S.No,Course Name,,Slot Name,Units,Type,Instructor,Instructor Email,Lecture Time,Tutorial Time,Practical Time,Vacancy,Current Strength
+,MSL873,,,,,,,,,,,
+570,INTERNATIONAL FINANCIAL MANAGEMENT-MSL875,,AB,3.0-0.0-0.0,,SURENDRA SINGH YADAV   ,ssyadav@dms.iitd.ac.in,MTh 15:30-17:00,,,60,0
+571,ECONOMICS OF DIGITALBUSINESS-MSL876,,T2,1.0-0.0-1.0,,ARPAN KUMAR KAR ,arpankar@dms.iitd.ac.in,,,,60,0
+572,CURRENT AND EMERGING ISSUES IN FINANCE-MSL879,,B,3.0-0.0-0.0,,SHVETA SINGH ,shvetasingh@dms.iitd.ac.in,MTh 09:30-11:00,,,60,0
+573,MANAGEMENT OF PUBLIC SECTOR ENTERPRISES IN INDIA-MSL881,,AD,3.0-0.0-0.0,,MANISH KUMAR SINGH ,mks@dms.iitd.ac.in,TF 15:30-17:00,,,60,0
+574,DIGITAL MARKETING-ANALYTICS & OPTIMIZATION-MSL885,,R,3.0-0.0-0.0,,ARPAN KUMAR KAR ,arpankar@dms.iitd.ac.in,,,,80,0
+575,MOBILE COMMERCE-MSL887,,AA,3.0-0.0-0.0,,AGAM GUPTA ,agam@dms.iitd.ac.in,MTh 14:00-15:30,,,60,0
+576,PREDICTIVE ANALYTICS-MSL892,,T1,1.5-0.0-0.0,,ARPAN KUMAR KAR ,arpankar@dms.iitd.ac.in,,,,80,0
+577,CORPORATE SECTOR ATTACHMENT-MST893,,P,0.0-0.0-4.0,,ARPAN KUMAR KAR ,arpankar@dms.iitd.ac.in,,,,140,0
+578,SELECTED TOPICS IN FINANCE-MSV802,,X,1.0-0.0-0.0,,SHVETA SINGH ,shvetasingh@dms.iitd.ac.in,,,,80,0
+579,SELECTED TOPICS IN ECONOMICS-MSV805,,X,1.0-0.0-0.0,,MANISH KUMAR SINGH ,mks@dms.iitd.ac.in,,,,60,0
+580,CONTEMPORARY ISSUES IN FINANCE-MSV819,,X,1.0-0.0-0.0,,SHVETA SINGH ,shvetasingh@dms.iitd.ac.in,,,,80,0
+581,CONTEMPORARY ISSUES IN ECONOMIC POLICY-MSV822,,X,1.0-0.0-0.0,,ERI IKEDA ,ikedaeri@dms.iitd.ac.in,,,,60,0
+582,MAJOR PROJECT PART-I-JPD801,,P,0.0-0.0-12.0,,SAMPA SAHA   ,ssaha@mse.iitd.ac.in,,,,30,0
+Department    :,,Materials Science & Engineering,,,,,,,,,,
+S.No,Course Name,,Slot Name,Units,Type,Instructor,Instructor Email,Lecture Time,Tutorial Time,Practical Time,Vacancy,Current Strength
+583,B.TECH PROJECT-BTP-I-MLD401,,X,0.0-0.0-8.0,,RAJESH PRASAD   ,rajesh@mse.iitd.ac.in,,,,120,0
+584,MAJOR PROJECT-I-MLD801,,P,0.0-0.0-18.0,,SURESH NEELAKANTAN   ,sureshn@mse.iitd.ac.in,,,,30,0
+585,STRUCTURE AND CHARACTERISATION OF MATERIALS-MLL701,,A,3.0-0.0-0.0,,"JAYANT JAIN   , SANGEETA SANTRA ",jayantj@mse.iitd.ac.in,MTh 08:00-09:30,,,40,0
+586,THERMODYNAMICS OF MATERIALS-MLL702,,B,3.0-0.0-0.0,,RAJESH PRASAD   ,rajesh@mse.iitd.ac.in,MTh 09:30-11:00,,,30,0
+587,MATHEMATICAL AND COMPUTATIONAL METHODS IN MATERIALS-MLL703,,D,3.0-0.0-2.0,,"ANOOP KRISHNAN NADUVATH  MANA , DIVYA NAYAR ",krishnan@civil.iitd.ac.in,TWF 09:00-10:00,,,30,0
+588,MATERIALS PROCESSING AND CHARACTERIZATION LAB-MLP704,,X,1.0-1.0-4.0,,"SURESH NEELAKANTAN   , LAKSHMI NARAYAN RAMASUBRAMANIAN ",sureshn@mse.iitd.ac.in,,,,30,0
+589,SPECIAL TOPICS IN MATERIALS-MLV705,,X,1.0-0.0-0.0,,LAKSHMI NARAYAN RAMASUBRAMANIAN ,rlnarayan@mse.iitd.ac.in,,,,30,0
+590,POLYMER CHEMISTRY-PTL701,,A,3.0-0.0-0.0,,JOSEMON JACOB   ,jacob@mse.iitd.ac.in,MTh 08:00-09:30,,,30,0
+591,POLYMER PHYSICS-PTL703,,M,3.0-0.0-0.0,,BHABANI KUMAR SATAPATHY   ,bhabani@mse.iitd.ac.in,MTh 17:00-18:30,,,30,0
+592,POLYMER CHARACTERIZATION-PTL705,,E,2.0-0.0-2.0,,LEENA NEBHANI   ,lnebhani@mse.iitd.ac.in,TWF 10:00-11:00,,,30,0
+593,POLYMER ENGG. & RHEOLOGY-PTL707,,B,3.0-0.0-0.0,,ANUP KUMAR GHOSH   ,akghosh@mse.iitd.ac.in,MTh 09:30-11:00,,,30,0
+594,POLYMER BLENDS & ALLOYS-PTL714,,D,3.0-0.0-0.0,,SAMPA SAHA   ,ssaha@mse.iitd.ac.in,TWF 09:00-10:00,,,30,0
+595,RUBBER TECHNOLOGY-PTL716,,AC,3.0-0.0-0.0,,SHIB SHANKAR BANERJEE ,ssbanerjee@mse.iitd.ac.in,TF 14:00-15:30,,,30,0
+596,POLYMERIC NANOMATERIALS AND NANOCOMPOSITES-PTL726,,AD,3.0-0.0-0.0,,BIJAY PRAKASH TRIPATHI ,bptripathi@mse.iitd.ac.in,TF 15:30-17:00,,,35,0
+Department    :,,Materials Science & Engineering,,,,,,,,,,
+S.No,Course Name,,Slot Name,Units,Type,Instructor,Instructor Email,Lecture Time,Tutorial Time,Practical Time,Vacancy,Current Strength
+597,SPECIAL LECTURES IN POLYMERS:-PTV700,,AB,1.0-0.0-0.0,,SAMPA SAHA   ,ssaha@mse.iitd.ac.in,MTh 15:30-17:00,,,30,0
+598,LINEAR ALGEBRA-MAL860,,M,3.0-0.0-0.0,,BISWAJYOTI SAHA ,biswajyoti@maths.iitd.ac.in,MTh 17:00-18:30,,,50,0
+599,ANALYSIS-MAL874,,AD,3.0-0.0-0.0,,"SIVANANTHAN SAMPATH , VISWANATHAN PUTHAN VEEDU ",siva@maths.iitd.ac.in,TF 15:30-17:00,,,50,0
+600,PRACTICAL TRAINING-MAT450,,P,0.0-0.0-0.0,,RITUMONI SARMA ,ritumoni@maths.iitd.ac.in,,,,5,0
+601,PROJECT I-MTD701,,X,0.0-0.0-10.0,,VISWANATHAN PUTHAN VEEDU ,viswa@maths.iitd.ac.in,,,,75,0
+602,MAJOR PROJECT PART-I-MTD853,,P,0.0-0.0-8.0,,PUNIT SHARMA   ,punit1718@maths.iitd.ac.in,,,,60,0
+603,LINEAR ALGEBRA & APPLICATIONS-MTL104,,D,3.0-0.0-0.0,,PUNIT SHARMA   ,punit1718@maths.iitd.ac.in,TWF 09:00-10:00,,,150,0
+604,ALGEBRA-MTL105,,B,3.0-0.0-0.0,,ANIMA NAGAR ,anima@maths.iitd.ac.in,MTh 09:30-11:00,,,150,0
+605,PROBABILITY & STOCHASTIC PRO.-MTL106,,D,3.0-1.0-0.0,,"VIKAS VIKRAM SINGH , ANANTA KUMAR MAJEE     ",vikassingh@maths.iitd.ac.in,TWF 09:00-10:00,MTThF 14:00-15:00,,300,0
+606,NUMERICAL METHOD S& COMPUTATION-MTL107,,H,3.0-0.0-0.0,,S.CHANDRA SEKHARA RAO ,scsr@maths.iitd.ac.in,M 11:00-12:00,,,250,0
+607,COMBINATORICS-MTL146,,AB,3.0-0.0-0.0,,A. TRIPATHI ,atripath@maths.iitd.ac.in,MTh 15:30-17:00,,,75,0
+608,DISCRETE MATHEMATICAL STRUC.-MTL180,,B,3.0-1.0-0.0,,A. TRIPATHI ,atripath@maths.iitd.ac.in,MTh 09:30-11:00,,,200,0
+609,ANALYSIS & DESIGN OF ALGORITHMS-MTL342,,F,3.0-1.0-0.0,,BHAWANI SANKAR PANDA ,bspanda@maths.iitd.ernet.in,TThF 11:00-12:00,MTThF 13:00-14:00,,70,0
+610,ALGEBRA-MTL501,,C,3.0-1.0-0.0,,VIVEK MUKUNDAN ,vmukunda@maths.iitd.ac.in,TWF 09:00-10:00,,,75,0
+Department    :,,Mathematics,,,,,,,,,,
+S.No,Course Name,,Slot Name,Units,Type,Instructor,Instructor Email,Lecture Time,Tutorial Time,Practical Time,Vacancy,Current Strength
+611,LINEAR ALGEBRA-MTL502,,AA,3.0-1.0-0.0,,SHIV PRAKASH PATEL   ,shiv@maths.iitd.ac.in,MTh 14:00-15:30,,,75,0
+612,REAL ANALYSIS-MTL503,,F,3.0-1.0-0.0,,SUBIMAN KUNDU   ,skundu@maths.iitd.ac.in,TThF 11:00-12:00,MTThF 13:00-14:00,,75,0
+613,ORDINARY DIFFERENTIAL EQUATION-MTL504,,AB,3.0-1.0-0.0,,HARISH KUMAR ,hkumar@maths.iitd.ac.in,MTh 15:30-17:00,,,75,0
+614,COMPUTER PROGRAMMING-MTL505,,A,3.0-1.0-0.0,,MANI MEHRA ,mmehra@maths.iitd.ac.in,MTh 08:00-09:30,MTThF 13:00-14:00,,75,0
+615,PROBABILITY AND STATISTICS-MTL601,,AD,3.0-1.0-0.0,,S.DHARMARAJA   ,dharmar@maths.iitd.ac.in,TF 15:30-17:00,,,75,0
+616,FUNCTIONAL ANALYSIS-MTL602,,C,3.0-1.0-0.0,,VISWANATHAN PUTHAN VEEDU ,viswa@maths.iitd.ac.in,TWF 08:00-09:00,,,75,0
+617,PARTIAL DIFFERENTIAL EQUATIONS-MTL603,,E,3.0-1.0-0.0,,KONIJETI SREENADH   ,sreenadh@maths.iitd.ac.in,TWF 12:00-13:00,,,75,0
+618,COMP. METHODS FOR DIFFER. EQU.-MTL712,,J,3.0-0.0-2.0,,VIJAYANANDA KALYANA SRINIVAS KUMAR VASANA ,vvksrini@maths.iitd.ac.in,MTF 12:00-13:00,,,150,0
+619,FUZZY SETS AND APPLICATIONS-MTL717,,D,3.0-0.0-0.0,,NILADRI CHATTERJEE ,niladri@maths.iitd.ac.in,TWF 09:00-10:00,,,75,0
+620,FINANCIAL MATHEMATICS-MTL732,,AA,3.0-0.0-0.0,,APARNA MEHRA   ,apmehra@maths.iitd.ac.in,MTh 14:00-15:30,,,100,0
+621,COMMUTATIVE ALGEBRA-MTL738,,AC,3.0-0.0-0.0,,SURJEET KOUR   ,surjeetkour@maths.iitd.ac.in,TF 14:00-15:30,,,60,0
+622,REPRESENTATION OF FINITE GROUP-MTL739,,A,3.0-0.0-0.0,,RAJENDRA KUMAR SHARMA   ,rksharma@maths.iitd.ac.in,MTh 08:00-09:30,,,75,0
+623,MATHEMATICAL THEORY OF CODING-MTL744,,H,3.0-0.0-0.0,,RITUMONI SARMA ,ritumoni@maths.iitd.ac.in,M 11:00-12:00,,,75,0
+624,MULTIVARIATE STATISTICAL METH.-MTL766,,M,3.0-0.0-0.0,,APARNA MEHRA   ,apmehra@maths.iitd.ac.in,MTh 17:00-18:30,,,150,0
+Department    :,,Mathematics,,,,,,,,,,
+S.No,Course Name,,Slot Name,Units,Type,Instructor,Instructor Email,Lecture Time,Tutorial Time,Practical Time,Vacancy,Current Strength
+625,GRAPH THEORY-MTL768,,B,3.0-0.0-0.0,,BHAWANI SANKAR PANDA ,bspanda@maths.iitd.ernet.in,MTh 09:30-11:00,,,90,0
+626,FINITE ELEMENT THEORY & APPLI.-MTL781,,AC,3.0-0.0-0.0,,KAMANA  PORWAL ,kamana@maths.iitd.ac.in,TWF 10:00-11:00,,,100,0
+627,THEORY OF COMPUTATION-MTL783,,F,3.0-0.0-0.0,,NILADRI CHATTERJEE ,niladri@maths.iitd.ac.in,TThF 11:00-12:00,,,100,0
+628,ABSTRACT HARMONIC ANALYSIS-MTL850,,AB,3.0-0.0-0.0,,N.SHRAVAN KUMAR   ,shravankumar@maths.iitd.ac.in,MTh 15:30-17:00,,,10,0
+629,INTRO TO MATHEMATICS & COMPUTING-MTN101,,X,0.0-0.0-2.0,,APARAJITA  DASGUPTA ,adasgupta@maths.iitd.ac.in,,,,100,0
+630,ROBOTICS TECHNOLOGY-JRL302L,,X,3.0-0.0-0.0,,SUBODH KUMAR ,subodh@cse.iitd.ac.in,,,,20,0
+631,B.TECH.PROJECT-MCD411,,P,0.0-0.0-8.0,,RAJ KUMAR PANDEY   ,rajpandey@mech.iitd.ac.in,,,,120,0
+632,B.TECH.PROJECT - II-MCD412,,P,0.0-0.0-14.0,,RAJ KUMAR PANDEY   ,rajpandey@mech.iitd.ac.in,,,,30,0
+633,MAJOR PROJECT PART I (THERMAL ENGINEERING)-MCD811,,P,0.0-0.0-16.0,,DEBABRATA DASGUPTA   ,debabrata@mech.iitd.ac.in,,,,30,0
+634,MAJOR PROJECT PART II (THERMALENGINEERING)-MCD812,,X,0.0-0.0-24.0,,DEBABRATA DASGUPTA   ,debabrata@mech.iitd.ac.in,,,,10,0
+635,MAJOR PROJECT PART-I-MCD831,,P,0.0-0.0-12.0,,SUJEET KUMAR SINHA   ,sks@mech.iitd.ac.in,,,,60,0
+636,MAJOR PROJECT PART-1-MCD881,,P,0.0-0.0-12.0,,PRITHVIRAJ MUKHOPADHYAY ,prithvirajm@mech.iitd.ac.in,,,,30,0
+637,MAJOR PROJECT (MSR)-MCD895,,P,0.0-0.0-72.0,,SUPREET SINGH BAHGA ,bahga@mech.iitd.ac.in,,,,60,0
+638,KINEMATICS & DY. OF MACHINES-MCL111,,B,3.0-0.0-2.0,,JAYANTA KUMAR DUTT ,jkdutt@mech.iitd.ac.in,MTh 09:30-11:00,,,180,0
+Department    :,,Mechanical Engineering,,,,,,,,,,
+S.No,Course Name,,Slot Name,Units,Type,Instructor,Instructor Email,Lecture Time,Tutorial Time,Practical Time,Vacancy,Current Strength
+639,METROLOGY & QUALITY ASSURANCE-MCL134L,,B,3.0-0.0-0.0,,SUDARSAN GHOSH   ,ghoshs@mech.iitd.ac.in,MTh 09:30-11:00,,,100,0
+640,WELDING AND ALLIED PROCESSES-MCL135,,F,3.0-0.0-0.0,,SIVANANDAM ARAVINDAN   ,aravindan@mech.iitd.ac.in,TThF 11:00-12:00,,,100,0
+641,MATERIAL REMOVAL PROCESSES-MCL136,,X,3.0-0.0-0.0,,SUDARSAN GHOSH   ,ghoshs@mech.iitd.ac.in,,,,0,0
+642,ENGINEERING THERMODYNAMICS-MCL140,,C,3.0-1.0-0.0,,SUPREET SINGH BAHGA ,bahga@mech.iitd.ac.in,TWF 08:00-09:00,,,100,0
+643,THERMAL SC. FOR MANUFACTURING-MCL141,,F,3.0-1.0-0.0,,B. PREMACHANDRAN ,prem@mech.iitd.ac.in,TThF 11:00-12:00,MTThF 13:00-14:00,,100,0
+644,DESIGN OF MACHINES-MCL211L,,C,3.0-0.0-0.0,,RAJ KUMAR PANDEY   ,rajpandey@mech.iitd.ac.in,TWF 08:00-09:00,,,160,0
+645,MANUFACTURING PROCESSES II-MCL231,,F,3.0-0.0-0.0,,"P.VENKATESWARA RAO   , KUSUM MEENA ",pvrao@mech.iitd.ac.in,TThF 11:00-12:00,,,100,0
+646,HEAT AND MASS TRANSFER-MCL242,,B,3.0-1.0-0.0,,SANJEEV JAIN ,sanjeevj@mech.iitd.ac.in,MTh 09:30-11:00,,,100,0
+647,INTRO TO OPERATIONS RESEARCH-MCL261,,E,3.0-0.0-0.0,,VARUN  RAMAMOHAN ,varunr@mech.iitd.ac.in,TWF 10:00-11:00,,,155,0
+648,STOCHASTIC MODELLING & SIMULA.-MCL262,,A,3.0-0.0-0.0,,NOMESH BHOJKUMAR BOLIA ,nomesh@mech.iitd.ac.in,MTh 08:00-09:30,,,80,0
+649,ACOUSTICS AND NOISE CONTROL-MCL314L,,A,3.0-0.0-0.0,,SUBODH VASANT MODAK ,svmodak@mech.iitd.ernet.in,MTh 08:00-09:30,,,60,0
+650,VIBRATION ENGINEERING-MCL316,,E,3.0-0.0-2.0,,"KSHITIJ GUPTA   , ASHISH KAMALAKAR DARPE ",,TWF 10:00-11:00,,,60,0
+651,POWER TRAIN DESIGN-MCL322,,B,3.0-0.0-0.0,,"SATINDER PAUL SINGH , KAUSHIK MUKHERJEE ",singhsp@mech.iitd.ac.in,MTh 09:30-11:00,,,60,0
+652,GAS DYNAMICS AND PROPULSION-MCL341L,,H,3.0-0.0-0.0,,DEBABRATA DASGUPTA   ,debabrata@mech.iitd.ac.in,M 11:00-12:00,,,50,0
+Department    :,,Mechanical Engineering,,,,,,,,,,
+S.No,Course Name,,Slot Name,Units,Type,Instructor,Instructor Email,Lecture Time,Tutorial Time,Practical Time,Vacancy,Current Strength
+653,REFRIGERATION & AIR-CONDITION.-MCL344L,,J,3.0-0.0-0.0,,BHUPINDER GODARA ,godara@mech.iitd.ac.in,MTF 12:00-13:00,,,40,0
+654,RECIPROCATING INTERN. COM. EN.-MCL345L,,E,3.0-0.0-0.0,,KRISHNA KANT AGRAWAL   ,kkant@mech.iitd.ac.in,TWF 10:00-11:00,,,100,0
+655,CAM AND AUTOMATION-MCL431,,D,2.0-0.0-2.0,,SUNIL JHA ,suniljha@mech.iitd.ac.in,TWF 09:00-10:00,,,150,0
+656,THERMOFLUID ANALYSIS OF BIOSY.-MCL442,,H,3.0-0.0-0.0,,BAHNI  RAY ,bray@mech.iitd.ac.in,M 11:00-12:00,,,100,0
+657,ADVANCED THERMODYNAMICS-MCL701,,C,3.0-0.0-0.0,,M.R. RAVI   ,ravimr@mech.iitd.ac.in,TWF 08:00-09:00,,,100,0
+658,ADVANCED FLUID MECHANICS-MCL702,,A,3.0-0.0-0.0,,SUBHRA DATTA ,subhra.datta@mech.iitd.ac.in,MTh 08:00-09:30,,,100,0
+659,ADVANCED HEAT AND MASS TRANSFE-MCL703,,F,3.0-0.0-0.0,,PRABAL TALUKDAR ,prabal@mech.iitd.ac.in,TThF 11:00-12:00,,,100,0
+660,APPLIED MATHEMATICS FOR THERMO-MCL704,,B,3.0-0.0-0.0,,SANGEETA KOHLI ,skohli@mech.iitd.ernet.in,MTh 09:30-11:00,,,100,0
+661,NANOMECHANICS-MCL729,,A,2.0-0.0-2.0,,DEVENDRA KUMAR DUBEY ,dkdubey@mech.iitd.ac.in,MTh 08:00-09:30,,,40,0
+662,ANALYTICAL DYNAMICS-MCL731,,B,3.0-0.0-0.0,,"RAMA KRISHNA K   , SUBIR KUMAR SAHA ",rkk@mech.iitd.ac.in,MTh 09:30-11:00,,,60,0
+663,CAD & FINITE ELEMENT ANALYSIS-MCL735,,D,3.0-0.0-2.0,,"DEVENDRA KUMAR DUBEY , SUBIR KUMAR SAHA ",dkdubey@mech.iitd.ac.in,TWF 09:00-10:00,,,60,0
+664,LUBRICATION-MCL740,,E,3.0-0.0-0.0,,SUJEET KUMAR SINHA   ,sks@mech.iitd.ac.in,TWF 10:00-11:00,,,40,0
+665,DESIGN & OPTIMIZATION-MCL742,,E,3.0-0.0-2.0,,ANOOP CHAWLA ,achawla@mech.iitd.ac.in,TWF 10:00-11:00,,,60,0
+666,INDUSTRIAL ENGINEERING SYSTEMS-MCL751,,E,1.0-0.0-4.0,,S.G. DESHMUKH   ,deshmukh@mech.iitd.ac.in,TWF 10:00-11:00,,,20,0
+667,SUPPLY CHAIN MANAGEMENT-MCL756,,K,3.0-0.0-0.0,,S.G. DESHMUKH   ,deshmukh@mech.iitd.ac.in,"W 12:00-13:00 ,TF ",,,50,0
+Department    :,,Mechanical Engineering,,,,,,,,,,
+S.No,Course Name,,Slot Name,Units,Type,Instructor,Instructor Email,Lecture Time,Tutorial Time,Practical Time,Vacancy,Current Strength
+,,,,,,,,17:00-18:00,,,,
+668,ENTREPRENEURSHIP-MCL759,,J,3.0-0.0-0.0,,PRIYA VASHISTH   ,vashisthp@mech.iitd.ac.in,MTF 12:00-13:00,,,70,0
+669,PROBABILITY AND STATISTICS-MCL761,,B,3.0-0.0-0.0,,VARUN  RAMAMOHAN ,varunr@mech.iitd.ac.in,MTh 09:30-11:00,,,52,0
+670,OPERATIONS RESEARCH-MCL765,,J,3.0-0.0-0.0,,SHAURYA SHRIYAM ,shriyam@mech.iitd.ac.in,MTF 12:00-13:00,,,100,0
+671,METAL FORMING ANALYSIS-MCL769L,,D,3.0-0.0-0.0,,DIGAVALLI RAVI KUMAR   ,dravi@mech.iitd.ac.in,TWF 09:00-10:00,,,30,0
+672,MACHINING PROCESSES AND ANALYS-MCL781L,,E,3.0-0.0-0.0,,PRITHVIRAJ MUKHOPADHYAY ,prithvirajm@mech.iitd.ac.in,TWF 10:00-11:00,,,100,0
+673,WELDING SCIENCE AND TECHNOLOGY-MCL787L,,A,3.0-0.0-0.0,,SIVANANDAM ARAVINDAN   ,aravindan@mech.iitd.ac.in,MTh 08:00-09:30,,,100,0
+674,PROCESSING AND MECHANICS OF CO-MCL791,,C,3.0-0.0-2.0,,NARESH BHATNAGAR   ,nareshb@mech.iitd.ac.in,TWF 08:00-09:00,,,100,0
+675,ADDITIVE MANUFACTURING-MCL796,,B,3.0-0.0-2.0,,PULAK MOHAN PANDEY ,pmpandey@mech.iitd.ac.in,MTh 09:30-11:00,,,100,0
+676,COMBUSTION-MCL812,,H,3.0-0.0-0.0,,MAYANK KUMAR   ,kmayank@mech.iitd.ac.in,M 11:00-12:00,,,100,0
+677,LATTICE BOLTZMANN METHOD-MCL819,,E,3.0-0.0-0.0,,AMIT GUPTA   ,agupta@mech.iitd.ac.in,TWF 10:00-11:00,,,15,0
+678,ADVANCED MECHANISMS-MCL837,,A,2.0-0.0-2.0,,SUDIPTO MUKHERJEE   ,sudipto@mech.iitd.ac.in,MTh 08:00-09:30,,,40,0
+679,ROTOR DYNAMICS-MCL838,,C,3.0-0.0-2.0,,ASHISH KAMALAKAR DARPE ,akdarpe@mech.iitd.ernet.in,TWF 08:00-09:00,,,25,0
+680,EXPERIMENTAL MODAL ANALYSIS AND DYNAMIC DESIGN-MCL840,,D,2.0-0.0-2.0,,SATINDER PAUL SINGH ,singhsp@mech.iitd.ac.in,TWF 09:00-10:00,,,40,0
+681,INTRO. TO INDUSTRIAL & PRODUCT-MCN111,,P,0.0-0.0-2.0,,PULAK MOHAN PANDEY ,pmpandey@mech.iitd.ac.in,,,,100,0
+Department    :,,Mechanical Engineering,,,,,,,,,,
+S.No,Course Name,,Slot Name,Units,Type,Instructor,Instructor Email,Lecture Time,Tutorial Time,Practical Time,Vacancy,Current Strength
+682,INDUSTRIAL ENGINEERING LAB- II-MCP361,,C,0.0-0.0-2.0,,SHAURYA SHRIYAM ,shriyam@mech.iitd.ac.in,,,,70,0
+683,SEMINAR COURSE - I-MCQ301,,P,0.0-0.0-2.0,,KAUSHIK MUKHERJEE ,kmukherjee@mech.iitd.ac.in,,,,30,0
+684,SEMINAR COURSE - II-MCQ302,,P,0.0-0.0-2.0,,SUBHRA DATTA ,subhra.datta@mech.iitd.ac.in,,,,30,0
+685,SEMINAR COURSE - III-MCQ303,,P,0.0-0.0-2.0,,NARESH BHATNAGAR   ,nareshb@mech.iitd.ac.in,,,,30,0
+686,SPECIAL MODULE IN SYSTEM DESIGN-MCV849,,K,1.0-0.0-0.0,,ASHISH KAMALAKAR DARPE ,akdarpe@mech.iitd.ernet.in,"W 12:00-13:00 ,TF 17:00-18:00",,,50,0
+687,SPECIAL MODULE IN SYSTEM DESIGN-MCV849,,H,1.0-0.0-0.0,,NARESH VARMA DATLA ,datla@mech.iitd.ac.in,M 11:00-12:00,,,50,0
+688,MAJOR PROJECT PART-I-MED861,,P,0.0-0.0-12.0,,VARUN  RAMAMOHAN ,varunr@mech.iitd.ac.in,,,,30,0
+689,HUMAN VALUES AND TECHNOLOGY-VEL700,,M,2.0-1.0-0.0,,SANGEETA KOHLI ,skohli@mech.iitd.ernet.in,MTh 17:00-18:30,,,60,0
+690,TRADITIONAL KNOWLEDGE AND VALUES-VEL710,,H,2.0-1.0-0.0,,VIJAYARAGHAVAN M. CHARIAR ,chariarv@rdat.iitd.ac.in,M 11:00-12:00,W 11:00-12:00,,20,0
+691,SPECIAL MODULE ON CIVILIZATION-I-VEV737,,X,0.5-0.0-1.0,,ANOOP KRISHNAN NADUVATH  MANA ,krishnan@civil.iitd.ac.in,,,,100,0
+692,SPECIAL MODULE ON CIVILIZATION-II-VEV738,,X,0.5-0.0-1.0,,RAHUL GARG   ,rahulgarg@cse.iitd.ac.in,,,,100,0
+693,MAJOR PROJECT PART-I-JOD801,,P,0.0-0.0-12.0,,JOYEE GHOSH ,joyee@physics.iitd.ac.in,,,,30,0
+694,SELECTED TOPICS-I-JOL793,,E,3.0-0.0-0.0,,VIVEK    VENKATARAMAN ,vivekv@ee.iitd.ac.in,TWF 10:00-11:00,,,50,0
+695,PROJECT-I-PYD411,,P,0.0-0.0-8.0,,PRADIPTA GHOSH ,tphyspg@physics.iitd.ac.in,,,,70,0
+Department    :,,Physics,,,,,,,,,,
+S.No,Course Name,,Slot Name,Units,Type,Instructor,Instructor Email,Lecture Time,Tutorial Time,Practical Time,Vacancy,Current Strength
+696,MAJOR PROJECT PART II-PYD412,,P,0.0-0.0-16.0,,PRADIPTA GHOSH ,tphyspg@physics.iitd.ac.in,,,,70,0
+697,PROJECT III-PYD414,,P,0.0-0.0-8.0,,PRADIPTA GHOSH ,tphyspg@physics.iitd.ac.in,,,,70,0
+698,PROJECT I-PYD561,,P,0.0-0.0-6.0,,RAHUL SURESH MARATHE   ,maratherahul@physics.iitd.ac.in,,,,65,0
+699,MAJOR PROJECT PART-I-PYD801,,P,0.0-0.0-12.0,,PINTU DAS ,pintu@physics.iitd.ac.in,,,,30,0
+700,MAJOR PROJECT PART-I-PYD851,,P,0.0-0.0-12.0,,BHASKAR KANSERI ,bkanseri@physics.iitd.ac.in,,,,30,0
+701,PRINCIPLES OF ELECT. MATERIALS-PYL102,,H,3.0-0.0-0.0,,"PINTU DAS , MANISHA THAKURATHI , KAUSTUV MANNA ",pintu@physics.iitd.ac.in,M 11:00-12:00,,,150,0
+702,ELEMENTS OF MATERIALS PROCEG-PYL116,,A,3.0-1.0-0.0,,PRANABA KISHOR MUDULI ,muduli@physics.iitd.ac.in,MTh 08:00-09:30,MTThF 13:00-14:00,,70,0
+703,MATHEMATICAL PHYSICS - I-PYL121,,C,3.0-1.0-0.0,,RAHUL SURESH MARATHE   ,maratherahul@physics.iitd.ac.in,TWF 08:00-09:00,,,70,0
+704,OPTICS AND PHOTONICS - I-PYL123,,D,3.0-1.0-0.0,,ANURAG SHARMA   ,asharma@physics.iitd.ac.in,TWF 09:00-10:00,MTThF 14:00-15:00,,70,0
+705,SOLID STATE PHYSICS - I-PYL125,,F,3.0-1.0-0.0,,SUJIT  MANNA  ,smanna@physics.iitd.ac.in,TThF 11:00-12:00,MTThF 13:00-14:00,,70,0
+706,CLASSICAL MECHANICS & RELATIVITY-PYL127,,B,3.0-1.0-0.0,,V.RAVISHANKAR ,vravi@physics.iitd.ac.in,MTh 09:30-11:00,,,70,0
+707,FUNDAM. OF DIELECTRICS & SEMI.-PYL201,,E,3.0-1.0-0.0,,GADDAM VIJAYA PRAKASH ,prakash@physics.iitd.ernet.in,TWF 10:00-11:00,MTThF 13:00-14:00,,70,0
+708,NUCLEAR SCIENCE & ENGINEERING-PYL302,,B,3.0-0.0-0.0,,SANTANU GHOSH ,santanu1@physics.iitd.ernet.in,MTh 09:30-11:00,,,70,0
+709,FOURIER OPTICS & HOLOGRAPHY-PYL313,,K,3.0-0.0-0.0,,JOBY JOSEPH   ,joby@opc.iitd.ac.in,"W 12:00-13:00 ,TF 17:00-18:00",,,70,0
+Department    :,,Physics,,,,,,,,,,
+S.No,Course Name,,Slot Name,Units,Type,Instructor,Instructor Email,Lecture Time,Tutorial Time,Practical Time,Vacancy,Current Strength
+710,APPLIED QUANTUM MECHANICS-PYL331,,C,3.0-0.0-0.0,,PRADIPTA GHOSH ,tphyspg@physics.iitd.ac.in,TWF 08:00-09:00,,,70,0
+711,GEN. TH. OF RELATIVITY & COSM.-PYL332,,F,3.0-0.0-0.0,,SUPRIT SINGH ,suprit@physics.iitd.ac.in,TThF 11:00-12:00,,,70,0
+712,QUANTUM ELECTRONICS-PYL411,,E,3.0-0.0-0.0,,JOYEE GHOSH ,joyee@physics.iitd.ac.in,TWF 10:00-11:00,,,70,0
+713,RELATIVISTIC QUANTUM MECHANICS-PYL431,,J,2.0-0.0-0.0,,AJIT KUMAR ,ajitk@physics.iitd.ac.in,MTF 12:00-13:00,,,70,0
+714,PARTICLE ACCELERATORS-PYL434,,B,2.0-0.0-0.0,,HITENDRA KUMAR MALIK ,hkmalik@physics.iitd.ac.in,MTh 09:30-11:00,,,70,0
+715,CLASSICAL MECHANICS-PYL551,,D,3.0-1.0-0.0,,DEEPAK KUMAR ,krdeepak@physics.iitd.ac.in,TWF 09:00-10:00,MTThF 14:00-15:00,,65,0
+716,MATHEMATICAL PHYSICS-PYL553,,E,3.0-1.0-0.0,,SUJIN B.BABU ,sujin@physics.iitd.ac.in,TWF 10:00-11:00,MTThF 13:00-14:00,,65,0
+717,QUANTUM MECHANICS I-PYL555,,F,3.0-1.0-0.0,,BODHADITYA SANTRA ,bsantra@physics.iitd.ac.in,TThF 11:00-12:00,MTThF 13:00-14:00,,75,0
+718,ELECTRONICS-PYL557,,C,3.0-1.0-0.0,,JITENDRA PRATAP SINGH ,jpsingh@physics.iitd.ac.in,TWF 08:00-09:00,,,65,0
+719,ATOMIC AND MOLECULAR PHYSICS-PYL567,,K,3.0-0.0-0.0,,ADITYA NARAIN  AGNIHOTRI  ,agnihotri@physics.iitd.ac.in,"W 12:00-13:00 ,TF 17:00-18:00",,,65,0
+720,NUCLEAR AND PARTICLE PHYSICS-PYL569,,B,3.0-0.0-0.0,,ANIRUDDHA KUMAR SHUKLA ,akshukla@physics.iitd.ac.in,MTh 09:30-11:00,,,65,0
+721,LASER PHYSICS-PYL655,,H,3.0-0.0-0.0,,M.R. SHENOY ,mrshenoy@physics.iitd.ac.in,M 11:00-12:00,,,65,0
+722,PLASMA PHYSICS-PYL657,,X,3.0-0.0-0.0,,AMITA DAS ,amita@physics.iitd.ac.in,MTF 12:00-13:00,,,65,0
+723,PHYSICAL FOUNDATIONS OF MATERI-PYL701,,M,3.0-0.0-0.0,,PANKAJ SRIVASTAVA   ,pankajs@physics.iitd.ac.in,MTh 17:00-18:30,,,50,0
+Department    :,,Physics,,,,,,,,,,
+S.No,Course Name,,Slot Name,Units,Type,Instructor,Instructor Email,Lecture Time,Tutorial Time,Practical Time,Vacancy,Current Strength
+724,PHYSICS OF SEMICONDUCTOR DEVIC-PYL702,,L,3.0-0.0-0.0,,RAJENDRA SINGH   ,rsingh@physics.iitd.ac.in,"W 13:00-14:00 ,TF 18:00-19:00",,,90,0
+725,ELECTRONIC PROPERTIES OF MATER-PYL703,,J,3.0-0.0-0.0,,G. B. REDDY ,gbreddy@physics.iitd.ac.in,MTF 12:00-13:00,,,75,0
+726,CHARACTERISATION TEC. FOR MAT.-PYL707,,H,3.0-0.0-0.0,,NEERAJ KHARE   ,nkhare@physics.iitd.ac.in,M 11:00-12:00,,,75,0
+727,VACUUM SCIENCE AND CRYOGENICS-PYL723,,A,3.0-0.0-0.0,,SUJEET CHAUDHARY ,sujeetc@physics.iitd.ac.in,MTh 08:00-09:30,,,50,0
+728,ENERGY MATERIALS AND DEVICES-PYL727,,K,3.0-0.0-0.0,,MUKESH CHANDER   ,mukesh@physics.iitd.ac.in,"W 12:00-13:00 ,TF 17:00-18:00",,,40,0
+729,ADVAN. CONDENSED MATTER THEORY-PYL740,,A,3.0-0.0-0.0,,SANKALPA GHOSH ,sankalpa@physics.iitd.ac.in,MTh 08:00-09:30,,,50,0
+730,FIELD THEORY & QUANTUM ELECTR.-PYL741,,C,3.0-0.0-0.0,,FOLKE TOBIAS  FLORUS TOLL  ,tobiastoll@physics.iitd.ac.in,MTh 17:00-18:30,,,50,0
+731,NON-EQUILIBRIUM STATISTICAL ME-PYL746,,J,3.0-0.0-0.0,,VARSHA BANERJEE ,varsha@physics.iitd.ac.in,MTF 12:00-13:00,,,50,0
+732,NON-LINEAR OPTICS-PYL747,,E,3.0-0.0-0.0,,R.K. VARSHNEY ,ravi@physics.iitd.ac.in,TWF 10:00-11:00,,,50,0
+733,QUANTUM INFORMATION & COMPUTA.-PYL749,,M,3.0-0.0-0.0,,PANKAJ AGRAWAL ,pagrawal@physics.iitd.ac.in,MTh 17:00-18:30,,,100,0
+734,"OPTICAL SOURCES, PHOTOMETRY AN-PYL751",,H,3.0-0.0-0.0,,BHASKAR KANSERI ,bkanseri@physics.iitd.ac.in,M 11:00-12:00,,,50,0
+735,BASIC OPTICS AND OPTICAL INSTR-PYL755,,K,3.0-0.0-0.0,,P.SENTHILKUMARAN   ,psenthil@opc.iitd.ac.in,"W 12:00-13:00 ,TF 17:00-18:00",,,50,0
+736,COMPUTATIONAL OPTICAL IMAGING-PYL759,,L,3.0-0.0-0.0,,KEDAR BHALCHANDRA KHARE   ,kedark@physics.iitd.ac.in,"W 13:00-14:00 ,TF 18:00-19:00",,,75,0
+Department    :,,Physics,,,,,,,,,,
+S.No,Course Name,,Slot Name,Units,Type,Instructor,Instructor Email,Lecture Time,Tutorial Time,Practical Time,Vacancy,Current Strength
+737,FIBER OPTICS-PYL791,,D,3.0-0.0-0.0,,ARUN KUMAR   ,akumar@opc.iitd.ac.in,TWF 09:00-10:00,,,50,0
+738,PHOTONIC DEVICES-PYL793,,E,3.0-0.0-0.0,,R.K. SONI  ,ravisoni@physics.iitd.ac.in,TWF 10:00-11:00,,,50,0
+739,OPTICS AND LASERS-PYL795,,J,3.0-0.0-0.0,,AMARTYA SENGUPTA ,amartya@physics.iitd.ac.in,MTF 12:00-13:00,,,50,0
+740,NUM. & COMP. METH. IN RESEARCH-PYL800,,F,3.0-0.0-0.0,,VISHAL KUMAR VAIBHAV ,vvaibhav@opc.iitd.ac.in,Th 09:30-11:00,,,70,0
+741,COMPUTATIONAL OPTICS LABORATORY-PYP763,,P,0.0-0.0-6.0,,KEDAR BHALCHANDRA KHARE   ,kedark@physics.iitd.ac.in,,,,30,0
+742,GRADUATE STUDENT RESEARCH SEMINAR-SBC795,,P,0.0-0.0-2.0,,MANIDIPA BANERJEE ,mbanerjee@bioschool.iitd.ac.in,,,,50,0
+743,MINI PROJECT-SBD301,,P,0.0-0.0-6.0,,BISHWAJIT KUNDU   ,bkundu@bioschool.iitd.ac.in,,,,30,0
+744,MS RESEARCH PROJECT-SBD895,,P,0.0-0.0-72.0,,TAPAN KUMAR NAYAK ,tapannayak@bioschool.iitd.ac.in,,,,30,0
+745,INTRO. TO BIOLOGY FOR ENGINEER-SBL100L,,C,3.0-0.0-0.0,,"ARCHANA CHUGH , MANOJ BALAKRISHNA MENON , ASHOK KUMAR PATEL ",achugh@bioschool.iitd.ac.in,TWF 08:00-09:00,,,0,0
+746,HIGH-DIMENSIONAL BIOLOGY-SBL201,,F,3.0-0.0-0.0,,SHILPI MINOCHA ,sminocha@bioschool.iitd.ac.in,TThF 11:00-12:00,,,50,0
+747,ADVANCED CELL BIOLOGY-SBL703,,J,3.0-0.0-0.0,,BISHWAJIT KUNDU   ,bkundu@bioschool.iitd.ac.in,MTF 12:00-13:00,,,50,0
+748,EPIGENETICS IN HUMAN HEALTH AND DISEASE-SBL708,,E,3.0-0.0-0.0,,VIVEKANANDAN PERUMAL   ,vperumal@bioschool.iitd.ac.in,TWF 10:00-11:00,,,50,0
+749,CHEMICAL BIOLOGY-SBL710,,B,3.0-0.0-0.0,,TAPAN KUMAR CHAUDHURI ,tkchaudhuri@bioschool.iitd.ac.in,MTh 09:30-11:00,,,60,0
+750,CELL SIGNALING-SBL711,,M,3.0-0.0-0.0,,CHINMOY SANKAR DEY ,csdey@bioschool.iitd.ac.in,MTh 17:00-18:30,,,50,0
+Department    :,,School of Biological Sciences,,,,,,,,,,
+S.No,Course Name,,Slot Name,Units,Type,Instructor,Instructor Email,Lecture Time,Tutorial Time,Practical Time,Vacancy,Current Strength
+751,INTRO. TO STRUCTURAL BIOLOGY-SBL713,,F,3.0-0.0-0.0,,MANIDIPA BANERJEE ,mbanerjee@bioschool.iitd.ac.in,TThF 11:00-12:00,,,60,0
+752,PRINCIPLES OF NEURAL EXCITABILITY AND COMMUNICATION-SBL723,,E,3.0-0.0-0.0,,TAPAN KUMAR NAYAK ,tapannayak@bioschool.iitd.ac.in,TWF 10:00-11:00,,,100,0
+753,INTRODUCTION TO PRACTICAL MODERN BIOLOGY-SBP200,,P,0.0-0.0-4.0,,ADITYA MITTAL   ,amittal@bioschool.iitd.ac.in,,,,50,0
+754,INDEPENDENT STUDY-SBS800,,P,0.0-3.0-0.0,,ARCHANA CHUGH ,achugh@bioschool.iitd.ac.in,,,,30,0
+755,BIOLOGICAL MEMBRANES-SBV882,,K,1.0-0.0-0.0,,ADITYA MITTAL   ,amittal@bioschool.iitd.ac.in,"W 12:00-13:00 ,TF 17:00-18:00",,,50,0
+756,ELEMENTS OF NEUROSCIENCE-SBV884,,H,1.0-0.0-0.0,,JAMES GOMES   ,jgomes@bioschool.iitd.ac.in,M 11:00-12:00,,,30,0
+757,CURRENT TOPICS IN COMPUTATIONAL BIOLOGY-SBV887,,M,1.0-0.0-0.0,,ADITYA MITTAL   ,amittal@bioschool.iitd.ac.in,MTh 17:00-18:30,,,50,0
+758,CELLULAR DIFFERENTIATION AND THERAPY-SBV893,,X,1.0-0.0-0.0,,ANITA ROY ,anita@bioschool.iitd.ac.in,,,,30,0
+759,DEVELOPMENT BIOLOGY-SBV895,,X,1.0-0.0-0.0,,SHILPI MINOCHA ,sminocha@bioschool.iitd.ac.in,,,,30,0
+760,MINOR PROJECT IN INFORMATION TECHNOLOGY-SID880,,P,0.0-0.0-6.0,,PREETI RANJAN PANDA   ,panda@cse.iitd.ac.in,,,,100,0
+761,MS RESEARCH PROJECT-SID890,,P,0.0-0.0-72.0,,PREETI RANJAN PANDA   ,panda@cse.iitd.ac.in,,,,100,0
+762,SPECIAL TOPICS IN MULTIMEDIA SYSTEMS-SIL801,,J,3.0-0.0-0.0,,PREM KUMAR KALRA   ,pkalra@cse.iitd.ac.in,MTF 12:00-13:00,,,100,0
+763,SPL. MODULE IN COMP. NEUROSC.-SIV871,,X,1.0-0.0-0.0,,TAPAN KUMAR GANDHI ,tgandhi@ee.iitd.ac.in,,,,100,0
+764,SPECIAL MODULE ON INTELLIGENT INFO. PROCESSING-SIV895,,X,1.0-0.0-0.0,,ASHOK KUMAR BHATEJA ,akbhateja@cse.iitd.ac.in,,,,50,0
+Department    :,,School of Public Policy,,,,,,,,,,
+S.No,Course Name,,Slot Name,Units,Type,Instructor,Instructor Email,Lecture Time,Tutorial Time,Practical Time,Vacancy,Current Strength
+765,SPECIAL MODULE IN POLICY STUDIES-SPV799,,X,1.0-0.0-0.0,,SANJAY MITRA ,sanjaymitra@sopp.iitd.ac.in,,,,60,0
+766,MAJOR PROJECT PART-I-DSD801,,P,0.0-0.0-12.0,,SATISH KUMAR DUBEY   ,satishdubey@iddc.iitd.ac.in,,,,18,0
+767,MAJOR PROJECT PART-II-DSD802,,P,0.0-0.0-24.0,,SATISH KUMAR DUBEY   ,satishdubey@iddc.iitd.ac.in,,,,3,0
+768,MAJOR PROJECT (MSR)-DSD895,,X,0.0-0.0-72.0,,GUFRAN SAYEED KHAN   ,gufranskhan@sense.iitd.ac.in,,,,25,0
+769,ELECTRO. COMPONENTS & CIRCUITS-DSL601,,F,3.0-0.0-0.0,,SUBRAT KAR   ,subrat@ee.iitd.ac.in,TThF 11:00-12:00,,,12,0
+770,MATERIAL & MECHANICAL DESIGN-DSL603,,J,3.0-0.0-0.0,,GUFRAN SAYEED KHAN   ,gufranskhan@sense.iitd.ac.in,MTF 12:00-13:00,,,20,0
+771,SENSORS AND TRANSDUCERS-DSL711,,E,3.0-0.0-0.0,,SATISH KUMAR DUBEY   ,satishdubey@iddc.iitd.ac.in,TWF 10:00-11:00,,,100,0
+772,PRECISION MEASUREMENTS SYSTEMS-DSL722,,B,3.0-0.0-0.0,,GUFRAN SAYEED KHAN   ,gufranskhan@sense.iitd.ac.in,MTh 09:30-11:00,,,50,0
+773,OPTICAL COMPONENTS & BASIC IN.-DSL731,,H,3.0-0.0-0.0,,GUFRAN SAYEED KHAN   ,gufranskhan@sense.iitd.ac.in,M 11:00-12:00,,,30,0
+774,SELECTED TOPICS IN INSTRUMENTATION-II-DSL814,,X,3.0-0.0-0.0,,SATISH KUMAR DUBEY   ,satishdubey@iddc.iitd.ac.in,,,,60,0
+775,SPECIAL TOPICS IN INSTRUMENTATION-DSL815,,X,1.0-0.0-0.0,,SUBRAT KAR   ,subrat@ee.iitd.ac.in,,,,60,0
+776,INSTRUMENT TECHNOLOGY LAB 1-DSP703,,P,0.0-0.0-6.0,,SATISH KUMAR DUBEY   ,satishdubey@iddc.iitd.ac.in,,,,20,0
+777,ADVANCED INSTRUMENT TECH. LAB-DSP705,,P,0.0-0.0-6.0,,SATISH KUMAR DUBEY   ,satishdubey@iddc.iitd.ac.in,,,,20,0
+778,MINI PROJECT-TXD301,,P,0.0-0.0-6.0,,ASHWINI K. AGRAWAL   ,ashwini@textile.iitd.ac.in,,,,30,0
+779,MINOR DESIGN PROJECT - I-TXD351,,P,0.0-0.0-2.0,,R. CHATTOPADHYAY ,rchat@textile.iitd.ac.in,,,,50,0
+Department    :,,Textile and Fiber Engineering,,,,,,,,,,
+S.No,Course Name,,Slot Name,Units,Type,Instructor,Instructor Email,Lecture Time,Tutorial Time,Practical Time,Vacancy,Current Strength
+780,MINOR DESIGN PROJECT - II-TXD352,,P,0.0-0.0-2.0,,R. CHATTOPADHYAY ,rchat@textile.iitd.ac.in,,,,60,0
+781,MINOR DESIGN PROJECT - VI-TXD356,,P,0.0-0.0-4.0,,R. CHATTOPADHYAY ,rchat@textile.iitd.ac.in,,,,60,0
+782,MINOR DESIGN PROJECT - VII-TXD357,,P,0.0-0.0-4.0,,R. CHATTOPADHYAY ,rchat@textile.iitd.ac.in,,,,60,0
+783,MINOR DESIGN PROJECT-VIII-TXD358,,P,0.0-0.0-4.0,,R. CHATTOPADHYAY ,rchat@textile.iitd.ac.in,,,,60,0
+784,MAJOR PROJECT PART I-TXD401,,P,0.0-0.0-8.0,,VIJAYKUMAR NARAYANDAS BAHETI ,baheti@textile.iitd.ac.in,,,,120,0
+785,MAJOR PROJECT PART II-TXD402,,P,0.0-0.0-16.0,,VIJAYKUMAR NARAYANDAS BAHETI ,baheti@textile.iitd.ac.in,,,,120,0
+786,MAJOR PROJECT PART-I (TXE)-TXD801,,P,0.0-0.0-12.0,,ABHIJIT MAJUMDAR   ,majumdar@textile.iitd.ac.in,,,,30,0
+787,MAJOR PROJECT PART-I (TXF)-TXD802,,P,0.0-0.0-12.0,,SOURABH GHOSH ,sghosh08@textile.iitd.ac.in,,,,30,0
+788,MAJOR PROJECT PART-I-TXD805,,P,0.0-0.0-12.0,,SAMRAT MUKHOPADHYAY   ,samrat@textile.iitd.ac.in,,,,30,0
+789,TEXTILE FIBRES-TXL111L,,D,2.0-0.0-0.0,,"BHANU NANDAN , SAMRAT MUKHOPADHYAY   , MANJEET JASSAL   ",nandan@textile.iitd.ac.in,TWF 09:00-10:00,,,120,0
+790,POLYMER CHEMISTRY-TXL130,,B,3.0-0.0-0.0,,RAJIV K. SRIVASTAVA ,rajiv@textile.iitd.ac.in,MTh 09:30-11:00,,,120,0
+791,STRUCTURE AND PHYSICAL PROPERTIES OF FIBRES-TXL211,,X,3.0-0.0-0.0,,RAJIV K. SRIVASTAVA ,rajiv@textile.iitd.ac.in,,,,0,0
+792,MANUFACTURED FIBRE TECHNOLOGY-TXL212,,E,3.0-0.0-0.0,,SOURABH GHOSH ,sghosh08@textile.iitd.ac.in,TWF 10:00-11:00,,,120,0
+793,YARN MANUFACTURE II-TXL222,,B,3.0-0.0-0.0,,APURBA DAS ,apurba@textile.iitd.ac.in,MTh 09:30-11:00,,,120,0
+Department    :,,Textile and Fiber Engineering,,,,,,,,,,
+S.No,Course Name,,Slot Name,Units,Type,Instructor,Instructor Email,Lecture Time,Tutorial Time,Practical Time,Vacancy,Current Strength
+794,FABRIC MANUFACTURE II-TXL232,,D,3.0-0.0-0.0,,BIPIN  KUMAR ,bipin@textile.iitd.ac.in,TWF 09:00-10:00,,,120,0
+795,TECH. OF TEXTILE COLORATION-TXL242,,F,3.0-0.0-0.0,,MD. S. WAZED ALI ,wazed@textile.iitd.ac.in,TThF 11:00-12:00,,,120,0
+796,EVALUATION OF TEXTILE MATERIAL-TXL361,,X,3.0-0.0-0.0,,VIJAYKUMAR NARAYANDAS BAHETI ,baheti@textile.iitd.ac.in,,,,0,0
+797,COSTING & ITS APP. IN TEXTILES-TXL381,,E,3.0-1.0-0.0,,S.M. ISHTIAQUE ,ishtiaque@textile.iitd.ac.in,TWF 10:00-11:00,MTThF 13:00-14:00,,70,0
+798,MODELLING & SIM. IN FIB. ASSE.-TXL700,,H,2.0-0.0-2.0,,AMIT RAWAL   ,arawal@textile.iitd.ac.in,M 11:00-12:00,,,50,0
+799,H.P. AND SPECIALTY FIBRES-TXL710,,F,3.0-0.0-0.0,,MANJEET JASSAL   ,manjeet@textile.iitd.ac.in,TThF 11:00-12:00,,,55,0
+800,POLYMER AND FIBRE CHEMISTRY-TXL711,,A,3.0-0.0-0.0,,BHUVANESH GUPTA ,bgupta@textile.iitd.ac.in,MTh 08:00-09:30,,,30,0
+801,POLYMER AND FIBRE PHYSICS-TXL712,,B,3.0-0.0-0.0,,MANGALA JOSHI ,mangala@textile.iitd.ernet.in,MTh 09:30-11:00,,,30,0
+802,TECHNOLOGY OF MELT SPUN FIBRES-TXL713,,E,3.0-1.0-0.0,,ASHWINI K. AGRAWAL   ,ashwini@textile.iitd.ac.in,TWF 10:00-11:00,MTThF 13:00-14:00,,50,0
+803,FUNCTIONAL AND SMART TEXTILES-TXL719,,C,3.0-0.0-0.0,,BHANU NANDAN ,nandan@textile.iitd.ac.in,TWF 08:00-09:00,,,50,0
+804,THEORY OF YARN STRUCTURE-TXL721,,E,3.0-0.0-0.0,,R.S. RENGASAMY   ,rsr@textile.iitd.ac.in,TWF 10:00-11:00,,,30,0
+805,MECHANICS OF SPINNING PROCESSE-TXL722,,A,3.0-0.0-0.0,,R. CHATTOPADHYAY ,rchat@textile.iitd.ac.in,MTh 08:00-09:30,,,30,0
+806,TEXTURED YARN TECHNOLOGY-TXL724,,H,3.0-0.0-0.0,,KUSHAL SEN   ,kushal@textile.iitd.ac.in,M 11:00-12:00,,,50,0
+807,THEORY OF FABRIC STRUCTURE-TXL731,,F,3.0-0.0-0.0,,B.K.BEHERA ,behera@textile.iitd.ac.in,TThF 11:00-12:00,,,30,0
+Department    :,,Textile and Fiber Engineering,,,,,,,,,,
+S.No,Course Name,,Slot Name,Units,Type,Instructor,Instructor Email,Lecture Time,Tutorial Time,Practical Time,Vacancy,Current Strength
+808,ADVANCED FABRIC MANUFACTURING-TXL732,,B,3.0-0.0-0.0,,ABHIJIT MAJUMDAR   ,majumdar@textile.iitd.ac.in,MTh 09:30-11:00,,,30,0
+809,NONWOVEN SCIENCE & ENGINEERING-TXL734,,B,3.0-0.0-0.0,,DIPAYAN DAS   ,dipayan@textile.iitd.ac.in,MTh 09:30-11:00,,,50,0
+810,COLOUR SCIENCE-TXL747,,AB,3.0-0.0-0.0,,SAMRAT MUKHOPADHYAY   ,samrat@textile.iitd.ac.in,MTh 15:30-17:00,,,30,0
+811,THEORY AND PRACTICE OFDYEING-TXL749,,F,3.0-0.0-0.0,,BHUPENDRA SINGH BUTOLA ,bsbutola@textile.iitd.ac.in,TThF 11:00-12:00,,,30,0
+812,SCIENCE OF CLOTHING COMFORT-TXL750,,D,3.0-0.0-0.0,,VIJAYKUMAR NARAYANDAS BAHETI ,baheti@textile.iitd.ac.in,TWF 09:00-10:00,,,50,0
+813,DESIGN OF FUNCTIONAL CLOTHING-TXL752,,J,3.0-0.0-0.0,,DEEPTI GUPTA ,deepti@textile.iitd.ac.in,MTF 12:00-13:00,,,50,0
+814,ADVANCED TEXTILE PRINTINGTECHNOLOGY-TXL753,,C,2.0-0.0-0.0,,KUSHAL SEN   ,kushal@textile.iitd.ac.in,TWF 08:00-09:00,,,30,0
+815,TEXTILE WET PROCESSING MACHINES: AUTOMATION & CONTROL-TXL755,,AB,3.0-0.0-0.0,,"JAVED NABIBAKSHA SHEIKH   , KUSHAL SEN   , BHUPENDRA SINGH BUTOLA ",jnsheikh@textile.iitd.ac.in,MTh 15:30-17:00,,,50,0
+816,TECH OF TEXTILE COLORATION LAB-TXP242,,X,0.0-0.0-3.0,,MD. S. WAZED ALI ,wazed@textile.iitd.ac.in,,,,0,0
+817,SEMINAR COURSE 1-TXQ301,,P,0.0-0.0-2.0,,KUSHAL SEN   ,kushal@textile.iitd.ac.in,,,,120,0
+818,PROFESSIONAL PRACTICES-TXR752,,P,0.0-0.0-2.0,,KUSHAL SEN   ,kushal@textile.iitd.ac.in,,,,30,0
+819,INDEPENDENT STUDY-TXS301,,P,0.0-3.0-0.0,,ASHWINI K. AGRAWAL   ,ashwini@textile.iitd.ac.in,,,,30,0
+820,RESEARCH SEMINAR-TXS751,,P,0.0-0.0-2.0,,SAMRAT MUKHOPADHYAY   ,samrat@textile.iitd.ac.in,,,,30,0
+821,SUMMER INTERNSHIP - I-TXT200,,P,0.0-0.0-4.0,,SOURABH GHOSH ,sghosh08@textile.iitd.ac.in,,,,60,0
+Department    :,,Textile and Fiber Engineering,,,,,,,,,,
+S.No,Course Name,,Slot Name,Units,Type,Instructor,Instructor Email,Lecture Time,Tutorial Time,Practical Time,Vacancy,Current Strength
+822,SUMMER INTERNSHIP - II-TXT300,,P,0.0-0.0-4.0,,SOURABH GHOSH ,sghosh08@textile.iitd.ac.in,,,,60,0
+823,SEMESTER INTERNSHIP-TXT400,,P,0.0-0.0-10.0,,SOURABH GHOSH ,sghosh08@textile.iitd.ac.in,,,,60,0
+824,INDUSTRIAL SUMMER TRAINING-TXT800,,P,0.0-0.0-0.0,,SAMRAT MUKHOPADHYAY   ,samrat@textile.iitd.ac.in,,,,30,0
+825,PRO. CON. & EC. IN MA. FI. PR.-TXV701,,P,1.0-0.0-0.0,,ASHWINI K. AGRAWAL   ,ashwini@textile.iitd.ac.in,,,,60,0
+826,ENGINEERING MECHANICS-APL100,,A,3.0-1.0-0.0,,"SITIKANTHA ROY , AMITABH BHATTACHARYA ",sroy@am.iitd.ac.in,MTh 08:00-09:30,MTThF 13:00-14:00,,500,0
+827,INTRODUCTION TO CHEMISTRY-CML101,,C,3.0-1.0-0.0,,"SAYANTAN  PARIA , CHINMOY KUMAR HAZRA , NARAYANAN D.KURUR   ",sparia@chemistry.iitd.ac.in,TWF 08:00-09:00,,,600,0
+828,ENVIRONMENTAL SCIENCE-CVL100,,C1,2.0-0.0-0.0,,GAZALA HABIB ,gazala@civil.iitd.ac.in,TWF 08:00-09:00,,,250,0
+829,ENVIRONMENTAL SCIENCE-CVL100,,C2,2.0-0.0-0.0,,BABU J.ALAPPAT ,alappat@civil.iitd.ac.in,TWF 08:00-09:00,,,0,0
+830,INTRO. TO ELECTRICAL ENGG.-ELL100L,,E1,3.0-0.0-0.0,,MANAV BHATNAGAR ,manav@ee.iitd.ac.in,TWF 10:00-11:00,,,125,0
+831,INTRO. TO ELECTRICAL ENGG.-ELL100L,,E2,3.0-0.0-0.0,,HARSHAN JAGADEESH ,jharshan@ee.iitd.ac.in,TWF 10:00-11:00,,,125,0
+832,INTRO. TO ELECTRICAL ENGG.-ELL100L,,E3,3.0-0.0-0.0,,SUBASHISH DATTA    ,subashish@ee.iitd.ac.in,TWF 10:00-11:00,,,125,0
+833,INTRO. TO ELECTRICAL ENGG.-ELL100L,,E4,3.0-0.0-0.0,,DEBANJAN BHOWMIK ,debanjan@ee.iitd.ac.in,TWF 10:00-11:00,,,125,0
+834,INTRO. TO ELECTRICAL ENGG.-ELL101,,E,3.0-1.0-0.0,,"MANAV BHATNAGAR , SUBASHISH DATTA    , HARSHAN JAGADEESH , DEBANJAN BHOWMIK ",manav@ee.iitd.ac.in,TWF 10:00-11:00,,,500,0
+835,ENGG. VISUALIZATION & COMM.-MCP100,,P,0.1-0.0-3.0,,NARESH VARMA DATLA ,datla@mech.iitd.ac.in,,,,600,0
+Department    :,,X,,,,,,,,,,
+S.No,Course Name,,Slot Name,Units,Type,Instructor,Instructor Email,Lecture Time,Tutorial Time,Practical Time,Vacancy,Current Strength
+836,CALCULUS-MTL100,,D,3.0-1.0-0.0,,"SIVANANTHAN SAMPATH , SURJEET KOUR   , EKATA SAHA , DEBDIP GANGULY , BIPLAB BASAK , AMIT PRIYADARSHI   , N.SHRAVAN KUMAR   , APARAJITA  DASGUPTA ",siva@maths.iitd.ac.in,TWF 09:00-10:00,MTThF 14:00-15:00,,1000,0
+837,INTRODUCTION TO ENGINEERING-NIN100,,P,0.0-0.0-0.0,,P.V.MADHUSUDHAN RAO   ,pvmrao@design.iitd.ac.in,,,,1000,0
+838,LANGUAGE & WRITING SKILL-NLN100,,P,0.0-0.0-2.0,,MILIND WAKANKAR ,milindw@hss.iitd.ac.in,,,,900,0
+839,ELECTROMAGNETIC WAVES & QUA.MEC.-PYL100,,A,3.0-0.0-0.0,,ROHIT NARULA ,rnarula@physics.iitd.ac.in,MTh 08:00-09:30,,,800,0
+840,ELECTROMAGNETIC WAVES & QUA.MEC.-PYL101,,A,3.0-1.0-0.0,,"VIKRANT SAXENA , BRAJESH KUMAR MANI , ROHIT NARULA , SUNIL KUMAR , SASWATA BHATTACHARYA , RAJENDRA SINGH DHAKA ",,MTh 08:00-09:30,,,800,0
