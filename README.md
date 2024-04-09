@@ -8,3 +8,5 @@ Can be used to find which Professor took which course in which year.
 Who took which course in the current semester.
 ## NSS
 Scraps the NSS hours of all the students based on their website. Need updates to handle the app properly.
+## Proxy_Login
+Self explantory
