@@ -38,7 +38,7 @@ def save_data():
     conn = sqlite3.connect("Course_Scrapper.db")
     main.to_sql("Course_Scrapper", conn, index=False, if_exists="replace")
     conn.close()
-    main.to_csv('Circuital+HUL.csv')
+    main.to_csv('Course_Scrapper.csv')
     
     
 if __name__ =='__main__':
