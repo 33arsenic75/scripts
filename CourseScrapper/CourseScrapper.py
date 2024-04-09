@@ -15,7 +15,7 @@ def process_csv(file_path):
     
 
 def generate_data(main):
-    current_directory = os.getcwd()
+    current_directory = os.path.join(os.getcwd(), 'data')
 
     # List all CSV files in the current directory
     csv_files = [file for file in os.listdir(current_directory) if file.endswith('.csv')]

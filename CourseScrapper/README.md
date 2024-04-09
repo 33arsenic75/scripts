@@ -1,34 +1,55 @@
 # Course Scrapper
-Can be used to find which professor took which course in which semester.
+
 ## Run
-```
+
+```bash
 python3 CourseScrapper.py
 ```
-It generated a .csv file and a .db file by "Course_Scrapper.csv" and "Course_Scrapper.db" 
-Note : Do not keep any other csv files in the folder other than the required
+
+It generates a .csv file and a .db file named "Course_Scrapper.csv" and "Course_Scrapper.db", respectively. Note: Ensure no other CSV files exist in the folder except the required ones.
+
 ## Adding New Semester
-Download the Courses Offered in csv format from eacads and save it in the folder, following a similar naming convention. ie 2023-24 Semester 2 would be 2302.csv
+
+Download the "Courses Offered" file in CSV format from eacads and save it in the folder data. Follow a similar naming convention, e.g., for the 2023-24 Semester 2, name the file `2302.csv`.
+
 ## Departments
-Currently it works for Circuital and HUL courses, it can easily be extended by editing CourseScrapper.py line 5, add more departments to suit yourself.
+
+Currently, it works for Circuital and HUL courses. You can extend it by editing `CourseScrapper.py`. Add more departments as needed:
+
+```python
+Departments = ["COL", "ELL", "PYL", "MTL", "HUL", "COP", "ELP", "PYP"]
 ```
-Departments = ["COL", "ELL", "PYL", "MTL", "HUL","COP","ELP","PYP"]
-```
+
 ## Results
-The name of the professor in the files generated are approximately correct, ie extra spacing before and after the name might cause trouble. This is due to poorly formatted .csv by eacads. To properly use this follow the following commands.
-Run the following command to open the database in your terminal.
-```
+
+The tool extracts professor names from poorly formatted CSV files by eacads, which may include extra spacing around the names. To use the generated files effectively, follow these commands:
+
+### Accessing the SQLite Database
+
+Run the following command to open the database in your terminal:
+
+```bash
 sqlite3 Course_Scrapper.db
 ```
-#### General Info
-```
+
+### General Information
+
+To view the table structure, execute:
+
+```sql
 PRAGMA table_info('Course_Scrapper');
 ```
-#### Course/Professor/Slot Specific
-```
+
+### Course/Professor/Slot Specific Queries
+
+To query specific information about a course, professor, or slot, use the following syntax:
+
+```sql
 SELECT Professor FROM Course_Scrapper WHERE Course_Name LIKE '%COL100%';
 ```
-Change the Course_Name to suit you.
-Replace Course_Name by Professor, or Slot.
 
-### Updates
-Feel free to update it and add features.
+Replace `Course_Name` with the desired course code. You can also query by `Professor` or `Slot`.
+
+## Updates
+
+Feel free to contribute to this tool by adding features or improving the README.md file.
