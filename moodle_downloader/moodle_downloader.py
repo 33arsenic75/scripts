@@ -4,38 +4,38 @@ import json
 import maskpass
 import argparse
 import sys
-
+import requests
+import os
+from tqdm import tqdm
 
 base_url = 'https://moodle.iitd.ac.in'
 login_url = base_url + '/login/index.php'
 course_url = base_url + '/course/view.php?id='  # Append course ID to this URL
 file_download_url = base_url + '/pluginfile.php/'  # Append file ID to this URL
 
-# Credentials
-global username 
-global password
-
-# Function to login to Moodle and return session
 def login_to_moodle(username, password):
     session = requests.Session()
     login_data = {
         'username': username,
         'password': password
     }
-    session.post(login_url, data=login_data)
-    return session
+    try:
+        response = session.post(login_url, data=login_data, timeout=5)
+        response.raise_for_status()  # Raise an exception for HTTP errors
+        print("Logged in successfully")
+        return session
+    except requests.exceptions.Timeout:
+        print("Connection timed out. Please check your internet connection.")
+        sys.exit(1)
+    except requests.exceptions.RequestException as e:
+        print("Failed to connect to Moodle:", e)
+        sys.exit(1)
+    except Exception as e:
+        print("Failed to login:", e)
+        sys.exit(1)
 
-# Function to download PDFs from a course page
-def download_pdfs(session, course_id):
-    course_page_url = course_url + str(course_id)
-    response = session.get(course_page_url)
-    soup = BeautifulSoup(response.content, 'html.parser')
-    print("hi")
-    # Find all links on the course page
-    links = soup.find_all('a', href=True)
-    
-    # Iterate through links to find PDFs and download them
-def download_pdfs(session, course_id,alldocument,n,b,e):
+
+def download_pdfs(session, course_id,alldocument,n,b,e,folder_name=None, path='./'):
     course_page_url = course_url + str(course_id)
     response = session.get(course_page_url)
     soup = BeautifulSoup(response.content, 'html.parser')
@@ -59,17 +59,32 @@ def download_pdfs(session, course_id,alldocument,n,b,e):
         pdf_links = pdf_links[:n]
     if e is not None:
         pdf_links = pdf_links[-n:]
-    for pdf_link,file_name in pdf_links:
-        file_response = session.get(pdf_link)
+    if folder_name is not None:
+        folder_path = os.path.join(path, folder_name)
+        try:
+            os.makedirs(folder_path, exist_ok=True)  # Create folder if it doesn't exist
+        except OSError as e:
+            print(f"Error creating folder: {e}")
+            exit()
+    os.chdir(folder_path)
+    total_size = 0
+    for pdf_link, file_name in pdf_links:
+        file_response = session.get(pdf_link, stream=True)
         if file_response.status_code == 200:
-            with open(file_name, 'wb') as f:
-                f.write(file_response.content)
-            if(alldocument!="all"):
-                break
-            # print("File downloaded successfully")
-        else:
-            print(f"Failed to download file {file_name}")
+            total_size += int(file_response.headers.get('content-length', 0))
 
+    # Create a tqdm progress bar with total combined file size
+    with tqdm(total=total_size, unit='B', unit_scale=True, desc='Downloading', ncols=100) as pbar:
+        for pdf_link, file_name in pdf_links:
+            file_response = session.get(pdf_link, stream=True)
+            if file_response.status_code == 200:
+                with open(file_name, 'wb') as f:
+                    for chunk in file_response.iter_content(chunk_size=1024):
+                        if chunk:  # Filter out keep-alive new chunks
+                            f.write(chunk)
+                            pbar.update(len(chunk))
+            else:
+                print(f"Failed to download file {file_name}")
 
 
 # Main function
@@ -81,12 +96,10 @@ def main():
     parser.add_argument("-n",'--numberofdocuments',type=int or str,required=False,dest="n",default=None)
     parser.add_argument("-b",'--begin', action="store_true",required=False,dest="b",default=None)
     parser.add_argument("-e",'--end', action="store_true",required=False,dest="e",default=None)
+    parser.add_argument("-f",'--folder', type=str,required=False,dest="f",default=None)
     args = parser.parse_args()
-    global alldocument
-    global n
-    global b
-    global e
     alldocument = args.alldocument
+    folder_name = args.f
     n = args.n
     b = args.b
     e = args.e
@@ -97,18 +110,22 @@ def main():
     session = login_to_moodle(username, password)
     
     # Get course ID and name (you might need to customize this)
+    course_name = input("Course Name or Id: ")
+    
     with open('course_id.json', 'r') as file:
         data = json.load(file)
-    course_name = input("Course Name or Id: ")
     try:
+        # Check if the course_name is an integer
+        course_id = int(course_name)
+    except ValueError:
+        # If course_name is not an integer, try to find it in the data dictionary
         if course_name in data:
             course_id = data[course_name]
         else:
-            course_id = int(course_name)
-        # Download PDFs from the course page
-        download_pdfs(session, course_id,alldocument,n,b,e)
-    except:
-        print("Invalid course name")
+            print("Invalid course name or ID")
+            sys.exit(1)
+    download_pdfs(session, course_id,alldocument,n,b,e,folder_name)
 
 if __name__ == "__main__":
+    global alldocument,username,password,n,b,e,folder_name
     main()
