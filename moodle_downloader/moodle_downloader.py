@@ -35,7 +35,7 @@ def login_to_moodle(username, password):
         sys.exit(1)
 
 
-def download_pdfs(session, course_id,alldocument,n,b,e,folder_name=None, path='./'):
+def download_pdfs(session, course_id,alldocument,n,b,e,folder_name=None,list_all=False,path='./'):
     course_page_url = course_url + str(course_id)
     response = session.get(course_page_url)
     soup = BeautifulSoup(response.content, 'html.parser')
@@ -59,6 +59,10 @@ def download_pdfs(session, course_id,alldocument,n,b,e,folder_name=None, path='.
         pdf_links = pdf_links[:n]
     if e is not None:
         pdf_links = pdf_links[-n:]
+    if list_all:
+        for pdf_link, file_name in pdf_links:
+            print(file_name)
+        return
     if folder_name is not None:
         folder_path = os.path.join(path, folder_name)
         try:
@@ -66,7 +70,7 @@ def download_pdfs(session, course_id,alldocument,n,b,e,folder_name=None, path='.
         except OSError as e:
             print(f"Error creating folder: {e}")
             exit()
-    os.chdir(folder_path)
+        os.chdir(folder_path)
     total_size = 0
     for pdf_link, file_name in pdf_links:
         file_response = session.get(pdf_link, stream=True)
@@ -96,9 +100,11 @@ def main():
     parser.add_argument("-n",'--numberofdocuments',type=int or str,required=False,dest="n",default=None)
     parser.add_argument("-b",'--begin', action="store_true",required=False,dest="b",default=None)
     parser.add_argument("-e",'--end', action="store_true",required=False,dest="e",default=None)
+    parser.add_argument("-show",'--listnames', action="store_true",required=False,dest="u",default=None)
     parser.add_argument("-f",'--folder', type=str,required=False,dest="f",default=None)
     args = parser.parse_args()
     alldocument = args.alldocument
+    list_all = args.u
     folder_name = args.f
     n = args.n
     b = args.b
@@ -124,8 +130,8 @@ def main():
         else:
             print("Invalid course name or ID")
             sys.exit(1)
-    download_pdfs(session, course_id,alldocument,n,b,e,folder_name)
+    download_pdfs(session, course_id,alldocument,n,b,e,folder_name,list_all=list_all)
 
 if __name__ == "__main__":
-    global alldocument,username,password,n,b,e,folder_name
+    global alldocument,username,password,n,b,e,folder_name,list_all
     main()
