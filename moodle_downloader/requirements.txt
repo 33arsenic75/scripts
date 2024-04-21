@@ -1,0 +1,9 @@
+requests
+BeautifulSoup
+json
+maskpass
+argparse
+sys
+requests
+os
+tqdm
