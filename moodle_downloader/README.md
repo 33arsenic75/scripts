@@ -50,7 +50,7 @@ python moodle_downloader.py -show
 python moodle_downloader.py -f "Course Materials"
 ```
 
-### Trust?
+## Trust?
 
 _can you be trusted? What if you are stealing my passwords?_
 
