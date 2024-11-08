@@ -3,7 +3,7 @@
 ## Run
 
 ```bash
-python3 CourseScrapper.py
+python3 course_scrapper.py
 ```
 
 It generates a .csv file and a .db file named "Course_Scrapper.csv" and "Course_Scrapper.db", respectively. Note: Ensure no other CSV files exist in the folder except the required ones.
