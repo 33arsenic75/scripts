@@ -2,7 +2,7 @@ import pandas as pd
 import sqlite3
 import os
 main = pd.DataFrame()
-Departments = ["COL", "ELL", "PYL", "MTL", "HUL","COP","ELP","PYP"]
+Departments = ["COL", "ELL", "PYL", "MTL", "HUL","COP","ELP","PYP","CVL"]
 def process_csv(file_path):
     global main
     global Departments
